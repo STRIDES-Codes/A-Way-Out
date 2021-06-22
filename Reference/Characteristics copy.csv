@@ -1,0 +1,1916 @@
+Characteristics of COVID-19-associated Hospitalizations from the COVID-NET Network (data downloaded on 6/22/2020)Centers for Disease Control and Prevention
+Primary Strata,Primary Strata Name,Secondary Strata,Secondary Strata Name,Count,Percent
+Age,18-49 yr,Sex,Male,4169,51.3
+Age,18-49 yr,Sex,Female,3952,48.7
+Age,18-49 yr,Race/Ethnicity,White,1118,16.6
+Age,18-49 yr,Race/Ethnicity,Black,1954,28.9
+Age,18-49 yr,Race/Ethnicity,Hispanic/Latino,2682,39.7
+Age,18-49 yr,Race/Ethnicity,Asian/Pacific Islander,355,5.3
+Age,18-49 yr,Race/Ethnicity,American Indian/Alaska Native,167,2.5
+Age,18-49 yr,Race/Ethnicity,Other,1001,14.8
+Age,18-49 yr,BIPAP/CPAP,Yes       ,140,6.9
+Age,18-49 yr,BIPAP/CPAP,No        ,1895,93.1
+Age,18-49 yr,In-hospital death,Yes       ,41,2.0
+Age,18-49 yr,In-hospital death,No        ,1995,98.0
+Age,18-49 yr,HFNC,Yes       ,285,14.0
+Age,18-49 yr,HFNC,No        ,1749,86.0
+Age,18-49 yr,Intensive care unit,Yes       ,485,23.8
+Age,18-49 yr,Intensive care unit,No        ,1551,76.2
+Age,18-49 yr,Mechanical ventilation,Yes       ,236,11.6
+Age,18-49 yr,Mechanical ventilation,No        ,1797,88.4
+Age,18-49 yr,RRT,Yes       ,70,3.4
+Age,18-49 yr,RRT,No        ,1964,96.6
+Age,18-49 yr,Vasopressors,Yes       ,191,9.4
+Age,18-49 yr,Vasopressors,No        ,1844,90.6
+Age,18-49 yr,Blood disorder/Hemoglobinopathy,Yes       ,36,1.6
+Age,18-49 yr,Blood disorder/Hemoglobinopathy,No        ,2154,98.4
+Age,18-49 yr,CLD,Yes       ,170,7.7
+Age,18-49 yr,CLD,No        ,2026,92.3
+Age,18-49 yr,Asthma,Yes       ,297,13.5
+Age,18-49 yr,Asthma,No        ,1899,86.5
+Age,18-49 yr,COPD/emphysema,Yes       ,19,0.9
+Age,18-49 yr,COPD/emphysema,No        ,2177,99.1
+Age,18-49 yr,Obstructive sleep apnea,Yes       ,134,6.1
+Age,18-49 yr,Obstructive sleep apnea,No        ,2062,93.9
+Age,18-49 yr,CMD,Yes       ,585,26.6
+Age,18-49 yr,CMD,No        ,1613,73.4
+Age,18-49 yr,Diabetes,Yes       ,497,22.6
+Age,18-49 yr,Diabetes,No        ,1701,77.4
+Age,18-49 yr,Thyroid dysfunction,Yes       ,103,4.7
+Age,18-49 yr,Thyroid dysfunction,No        ,2095,95.3
+Age,18-49 yr,CVD,Yes       ,163,7.4
+Age,18-49 yr,CVD,No        ,2033,92.6
+Age,18-49 yr,Atrial fibrillation,Yes       ,16,0.7
+Age,18-49 yr,Atrial fibrillation,No        ,2180,99.3
+Age,18-49 yr,Coronary artery disease,Yes       ,27,1.2
+Age,18-49 yr,Coronary artery disease,No        ,2169,98.8
+Age,18-49 yr,Heart failure,Yes       ,48,2.2
+Age,18-49 yr,Heart failure,No        ,2148,97.8
+Age,18-49 yr,Stroke,Yes       ,29,1.3
+Age,18-49 yr,Stroke,No        ,2167,98.7
+Age,18-49 yr,Hypertension,Yes       ,552,25.1
+Age,18-49 yr,Hypertension,No        ,1649,74.9
+Age,18-49 yr,Immunocompromised condition,Yes       ,134,6.1
+Age,18-49 yr,Immunocompromised condition,No        ,2061,93.9
+Age,18-49 yr,AIDS/HIV,Yes       ,17,0.8
+Age,18-49 yr,AIDS/HIV,No        ,2178,99.2
+Age,18-49 yr,Liver disease,Yes       ,78,3.6
+Age,18-49 yr,Liver disease,No        ,2115,96.4
+Age,18-49 yr,Neurologic,Yes       ,174,7.9
+Age,18-49 yr,Neurologic,No        ,2022,92.1
+Age,18-49 yr,Dementia/Alzheimer's disease,Yes       ,5,0.2
+Age,18-49 yr,Dementia/Alzheimer's disease,No        ,2191,99.8
+Age,18-49 yr,Obesity,Yes       ,1166,62.7
+Age,18-49 yr,Obesity,No        ,694,37.3
+Age,18-49 yr,Renal disease,Yes       ,121,5.5
+Age,18-49 yr,Renal disease,No        ,2075,94.5
+Age,18-49 yr,Chronic kidney disease,Yes       ,119,5.4
+Age,18-49 yr,Chronic kidney disease,No        ,2077,94.6
+Age,18-49 yr,Rheumatologic/Autoimmune,Yes       ,27,1.2
+Age,18-49 yr,Rheumatologic/Autoimmune,No        ,2164,98.8
+Age,18-49 yr,Tobacco use,current,197,9.0
+Age,18-49 yr,Tobacco use,former,255,11.6
+Age,18-49 yr,Tobacco use,never,1741,79.4
+Age,18-49 yr,Abdominal Pain,Yes       ,271,12.1
+Age,18-49 yr,Abdominal Pain,No        ,1965,87.9
+Age,18-49 yr,Altered mental status/confusion,Yes       ,63,2.8
+Age,18-49 yr,Altered mental status/confusion,No        ,2173,97.2
+Age,18-49 yr,Anosmia/decreased smell,Yes       ,145,6.5
+Age,18-49 yr,Anosmia/decreased smell,No        ,2091,93.5
+Age,18-49 yr,Chest pain,Yes       ,451,20.2
+Age,18-49 yr,Chest pain,No        ,1785,79.8
+Age,18-49 yr,Congested/runny nose,Yes       ,292,13.1
+Age,18-49 yr,Congested/runny nose,No        ,1944,86.9
+Age,18-49 yr,Conjunctivitis,Yes       ,7,0.3
+Age,18-49 yr,Conjunctivitis,No        ,2229,99.7
+Age,18-49 yr,Cough,Yes       ,1595,71.3
+Age,18-49 yr,Cough,No        ,641,28.7
+Age,18-49 yr,Diarrhea,Yes       ,551,24.6
+Age,18-49 yr,Diarrhea,No        ,1685,75.4
+Age,18-49 yr,Dysgeusia/decreased taste,Yes       ,147,6.6
+Age,18-49 yr,Dysgeusia/decreased taste,No        ,2089,93.4
+Age,18-49 yr,Fever/chills,Yes       ,1592,71.2
+Age,18-49 yr,Fever/chills,No        ,644,28.8
+Age,18-49 yr,Headache,Yes       ,477,21.3
+Age,18-49 yr,Headache,No        ,1759,78.7
+Age,18-49 yr,Hemoptysis/bloody sputum,Yes       ,47,2.1
+Age,18-49 yr,Hemoptysis/bloody sputum,No        ,2189,97.9
+Age,18-49 yr,Muscle aches/myalgias,Yes       ,760,34.0
+Age,18-49 yr,Muscle aches/myalgias,No        ,1476,66.0
+Age,18-49 yr,Nausea/vomiting,Yes       ,663,29.7
+Age,18-49 yr,Nausea/vomiting,No        ,1573,70.3
+Age,18-49 yr,Rash,Yes       ,6,0.3
+Age,18-49 yr,Rash,No        ,2230,99.7
+Age,18-49 yr,Seizure,Yes       ,11,0.5
+Age,18-49 yr,Seizure,No        ,2225,99.5
+Age,18-49 yr,Shortness of breath,Yes       ,1493,66.8
+Age,18-49 yr,Shortness of breath,No        ,743,33.2
+Age,18-49 yr,Sore throat,Yes       ,315,14.1
+Age,18-49 yr,Sore throat,No        ,1921,85.9
+Age,18-49 yr,Wheezing,Yes       ,88,3.9
+Age,18-49 yr,Wheezing,No        ,2148,96.1
+Age,18-49 yr,Acute encephalopahty/encephalitis,Yes       ,54,2.7
+Age,18-49 yr,Acute encephalopahty/encephalitis,No        ,1977,97.3
+Age,18-49 yr,Acute myocardial infarction,Yes       ,13,0.6
+Age,18-49 yr,Acute myocardial infarction,No        ,2019,99.4
+Age,18-49 yr,Acute myocarditis,Yes       ,,
+Age,18-49 yr,Acute myocarditis,No        ,2032,100.0
+Age,18-49 yr,Acute renal failure/acute kidney injury,Yes       ,169,8.3
+Age,18-49 yr,Acute renal failure/acute kidney injury,No        ,1863,91.7
+Age,18-49 yr,Acute respiratory distress syndrome,Yes       ,129,6.3
+Age,18-49 yr,Acute respiratory distress syndrome,No        ,1903,93.7
+Age,18-49 yr,Acute respiratory failure,Yes       ,712,35.0
+Age,18-49 yr,Acute respiratory failure,No        ,1320,65.0
+Age,18-49 yr,Asthma exacerbation,Yes       ,44,2.2
+Age,18-49 yr,Asthma exacerbation,No        ,1987,97.8
+Age,18-49 yr,Bacteremia,Yes       ,27,1.3
+Age,18-49 yr,Bacteremia,No        ,2005,98.7
+Age,18-49 yr,Bronchiolitis,Yes       ,1,0.0
+Age,18-49 yr,Bronchiolitis,No        ,2030,100.0
+Age,18-49 yr,Bronchitis,Yes       ,16,0.8
+Age,18-49 yr,Bronchitis,No        ,2016,99.2
+Age,18-49 yr,Congestive heart failure,Yes       ,14,0.7
+Age,18-49 yr,Congestive heart failure,No        ,2019,99.3
+Age,18-49 yr,COPD exacerbation,Yes       ,2,0.1
+Age,18-49 yr,COPD exacerbation,No        ,2031,99.9
+Age,18-49 yr,Diabetic ketoacidosis,Yes       ,32,1.6
+Age,18-49 yr,Diabetic ketoacidosis,No        ,2000,98.4
+Age,18-49 yr,Disseminated intravascular coagulation,Yes       ,,
+Age,18-49 yr,Disseminated intravascular coagulation,No        ,2032,100.0
+Age,18-49 yr,Guillan-Barre syndrome,Yes       ,1,0.0
+Age,18-49 yr,Guillan-Barre syndrome,No        ,2031,100.0
+Age,18-49 yr,Hemophagocytic syndrome,Yes       ,,
+Age,18-49 yr,Hemophagocytic syndrome,No        ,2033,100.0
+Age,18-49 yr,Invasive pulmonary aspergillosis,Yes       ,,
+Age,18-49 yr,Invasive pulmonary aspergillosis,No        ,2033,100.0
+Age,18-49 yr,Reyes Syndrome,Yes       ,,
+Age,18-49 yr,Reyes Syndrome,No        ,2032,100.0
+Age,18-49 yr,Rhabdomyolysis,Yes       ,17,0.8
+Age,18-49 yr,Rhabdomyolysis,No        ,2016,99.2
+Age,18-49 yr,Pneumonia,Yes       ,1034,50.9
+Age,18-49 yr,Pneumonia,No        ,998,49.1
+Age,18-49 yr,Seizures,Yes       ,12,0.6
+Age,18-49 yr,Seizures,No        ,2019,99.4
+Age,18-49 yr,Sepsis,Yes       ,320,15.8
+Age,18-49 yr,Sepsis,No        ,1707,84.2
+Age,18-49 yr,Stroke/CVA,Yes       ,6,0.3
+Age,18-49 yr,Stroke/CVA,No        ,2027,99.7
+Age,50-64 yr,Sex,Male,5051,57.0
+Age,50-64 yr,Sex,Female,3807,43.0
+Age,50-64 yr,Race/Ethnicity,White,2109,27.8
+Age,50-64 yr,Race/Ethnicity,Black,2809,37.1
+Age,50-64 yr,Race/Ethnicity,Hispanic/Latino,1592,21.0
+Age,50-64 yr,Race/Ethnicity,Asian/Pacific Islander,374,4.9
+Age,50-64 yr,Race/Ethnicity,American Indian/Alaska Native,150,2.0
+Age,50-64 yr,Race/Ethnicity,Other,1068,14.1
+Age,50-64 yr,BIPAP/CPAP,Yes       ,231,11.9
+Age,50-64 yr,BIPAP/CPAP,No        ,1708,88.1
+Age,50-64 yr,In-hospital death,Yes       ,189,9.7
+Age,50-64 yr,In-hospital death,No        ,1757,90.3
+Age,50-64 yr,HFNC,Yes       ,372,19.2
+Age,50-64 yr,HFNC,No        ,1567,80.8
+Age,50-64 yr,Intensive care unit,Yes       ,686,35.4
+Age,50-64 yr,Intensive care unit,No        ,1254,64.6
+Age,50-64 yr,Mechanical ventilation,Yes       ,408,21.0
+Age,50-64 yr,Mechanical ventilation,No        ,1531,79.0
+Age,50-64 yr,RRT,Yes       ,122,6.3
+Age,50-64 yr,RRT,No        ,1818,93.7
+Age,50-64 yr,Vasopressors,Yes       ,337,17.4
+Age,50-64 yr,Vasopressors,No        ,1600,82.6
+Age,50-64 yr,Blood disorder/Hemoglobinopathy,Yes       ,63,3.0
+Age,50-64 yr,Blood disorder/Hemoglobinopathy,No        ,2049,97.0
+Age,50-64 yr,CLD,Yes       ,443,21.0
+Age,50-64 yr,CLD,No        ,1670,79.0
+Age,50-64 yr,Asthma,Yes       ,295,14.0
+Age,50-64 yr,Asthma,No        ,1818,86.0
+Age,50-64 yr,COPD/emphysema,Yes       ,177,8.4
+Age,50-64 yr,COPD/emphysema,No        ,1936,91.6
+Age,50-64 yr,Obstructive sleep apnea,Yes       ,285,13.5
+Age,50-64 yr,Obstructive sleep apnea,No        ,1828,86.5
+Age,50-64 yr,CMD,Yes       ,925,43.7
+Age,50-64 yr,CMD,No        ,1192,56.3
+Age,50-64 yr,Diabetes,Yes       ,797,37.6
+Age,50-64 yr,Diabetes,No        ,1320,62.4
+Age,50-64 yr,Thyroid dysfunction,Yes       ,185,8.7
+Age,50-64 yr,Thyroid dysfunction,No        ,1932,91.3
+Age,50-64 yr,CVD,Yes       ,540,25.5
+Age,50-64 yr,CVD,No        ,1578,74.5
+Age,50-64 yr,Atrial fibrillation,Yes       ,89,4.2
+Age,50-64 yr,Atrial fibrillation,No        ,2029,95.8
+Age,50-64 yr,Coronary artery disease,Yes       ,187,8.8
+Age,50-64 yr,Coronary artery disease,No        ,1931,91.2
+Age,50-64 yr,Heart failure,Yes       ,170,8.0
+Age,50-64 yr,Heart failure,No        ,1948,92.0
+Age,50-64 yr,Stroke,Yes       ,126,5.9
+Age,50-64 yr,Stroke,No        ,1992,94.1
+Age,50-64 yr,Hypertension,Yes       ,1247,58.7
+Age,50-64 yr,Hypertension,No        ,877,41.3
+Age,50-64 yr,Immunocompromised condition,Yes       ,224,10.6
+Age,50-64 yr,Immunocompromised condition,No        ,1890,89.4
+Age,50-64 yr,AIDS/HIV,Yes       ,26,1.2
+Age,50-64 yr,AIDS/HIV,No        ,2088,98.8
+Age,50-64 yr,Liver disease,Yes       ,131,6.2
+Age,50-64 yr,Liver disease,No        ,1982,93.8
+Age,50-64 yr,Neurologic,Yes       ,347,16.4
+Age,50-64 yr,Neurologic,No        ,1768,83.6
+Age,50-64 yr,Dementia/Alzheimer's disease,Yes       ,56,2.6
+Age,50-64 yr,Dementia/Alzheimer's disease,No        ,2059,97.4
+Age,50-64 yr,Obesity,Yes       ,1140,56.1
+Age,50-64 yr,Obesity,No        ,891,43.9
+Age,50-64 yr,Renal disease,Yes       ,243,11.5
+Age,50-64 yr,Renal disease,No        ,1872,88.5
+Age,50-64 yr,Chronic kidney disease,Yes       ,236,11.2
+Age,50-64 yr,Chronic kidney disease,No        ,1879,88.8
+Age,50-64 yr,Rheumatologic/Autoimmune,Yes       ,56,2.7
+Age,50-64 yr,Rheumatologic/Autoimmune,No        ,2055,97.3
+Age,50-64 yr,Tobacco use,current,199,9.4
+Age,50-64 yr,Tobacco use,former,466,22.0
+Age,50-64 yr,Tobacco use,never,1454,68.6
+Age,50-64 yr,Abdominal Pain,Yes       ,216,10.0
+Age,50-64 yr,Abdominal Pain,No        ,1951,90.0
+Age,50-64 yr,Altered mental status/confusion,Yes       ,159,7.3
+Age,50-64 yr,Altered mental status/confusion,No        ,2008,92.7
+Age,50-64 yr,Anosmia/decreased smell,Yes       ,96,4.4
+Age,50-64 yr,Anosmia/decreased smell,No        ,2071,95.6
+Age,50-64 yr,Chest pain,Yes       ,361,16.7
+Age,50-64 yr,Chest pain,No        ,1806,83.3
+Age,50-64 yr,Congested/runny nose,Yes       ,261,12.0
+Age,50-64 yr,Congested/runny nose,No        ,1906,88.0
+Age,50-64 yr,Conjunctivitis,Yes       ,3,0.1
+Age,50-64 yr,Conjunctivitis,No        ,2164,99.9
+Age,50-64 yr,Cough,Yes       ,1594,73.6
+Age,50-64 yr,Cough,No        ,573,26.4
+Age,50-64 yr,Diarrhea,Yes       ,570,26.3
+Age,50-64 yr,Diarrhea,No        ,1597,73.7
+Age,50-64 yr,Dysgeusia/decreased taste,Yes       ,119,5.5
+Age,50-64 yr,Dysgeusia/decreased taste,No        ,2048,94.5
+Age,50-64 yr,Fever/chills,Yes       ,1568,72.4
+Age,50-64 yr,Fever/chills,No        ,599,27.6
+Age,50-64 yr,Headache,Yes       ,368,17.0
+Age,50-64 yr,Headache,No        ,1799,83.0
+Age,50-64 yr,Hemoptysis/bloody sputum,Yes       ,35,1.6
+Age,50-64 yr,Hemoptysis/bloody sputum,No        ,2132,98.4
+Age,50-64 yr,Muscle aches/myalgias,Yes       ,669,30.9
+Age,50-64 yr,Muscle aches/myalgias,No        ,1498,69.1
+Age,50-64 yr,Nausea/vomiting,Yes       ,541,25.0
+Age,50-64 yr,Nausea/vomiting,No        ,1626,75.0
+Age,50-64 yr,Rash,Yes       ,11,0.5
+Age,50-64 yr,Rash,No        ,2156,99.5
+Age,50-64 yr,Seizure,Yes       ,8,0.4
+Age,50-64 yr,Seizure,No        ,2159,99.6
+Age,50-64 yr,Shortness of breath,Yes       ,1565,72.2
+Age,50-64 yr,Shortness of breath,No        ,602,27.8
+Age,50-64 yr,Sore throat,Yes       ,237,10.9
+Age,50-64 yr,Sore throat,No        ,1930,89.1
+Age,50-64 yr,Wheezing,Yes       ,100,4.6
+Age,50-64 yr,Wheezing,No        ,2067,95.4
+Age,50-64 yr,Acute encephalopahty/encephalitis,Yes       ,108,5.6
+Age,50-64 yr,Acute encephalopahty/encephalitis,No        ,1828,94.4
+Age,50-64 yr,Acute myocardial infarction,Yes       ,21,1.1
+Age,50-64 yr,Acute myocardial infarction,No        ,1916,98.9
+Age,50-64 yr,Acute myocarditis,Yes       ,3,0.2
+Age,50-64 yr,Acute myocarditis,No        ,1933,99.8
+Age,50-64 yr,Acute renal failure/acute kidney injury,Yes       ,356,18.4
+Age,50-64 yr,Acute renal failure/acute kidney injury,No        ,1581,81.6
+Age,50-64 yr,Acute respiratory distress syndrome,Yes       ,209,10.8
+Age,50-64 yr,Acute respiratory distress syndrome,No        ,1727,89.2
+Age,50-64 yr,Acute respiratory failure,Yes       ,872,45.0
+Age,50-64 yr,Acute respiratory failure,No        ,1066,55.0
+Age,50-64 yr,Asthma exacerbation,Yes       ,30,1.5
+Age,50-64 yr,Asthma exacerbation,No        ,1907,98.5
+Age,50-64 yr,Bacteremia,Yes       ,32,1.7
+Age,50-64 yr,Bacteremia,No        ,1905,98.3
+Age,50-64 yr,Bronchiolitis,Yes       ,2,0.1
+Age,50-64 yr,Bronchiolitis,No        ,1935,99.9
+Age,50-64 yr,Bronchitis,Yes       ,16,0.8
+Age,50-64 yr,Bronchitis,No        ,1921,99.2
+Age,50-64 yr,Congestive heart failure,Yes       ,28,1.4
+Age,50-64 yr,Congestive heart failure,No        ,1909,98.6
+Age,50-64 yr,COPD exacerbation,Yes       ,27,1.4
+Age,50-64 yr,COPD exacerbation,No        ,1910,98.6
+Age,50-64 yr,Diabetic ketoacidosis,Yes       ,13,0.7
+Age,50-64 yr,Diabetic ketoacidosis,No        ,1924,99.3
+Age,50-64 yr,Disseminated intravascular coagulation,Yes       ,5,0.3
+Age,50-64 yr,Disseminated intravascular coagulation,No        ,1932,99.7
+Age,50-64 yr,Guillan-Barre syndrome,Yes       ,1,0.1
+Age,50-64 yr,Guillan-Barre syndrome,No        ,1936,99.9
+Age,50-64 yr,Hemophagocytic syndrome,Yes       ,,
+Age,50-64 yr,Hemophagocytic syndrome,No        ,1937,100.0
+Age,50-64 yr,Invasive pulmonary aspergillosis,Yes       ,,
+Age,50-64 yr,Invasive pulmonary aspergillosis,No        ,1936,100.0
+Age,50-64 yr,Reyes Syndrome,Yes       ,,
+Age,50-64 yr,Reyes Syndrome,No        ,1937,100.0
+Age,50-64 yr,Rhabdomyolysis,Yes       ,14,0.7
+Age,50-64 yr,Rhabdomyolysis,No        ,1921,99.3
+Age,50-64 yr,Pneumonia,Yes       ,1114,57.5
+Age,50-64 yr,Pneumonia,No        ,823,42.5
+Age,50-64 yr,Seizures,Yes       ,12,0.6
+Age,50-64 yr,Seizures,No        ,1923,99.4
+Age,50-64 yr,Sepsis,Yes       ,366,18.9
+Age,50-64 yr,Sepsis,No        ,1569,81.1
+Age,50-64 yr,Stroke/CVA,Yes       ,14,0.7
+Age,50-64 yr,Stroke/CVA,No        ,1922,99.3
+Age,65+ yr,Sex,Male,6531,48.9
+Age,65+ yr,Sex,Female,6820,51.1
+Age,65+ yr,Race/Ethnicity,White,5749,48.8
+Age,65+ yr,Race/Ethnicity,Black,3699,31.4
+Age,65+ yr,Race/Ethnicity,Hispanic/Latino,1027,8.7
+Age,65+ yr,Race/Ethnicity,Asian/Pacific Islander,501,4.2
+Age,65+ yr,Race/Ethnicity,American Indian/Alaska Native,110,0.9
+Age,65+ yr,Race/Ethnicity,Other,1316,11.2
+Age,65+ yr,BIPAP/CPAP,Yes       ,343,11.9
+Age,65+ yr,BIPAP/CPAP,No        ,2535,88.1
+Age,65+ yr,In-hospital death,Yes       ,799,27.8
+Age,65+ yr,In-hospital death,No        ,2079,72.2
+Age,65+ yr,HFNC,Yes       ,623,21.7
+Age,65+ yr,HFNC,No        ,2254,78.3
+Age,65+ yr,Intensive care unit,Yes       ,977,33.9
+Age,65+ yr,Intensive care unit,No        ,1901,66.1
+Age,65+ yr,Mechanical ventilation,Yes       ,592,20.6
+Age,65+ yr,Mechanical ventilation,No        ,2286,79.4
+Age,65+ yr,RRT,Yes       ,161,5.6
+Age,65+ yr,RRT,No        ,2716,94.4
+Age,65+ yr,Vasopressors,Yes       ,541,18.8
+Age,65+ yr,Vasopressors,No        ,2330,81.2
+Age,65+ yr,Blood disorder/Hemoglobinopathy,Yes       ,90,2.9
+Age,65+ yr,Blood disorder/Hemoglobinopathy,No        ,3005,97.1
+Age,65+ yr,CLD,Yes       ,866,27.9
+Age,65+ yr,CLD,No        ,2239,72.1
+Age,65+ yr,Asthma,Yes       ,334,10.8
+Age,65+ yr,Asthma,No        ,2771,89.2
+Age,65+ yr,COPD/emphysema,Yes       ,543,17.5
+Age,65+ yr,COPD/emphysema,No        ,2562,82.5
+Age,65+ yr,Obstructive sleep apnea,Yes       ,367,11.8
+Age,65+ yr,Obstructive sleep apnea,No        ,2738,88.2
+Age,65+ yr,CMD,Yes       ,1600,51.5
+Age,65+ yr,CMD,No        ,1507,48.5
+Age,65+ yr,Diabetes,Yes       ,1255,40.4
+Age,65+ yr,Diabetes,No        ,1852,59.6
+Age,65+ yr,Thyroid dysfunction,Yes       ,554,17.8
+Age,65+ yr,Thyroid dysfunction,No        ,2553,82.2
+Age,65+ yr,CVD,Yes       ,1724,55.5
+Age,65+ yr,CVD,No        ,1380,44.5
+Age,65+ yr,Atrial fibrillation,Yes       ,567,18.3
+Age,65+ yr,Atrial fibrillation,No        ,2537,81.7
+Age,65+ yr,Coronary artery disease,Yes       ,733,23.6
+Age,65+ yr,Coronary artery disease,No        ,2371,76.4
+Age,65+ yr,Heart failure,Yes       ,560,18.0
+Age,65+ yr,Heart failure,No        ,2544,82.0
+Age,65+ yr,Stroke,Yes       ,434,14.0
+Age,65+ yr,Stroke,No        ,2670,86.0
+Age,65+ yr,Hypertension,Yes       ,2350,75.4
+Age,65+ yr,Hypertension,No        ,765,24.6
+Age,65+ yr,Immunocompromised condition,Yes       ,353,11.4
+Age,65+ yr,Immunocompromised condition,No        ,2745,88.6
+Age,65+ yr,AIDS/HIV,Yes       ,11,0.4
+Age,65+ yr,AIDS/HIV,No        ,3087,99.6
+Age,65+ yr,Liver disease,Yes       ,167,5.4
+Age,65+ yr,Liver disease,No        ,2930,94.6
+Age,65+ yr,Neurologic,Yes       ,1209,39.0
+Age,65+ yr,Neurologic,No        ,1894,61.0
+Age,65+ yr,Dementia/Alzheimer's disease,Yes       ,807,26.0
+Age,65+ yr,Dementia/Alzheimer's disease,No        ,2296,74.0
+Age,65+ yr,Obesity,Yes       ,1065,36.3
+Age,65+ yr,Obesity,No        ,1871,63.7
+Age,65+ yr,Renal disease,Yes       ,822,26.5
+Age,65+ yr,Renal disease,No        ,2278,73.5
+Age,65+ yr,Chronic kidney disease,Yes       ,818,26.4
+Age,65+ yr,Chronic kidney disease,No        ,2282,73.6
+Age,65+ yr,Rheumatologic/Autoimmune,Yes       ,137,4.4
+Age,65+ yr,Rheumatologic/Autoimmune,No        ,2958,95.6
+Age,65+ yr,Tobacco use,current,134,4.3
+Age,65+ yr,Tobacco use,former,1089,35.1
+Age,65+ yr,Tobacco use,never,1880,60.6
+Age,65+ yr,Abdominal Pain,Yes       ,223,7.0
+Age,65+ yr,Abdominal Pain,No        ,2962,93.0
+Age,65+ yr,Altered mental status/confusion,Yes       ,696,21.9
+Age,65+ yr,Altered mental status/confusion,No        ,2489,78.1
+Age,65+ yr,Anosmia/decreased smell,Yes       ,57,1.8
+Age,65+ yr,Anosmia/decreased smell,No        ,3128,98.2
+Age,65+ yr,Chest pain,Yes       ,227,7.1
+Age,65+ yr,Chest pain,No        ,2958,92.9
+Age,65+ yr,Congested/runny nose,Yes       ,247,7.8
+Age,65+ yr,Congested/runny nose,No        ,2938,92.2
+Age,65+ yr,Conjunctivitis,Yes       ,4,0.1
+Age,65+ yr,Conjunctivitis,No        ,3181,99.9
+Age,65+ yr,Cough,Yes       ,1919,60.3
+Age,65+ yr,Cough,No        ,1266,39.7
+Age,65+ yr,Diarrhea,Yes       ,636,20.0
+Age,65+ yr,Diarrhea,No        ,2549,80.0
+Age,65+ yr,Dysgeusia/decreased taste,Yes       ,82,2.6
+Age,65+ yr,Dysgeusia/decreased taste,No        ,3103,97.4
+Age,65+ yr,Fever/chills,Yes       ,1908,59.9
+Age,65+ yr,Fever/chills,No        ,1277,40.1
+Age,65+ yr,Headache,Yes       ,258,8.1
+Age,65+ yr,Headache,No        ,2927,91.9
+Age,65+ yr,Hemoptysis/bloody sputum,Yes       ,25,0.8
+Age,65+ yr,Hemoptysis/bloody sputum,No        ,3160,99.2
+Age,65+ yr,Muscle aches/myalgias,Yes       ,507,15.9
+Age,65+ yr,Muscle aches/myalgias,No        ,2678,84.1
+Age,65+ yr,Nausea/vomiting,Yes       ,546,17.1
+Age,65+ yr,Nausea/vomiting,No        ,2639,82.9
+Age,65+ yr,Rash,Yes       ,16,0.5
+Age,65+ yr,Rash,No        ,3169,99.5
+Age,65+ yr,Seizure,Yes       ,11,0.3
+Age,65+ yr,Seizure,No        ,3174,99.7
+Age,65+ yr,Shortness of breath,Yes       ,1908,59.9
+Age,65+ yr,Shortness of breath,No        ,1277,40.1
+Age,65+ yr,Sore throat,Yes       ,197,6.2
+Age,65+ yr,Sore throat,No        ,2988,93.8
+Age,65+ yr,Wheezing,Yes       ,121,3.8
+Age,65+ yr,Wheezing,No        ,3064,96.2
+Age,65+ yr,Acute encephalopahty/encephalitis,Yes       ,356,12.4
+Age,65+ yr,Acute encephalopahty/encephalitis,No        ,2515,87.6
+Age,65+ yr,Acute myocardial infarction,Yes       ,65,2.3
+Age,65+ yr,Acute myocardial infarction,No        ,2808,97.7
+Age,65+ yr,Acute myocarditis,Yes       ,4,0.1
+Age,65+ yr,Acute myocarditis,No        ,2866,99.9
+Age,65+ yr,Acute renal failure/acute kidney injury,Yes       ,782,27.2
+Age,65+ yr,Acute renal failure/acute kidney injury,No        ,2093,72.8
+Age,65+ yr,Acute respiratory distress syndrome,Yes       ,282,9.8
+Age,65+ yr,Acute respiratory distress syndrome,No        ,2593,90.2
+Age,65+ yr,Acute respiratory failure,Yes       ,1328,46.2
+Age,65+ yr,Acute respiratory failure,No        ,1548,53.8
+Age,65+ yr,Asthma exacerbation,Yes       ,23,0.8
+Age,65+ yr,Asthma exacerbation,No        ,2851,99.2
+Age,65+ yr,Bacteremia,Yes       ,46,1.6
+Age,65+ yr,Bacteremia,No        ,2826,98.4
+Age,65+ yr,Bronchiolitis,Yes       ,1,0.0
+Age,65+ yr,Bronchiolitis,No        ,2873,100.0
+Age,65+ yr,Bronchitis,Yes       ,20,0.7
+Age,65+ yr,Bronchitis,No        ,2854,99.3
+Age,65+ yr,Congestive heart failure,Yes       ,80,2.8
+Age,65+ yr,Congestive heart failure,No        ,2793,97.2
+Age,65+ yr,COPD exacerbation,Yes       ,76,2.6
+Age,65+ yr,COPD exacerbation,No        ,2799,97.4
+Age,65+ yr,Diabetic ketoacidosis,Yes       ,11,0.4
+Age,65+ yr,Diabetic ketoacidosis,No        ,2863,99.6
+Age,65+ yr,Disseminated intravascular coagulation,Yes       ,6,0.2
+Age,65+ yr,Disseminated intravascular coagulation,No        ,2868,99.8
+Age,65+ yr,Guillan-Barre syndrome,Yes       ,1,0.0
+Age,65+ yr,Guillan-Barre syndrome,No        ,2871,100.0
+Age,65+ yr,Hemophagocytic syndrome,Yes       ,,
+Age,65+ yr,Hemophagocytic syndrome,No        ,2874,100.0
+Age,65+ yr,Invasive pulmonary aspergillosis,Yes       ,1,0.0
+Age,65+ yr,Invasive pulmonary aspergillosis,No        ,2868,100.0
+Age,65+ yr,Reyes Syndrome,Yes       ,,
+Age,65+ yr,Reyes Syndrome,No        ,2873,100.0
+Age,65+ yr,Rhabdomyolysis,Yes       ,26,0.9
+Age,65+ yr,Rhabdomyolysis,No        ,2847,99.1
+Age,65+ yr,Pneumonia,Yes       ,1567,54.5
+Age,65+ yr,Pneumonia,No        ,1308,45.5
+Age,65+ yr,Seizures,Yes       ,21,0.7
+Age,65+ yr,Seizures,No        ,2853,99.3
+Age,65+ yr,Sepsis,Yes       ,540,18.8
+Age,65+ yr,Sepsis,No        ,2330,81.2
+Age,65+ yr,Stroke/CVA,Yes       ,31,1.1
+Age,65+ yr,Stroke/CVA,No        ,2839,98.9
+Age,Overall,Sex,Male,15751,51.9
+Age,Overall,Sex,Female,14579,48.1
+Age,Overall,Race/Ethnicity,White,8976,34.4
+Age,Overall,Race/Ethnicity,Black,8462,32.4
+Age,Overall,Race/Ethnicity,Hispanic/Latino,5301,20.3
+Age,Overall,Race/Ethnicity,Asian/Pacific Islander,1230,4.7
+Age,Overall,Race/Ethnicity,American Indian/Alaska Native,427,1.6
+Age,Overall,Race/Ethnicity,Other,3385,13.0
+Age,Overall,BIPAP/CPAP,Yes       ,714,10.4
+Age,Overall,BIPAP/CPAP,No        ,6138,89.6
+Age,Overall,In-hospital death,Yes       ,1029,15.0
+Age,Overall,In-hospital death,No        ,5831,85.0
+Age,Overall,HFNC,Yes       ,1280,18.7
+Age,Overall,HFNC,No        ,5570,81.3
+Age,Overall,Intensive care unit,Yes       ,2148,31.3
+Age,Overall,Intensive care unit,No        ,4706,68.7
+Age,Overall,Mechanical ventilation,Yes       ,1236,18.0
+Age,Overall,Mechanical ventilation,No        ,5614,82.0
+Age,Overall,RRT,Yes       ,353,5.2
+Age,Overall,RRT,No        ,6498,94.8
+Age,Overall,Vasopressors,Yes       ,1069,15.6
+Age,Overall,Vasopressors,No        ,5774,84.4
+Age,Overall,Blood disorder/Hemoglobinopathy,Yes       ,189,2.6
+Age,Overall,Blood disorder/Hemoglobinopathy,No        ,7208,97.4
+Age,Overall,CLD,Yes       ,1479,19.9
+Age,Overall,CLD,No        ,5935,80.1
+Age,Overall,Asthma,Yes       ,926,12.5
+Age,Overall,Asthma,No        ,6488,87.5
+Age,Overall,COPD/emphysema,Yes       ,739,10.0
+Age,Overall,COPD/emphysema,No        ,6675,90.0
+Age,Overall,Obstructive sleep apnea,Yes       ,786,10.6
+Age,Overall,Obstructive sleep apnea,No        ,6628,89.4
+Age,Overall,CMD,Yes       ,3110,41.9
+Age,Overall,CMD,No        ,4312,58.1
+Age,Overall,Diabetes,Yes       ,2549,34.3
+Age,Overall,Diabetes,No        ,4873,65.7
+Age,Overall,Thyroid dysfunction,Yes       ,842,11.3
+Age,Overall,Thyroid dysfunction,No        ,6580,88.7
+Age,Overall,CVD,Yes       ,2427,32.7
+Age,Overall,CVD,No        ,4991,67.3
+Age,Overall,Atrial fibrillation,Yes       ,672,9.1
+Age,Overall,Atrial fibrillation,No        ,6746,90.9
+Age,Overall,Coronary artery disease,Yes       ,947,12.8
+Age,Overall,Coronary artery disease,No        ,6471,87.2
+Age,Overall,Heart failure,Yes       ,778,10.5
+Age,Overall,Heart failure,No        ,6640,89.5
+Age,Overall,Stroke,Yes       ,589,7.9
+Age,Overall,Stroke,No        ,6829,92.1
+Age,Overall,Hypertension,Yes       ,4149,55.8
+Age,Overall,Hypertension,No        ,3291,44.2
+Age,Overall,Immunocompromised condition,Yes       ,711,9.6
+Age,Overall,Immunocompromised condition,No        ,6696,90.4
+Age,Overall,AIDS/HIV,Yes       ,54,0.7
+Age,Overall,AIDS/HIV,No        ,7353,99.3
+Age,Overall,Liver disease,Yes       ,376,5.1
+Age,Overall,Liver disease,No        ,7027,94.9
+Age,Overall,Neurologic,Yes       ,1730,23.3
+Age,Overall,Neurologic,No        ,5684,76.7
+Age,Overall,Dementia/Alzheimer's disease,Yes       ,868,11.7
+Age,Overall,Dementia/Alzheimer's disease,No        ,6546,88.3
+Age,Overall,Obesity,Yes       ,3371,49.4
+Age,Overall,Obesity,No        ,3456,50.6
+Age,Overall,Renal disease,Yes       ,1186,16.0
+Age,Overall,Renal disease,No        ,6225,84.0
+Age,Overall,Chronic kidney disease,Yes       ,1173,15.8
+Age,Overall,Chronic kidney disease,No        ,6238,84.2
+Age,Overall,Rheumatologic/Autoimmune,Yes       ,220,3.0
+Age,Overall,Rheumatologic/Autoimmune,No        ,7177,97.0
+Age,Overall,Tobacco use,current,530,7.1
+Age,Overall,Tobacco use,former,1810,24.4
+Age,Overall,Tobacco use,never,5075,68.4
+Age,Overall,Abdominal Pain,Yes       ,710,9.4
+Age,Overall,Abdominal Pain,No        ,6878,90.6
+Age,Overall,Altered mental status/confusion,Yes       ,918,12.1
+Age,Overall,Altered mental status/confusion,No        ,6670,87.9
+Age,Overall,Anosmia/decreased smell,Yes       ,298,3.9
+Age,Overall,Anosmia/decreased smell,No        ,7290,96.1
+Age,Overall,Chest pain,Yes       ,1039,13.7
+Age,Overall,Chest pain,No        ,6549,86.3
+Age,Overall,Congested/runny nose,Yes       ,800,10.5
+Age,Overall,Congested/runny nose,No        ,6788,89.5
+Age,Overall,Conjunctivitis,Yes       ,14,0.2
+Age,Overall,Conjunctivitis,No        ,7574,99.8
+Age,Overall,Cough,Yes       ,5108,67.3
+Age,Overall,Cough,No        ,2480,32.7
+Age,Overall,Diarrhea,Yes       ,1757,23.2
+Age,Overall,Diarrhea,No        ,5831,76.8
+Age,Overall,Dysgeusia/decreased taste,Yes       ,348,4.6
+Age,Overall,Dysgeusia/decreased taste,No        ,7240,95.4
+Age,Overall,Fever/chills,Yes       ,5068,66.8
+Age,Overall,Fever/chills,No        ,2520,33.2
+Age,Overall,Headache,Yes       ,1103,14.5
+Age,Overall,Headache,No        ,6485,85.5
+Age,Overall,Hemoptysis/bloody sputum,Yes       ,107,1.4
+Age,Overall,Hemoptysis/bloody sputum,No        ,7481,98.6
+Age,Overall,Muscle aches/myalgias,Yes       ,1936,25.5
+Age,Overall,Muscle aches/myalgias,No        ,5652,74.5
+Age,Overall,Nausea/vomiting,Yes       ,1750,23.1
+Age,Overall,Nausea/vomiting,No        ,5838,76.9
+Age,Overall,Rash,Yes       ,33,0.4
+Age,Overall,Rash,No        ,7555,99.6
+Age,Overall,Seizure,Yes       ,30,0.4
+Age,Overall,Seizure,No        ,7558,99.6
+Age,Overall,Shortness of breath,Yes       ,4966,65.4
+Age,Overall,Shortness of breath,No        ,2622,34.6
+Age,Overall,Sore throat,Yes       ,749,9.9
+Age,Overall,Sore throat,No        ,6839,90.1
+Age,Overall,Wheezing,Yes       ,309,4.1
+Age,Overall,Wheezing,No        ,7279,95.9
+Age,Overall,Acute encephalopahty/encephalitis,Yes       ,518,7.6
+Age,Overall,Acute encephalopahty/encephalitis,No        ,6320,92.4
+Age,Overall,Acute myocardial infarction,Yes       ,99,1.4
+Age,Overall,Acute myocardial infarction,No        ,6743,98.6
+Age,Overall,Acute myocarditis,Yes       ,7,0.1
+Age,Overall,Acute myocarditis,No        ,6831,99.9
+Age,Overall,Acute renal failure/acute kidney injury,Yes       ,1307,19.1
+Age,Overall,Acute renal failure/acute kidney injury,No        ,5537,80.9
+Age,Overall,Acute respiratory distress syndrome,Yes       ,620,9.1
+Age,Overall,Acute respiratory distress syndrome,No        ,6223,90.9
+Age,Overall,Acute respiratory failure,Yes       ,2912,42.5
+Age,Overall,Acute respiratory failure,No        ,3934,57.5
+Age,Overall,Asthma exacerbation,Yes       ,97,1.4
+Age,Overall,Asthma exacerbation,No        ,6745,98.6
+Age,Overall,Bacteremia,Yes       ,105,1.5
+Age,Overall,Bacteremia,No        ,6736,98.5
+Age,Overall,Bronchiolitis,Yes       ,4,0.1
+Age,Overall,Bronchiolitis,No        ,6838,99.9
+Age,Overall,Bronchitis,Yes       ,52,0.8
+Age,Overall,Bronchitis,No        ,6791,99.2
+Age,Overall,Congestive heart failure,Yes       ,122,1.8
+Age,Overall,Congestive heart failure,No        ,6721,98.2
+Age,Overall,COPD exacerbation,Yes       ,105,1.5
+Age,Overall,COPD exacerbation,No        ,6740,98.5
+Age,Overall,Diabetic ketoacidosis,Yes       ,56,0.8
+Age,Overall,Diabetic ketoacidosis,No        ,6787,99.2
+Age,Overall,Disseminated intravascular coagulation,Yes       ,11,0.2
+Age,Overall,Disseminated intravascular coagulation,No        ,6832,99.8
+Age,Overall,Guillan-Barre syndrome,Yes       ,3,0.0
+Age,Overall,Guillan-Barre syndrome,No        ,6838,100.0
+Age,Overall,Hemophagocytic syndrome,Yes       ,,
+Age,Overall,Hemophagocytic syndrome,No        ,6844,100.0
+Age,Overall,Invasive pulmonary aspergillosis,Yes       ,1,0.0
+Age,Overall,Invasive pulmonary aspergillosis,No        ,6837,100.0
+Age,Overall,Reyes Syndrome,Yes       ,,
+Age,Overall,Reyes Syndrome,No        ,6842,100.0
+Age,Overall,Rhabdomyolysis,Yes       ,57,0.8
+Age,Overall,Rhabdomyolysis,No        ,6784,99.2
+Age,Overall,Pneumonia,Yes       ,3715,54.3
+Age,Overall,Pneumonia,No        ,3129,45.7
+Age,Overall,Seizures,Yes       ,45,0.7
+Age,Overall,Seizures,No        ,6795,99.3
+Age,Overall,Sepsis,Yes       ,1226,17.9
+Age,Overall,Sepsis,No        ,5606,82.1
+Age,Overall,Stroke/CVA,Yes       ,51,0.7
+Age,Overall,Stroke/CVA,No        ,6788,99.3
+Sex,Male,Age,18-49 yr,4169,26.5
+Sex,Male,Age,50-64 yr,5051,32.1
+Sex,Male,Age,65+ yr,6531,41.5
+Sex,Male,Race/Ethnicity,White,4571,34.0
+Sex,Male,Race/Ethnicity,Black,4157,31.0
+Sex,Male,Race/Ethnicity,Hispanic/Latino,2915,21.7
+Sex,Male,Race/Ethnicity,Asian/Pacific Islander,637,4.7
+Sex,Male,Race/Ethnicity,American Indian/Alaska Native,174,1.3
+Sex,Male,Race/Ethnicity,Other,1787,13.3
+Sex,Male,BIPAP/CPAP,Yes       ,436,12.4
+Sex,Male,BIPAP/CPAP,No        ,3070,87.6
+Sex,Male,In-hospital death,Yes       ,570,16.2
+Sex,Male,In-hospital death,No        ,2943,83.8
+Sex,Male,HFNC,Yes       ,736,21.0
+Sex,Male,HFNC,No        ,2768,79.0
+Sex,Male,Intensive care unit,Yes       ,1252,35.7
+Sex,Male,Intensive care unit,No        ,2256,64.3
+Sex,Male,Mechanical ventilation,Yes       ,746,21.3
+Sex,Male,Mechanical ventilation,No        ,2758,78.7
+Sex,Male,RRT,Yes       ,224,6.4
+Sex,Male,RRT,No        ,3283,93.6
+Sex,Male,Vasopressors,Yes       ,621,17.7
+Sex,Male,Vasopressors,No        ,2881,82.3
+Sex,Male,Blood disorder/Hemoglobinopathy,Yes       ,108,2.8
+Sex,Male,Blood disorder/Hemoglobinopathy,No        ,3730,97.2
+Sex,Male,CLD,Yes       ,774,20.1
+Sex,Male,CLD,No        ,3068,79.9
+Sex,Male,Asthma,Yes       ,320,8.3
+Sex,Male,Asthma,No        ,3522,91.7
+Sex,Male,COPD/emphysema,Yes       ,362,9.4
+Sex,Male,COPD/emphysema,No        ,3480,90.6
+Sex,Male,Obstructive sleep apnea,Yes       ,443,11.5
+Sex,Male,Obstructive sleep apnea,No        ,3399,88.5
+Sex,Male,CMD,Yes       ,1532,39.8
+Sex,Male,CMD,No        ,2318,60.2
+Sex,Male,Diabetes,Yes       ,1367,35.5
+Sex,Male,Diabetes,No        ,2483,64.5
+Sex,Male,Thyroid dysfunction,Yes       ,252,6.5
+Sex,Male,Thyroid dysfunction,No        ,3598,93.5
+Sex,Male,CVD,Yes       ,1298,33.7
+Sex,Male,CVD,No        ,2551,66.3
+Sex,Male,Atrial fibrillation,Yes       ,359,9.3
+Sex,Male,Atrial fibrillation,No        ,3490,90.7
+Sex,Male,Coronary artery disease,Yes       ,578,15.0
+Sex,Male,Coronary artery disease,No        ,3271,85.0
+Sex,Male,Heart failure,Yes       ,385,10.0
+Sex,Male,Heart failure,No        ,3464,90.0
+Sex,Male,Stroke,Yes       ,309,8.0
+Sex,Male,Stroke,No        ,3540,92.0
+Sex,Male,Hypertension,Yes       ,2183,56.6
+Sex,Male,Hypertension,No        ,1676,43.4
+Sex,Male,Immunocompromised condition,Yes       ,348,9.1
+Sex,Male,Immunocompromised condition,No        ,3494,90.9
+Sex,Male,AIDS/HIV,Yes       ,37,1.0
+Sex,Male,AIDS/HIV,No        ,3805,99.0
+Sex,Male,Liver disease,Yes       ,213,5.5
+Sex,Male,Liver disease,No        ,3625,94.5
+Sex,Male,Neurologic,Yes       ,831,21.6
+Sex,Male,Neurologic,No        ,3015,78.4
+Sex,Male,Dementia/Alzheimer's disease,Yes       ,362,9.4
+Sex,Male,Dementia/Alzheimer's disease,No        ,3484,90.6
+Sex,Male,Obesity,Yes       ,1630,44.5
+Sex,Male,Obesity,No        ,2036,55.5
+Sex,Male,Renal disease,Yes       ,662,17.2
+Sex,Male,Renal disease,No        ,3181,82.8
+Sex,Male,Chronic kidney disease,Yes       ,654,17.0
+Sex,Male,Chronic kidney disease,No        ,3189,83.0
+Sex,Male,Rheumatologic/Autoimmune,Yes       ,62,1.6
+Sex,Male,Rheumatologic/Autoimmune,No        ,3774,98.4
+Sex,Male,Tobacco use,current,356,9.3
+Sex,Male,Tobacco use,former,1032,26.9
+Sex,Male,Tobacco use,never,2455,63.9
+Sex,Male,Abdominal Pain,Yes       ,353,9.0
+Sex,Male,Abdominal Pain,No        ,3587,91.0
+Sex,Male,Altered mental status/confusion,Yes       ,469,11.9
+Sex,Male,Altered mental status/confusion,No        ,3471,88.1
+Sex,Male,Anosmia/decreased smell,Yes       ,152,3.9
+Sex,Male,Anosmia/decreased smell,No        ,3788,96.1
+Sex,Male,Chest pain,Yes       ,551,14.0
+Sex,Male,Chest pain,No        ,3389,86.0
+Sex,Male,Congested/runny nose,Yes       ,410,10.4
+Sex,Male,Congested/runny nose,No        ,3530,89.6
+Sex,Male,Conjunctivitis,Yes       ,8,0.2
+Sex,Male,Conjunctivitis,No        ,3932,99.8
+Sex,Male,Cough,Yes       ,2741,69.6
+Sex,Male,Cough,No        ,1199,30.4
+Sex,Male,Diarrhea,Yes       ,921,23.4
+Sex,Male,Diarrhea,No        ,3019,76.6
+Sex,Male,Dysgeusia/decreased taste,Yes       ,185,4.7
+Sex,Male,Dysgeusia/decreased taste,No        ,3755,95.3
+Sex,Male,Fever/chills,Yes       ,2697,68.5
+Sex,Male,Fever/chills,No        ,1243,31.5
+Sex,Male,Headache,Yes       ,552,14.0
+Sex,Male,Headache,No        ,3388,86.0
+Sex,Male,Hemoptysis/bloody sputum,Yes       ,61,1.5
+Sex,Male,Hemoptysis/bloody sputum,No        ,3879,98.5
+Sex,Male,Muscle aches/myalgias,Yes       ,1014,25.7
+Sex,Male,Muscle aches/myalgias,No        ,2926,74.3
+Sex,Male,Nausea/vomiting,Yes       ,813,20.6
+Sex,Male,Nausea/vomiting,No        ,3127,79.4
+Sex,Male,Rash,Yes       ,15,0.4
+Sex,Male,Rash,No        ,3925,99.6
+Sex,Male,Seizure,Yes       ,18,0.5
+Sex,Male,Seizure,No        ,3922,99.5
+Sex,Male,Shortness of breath,Yes       ,2636,66.9
+Sex,Male,Shortness of breath,No        ,1304,33.1
+Sex,Male,Sore throat,Yes       ,398,10.1
+Sex,Male,Sore throat,No        ,3542,89.9
+Sex,Male,Wheezing,Yes       ,152,3.9
+Sex,Male,Wheezing,No        ,3788,96.1
+Sex,Male,Acute encephalopahty/encephalitis,Yes       ,271,7.8
+Sex,Male,Acute encephalopahty/encephalitis,No        ,3224,92.2
+Sex,Male,Acute myocardial infarction,Yes       ,59,1.7
+Sex,Male,Acute myocardial infarction,No        ,3440,98.3
+Sex,Male,Acute myocarditis,Yes       ,3,0.1
+Sex,Male,Acute myocarditis,No        ,3493,99.9
+Sex,Male,Acute renal failure/acute kidney injury,Yes       ,790,22.6
+Sex,Male,Acute renal failure/acute kidney injury,No        ,2711,77.4
+Sex,Male,Acute respiratory distress syndrome,Yes       ,379,10.8
+Sex,Male,Acute respiratory distress syndrome,No        ,3121,89.2
+Sex,Male,Acute respiratory failure,Yes       ,1583,45.2
+Sex,Male,Acute respiratory failure,No        ,1919,54.8
+Sex,Male,Asthma exacerbation,Yes       ,30,0.9
+Sex,Male,Asthma exacerbation,No        ,3468,99.1
+Sex,Male,Bacteremia,Yes       ,62,1.8
+Sex,Male,Bacteremia,No        ,3437,98.2
+Sex,Male,Bronchiolitis,Yes       ,2,0.1
+Sex,Male,Bronchiolitis,No        ,3496,99.9
+Sex,Male,Bronchitis,Yes       ,26,0.7
+Sex,Male,Bronchitis,No        ,3473,99.3
+Sex,Male,Congestive heart failure,Yes       ,56,1.6
+Sex,Male,Congestive heart failure,No        ,3443,98.4
+Sex,Male,COPD exacerbation,Yes       ,53,1.5
+Sex,Male,COPD exacerbation,No        ,3448,98.5
+Sex,Male,Diabetic ketoacidosis,Yes       ,34,1.0
+Sex,Male,Diabetic ketoacidosis,No        ,3465,99.0
+Sex,Male,Disseminated intravascular coagulation,Yes       ,6,0.2
+Sex,Male,Disseminated intravascular coagulation,No        ,3494,99.8
+Sex,Male,Guillan-Barre syndrome,Yes       ,2,0.1
+Sex,Male,Guillan-Barre syndrome,No        ,3497,99.9
+Sex,Male,Hemophagocytic syndrome,Yes       ,,
+Sex,Male,Hemophagocytic syndrome,No        ,3500,100.0
+Sex,Male,Invasive pulmonary aspergillosis,Yes       ,,
+Sex,Male,Invasive pulmonary aspergillosis,No        ,3497,100.0
+Sex,Male,Reyes Syndrome,Yes       ,,
+Sex,Male,Reyes Syndrome,No        ,3499,100.0
+Sex,Male,Rhabdomyolysis,Yes       ,40,1.1
+Sex,Male,Rhabdomyolysis,No        ,3457,98.9
+Sex,Male,Pneumonia,Yes       ,1961,56.0
+Sex,Male,Pneumonia,No        ,1539,44.0
+Sex,Male,Seizures,Yes       ,23,0.7
+Sex,Male,Seizures,No        ,3476,99.3
+Sex,Male,Sepsis,Yes       ,695,19.9
+Sex,Male,Sepsis,No        ,2799,80.1
+Sex,Male,Stroke/CVA,Yes       ,28,0.8
+Sex,Male,Stroke/CVA,No        ,3469,99.2
+Sex,Female,Age,18-49 yr,3952,27.1
+Sex,Female,Age,50-64 yr,3807,26.1
+Sex,Female,Age,65+ yr,6820,46.8
+Sex,Female,Race/Ethnicity,White,4403,34.7
+Sex,Female,Race/Ethnicity,Black,4305,33.9
+Sex,Female,Race/Ethnicity,Hispanic/Latino,2386,18.8
+Sex,Female,Race/Ethnicity,Asian/Pacific Islander,593,4.7
+Sex,Female,Race/Ethnicity,American Indian/Alaska Native,251,2.0
+Sex,Female,Race/Ethnicity,Other,1593,12.6
+Sex,Female,BIPAP/CPAP,Yes       ,278,8.3
+Sex,Female,BIPAP/CPAP,No        ,3068,91.7
+Sex,Female,In-hospital death,Yes       ,459,13.7
+Sex,Female,In-hospital death,No        ,2888,86.3
+Sex,Female,HFNC,Yes       ,544,16.3
+Sex,Female,HFNC,No        ,2802,83.7
+Sex,Female,Intensive care unit,Yes       ,896,26.8
+Sex,Female,Intensive care unit,No        ,2450,73.2
+Sex,Female,Mechanical ventilation,Yes       ,490,14.6
+Sex,Female,Mechanical ventilation,No        ,2856,85.4
+Sex,Female,RRT,Yes       ,129,3.9
+Sex,Female,RRT,No        ,3215,96.1
+Sex,Female,Vasopressors,Yes       ,448,13.4
+Sex,Female,Vasopressors,No        ,2893,86.6
+Sex,Female,Blood disorder/Hemoglobinopathy,Yes       ,81,2.3
+Sex,Female,Blood disorder/Hemoglobinopathy,No        ,3478,97.7
+Sex,Female,CLD,Yes       ,705,19.7
+Sex,Female,CLD,No        ,2867,80.3
+Sex,Female,Asthma,Yes       ,606,17.0
+Sex,Female,Asthma,No        ,2966,83.0
+Sex,Female,COPD/emphysema,Yes       ,377,10.6
+Sex,Female,COPD/emphysema,No        ,3195,89.4
+Sex,Female,Obstructive sleep apnea,Yes       ,343,9.6
+Sex,Female,Obstructive sleep apnea,No        ,3229,90.4
+Sex,Female,CMD,Yes       ,1578,44.2
+Sex,Female,CMD,No        ,1994,55.8
+Sex,Female,Diabetes,Yes       ,1182,33.1
+Sex,Female,Diabetes,No        ,2390,66.9
+Sex,Female,Thyroid dysfunction,Yes       ,590,16.5
+Sex,Female,Thyroid dysfunction,No        ,2982,83.5
+Sex,Female,CVD,Yes       ,1129,31.6
+Sex,Female,CVD,No        ,2440,68.4
+Sex,Female,Atrial fibrillation,Yes       ,313,8.8
+Sex,Female,Atrial fibrillation,No        ,3256,91.2
+Sex,Female,Coronary artery disease,Yes       ,369,10.3
+Sex,Female,Coronary artery disease,No        ,3200,89.7
+Sex,Female,Heart failure,Yes       ,393,11.0
+Sex,Female,Heart failure,No        ,3176,89.0
+Sex,Female,Stroke,Yes       ,280,7.8
+Sex,Female,Stroke,No        ,3289,92.2
+Sex,Female,Hypertension,Yes       ,1966,54.9
+Sex,Female,Hypertension,No        ,1615,45.1
+Sex,Female,Immunocompromised condition,Yes       ,363,10.2
+Sex,Female,Immunocompromised condition,No        ,3202,89.8
+Sex,Female,AIDS/HIV,Yes       ,17,0.5
+Sex,Female,AIDS/HIV,No        ,3548,99.5
+Sex,Female,Liver disease,Yes       ,163,4.6
+Sex,Female,Liver disease,No        ,3402,95.4
+Sex,Female,Neurologic,Yes       ,899,25.2
+Sex,Female,Neurologic,No        ,2669,74.8
+Sex,Female,Dementia/Alzheimer's disease,Yes       ,506,14.2
+Sex,Female,Dementia/Alzheimer's disease,No        ,3062,85.8
+Sex,Female,Obesity,Yes       ,1741,55.1
+Sex,Female,Obesity,No        ,1420,44.9
+Sex,Female,Renal disease,Yes       ,524,14.7
+Sex,Female,Renal disease,No        ,3044,85.3
+Sex,Female,Chronic kidney disease,Yes       ,519,14.5
+Sex,Female,Chronic kidney disease,No        ,3049,85.5
+Sex,Female,Rheumatologic/Autoimmune,Yes       ,158,4.4
+Sex,Female,Rheumatologic/Autoimmune,No        ,3403,95.6
+Sex,Female,Tobacco use,current,174,4.9
+Sex,Female,Tobacco use,former,778,21.8
+Sex,Female,Tobacco use,never,2620,73.3
+Sex,Female,Abdominal Pain,Yes       ,357,9.8
+Sex,Female,Abdominal Pain,No        ,3291,90.2
+Sex,Female,Altered mental status/confusion,Yes       ,449,12.3
+Sex,Female,Altered mental status/confusion,No        ,3199,87.7
+Sex,Female,Anosmia/decreased smell,Yes       ,146,4.0
+Sex,Female,Anosmia/decreased smell,No        ,3502,96.0
+Sex,Female,Chest pain,Yes       ,488,13.4
+Sex,Female,Chest pain,No        ,3160,86.6
+Sex,Female,Congested/runny nose,Yes       ,390,10.7
+Sex,Female,Congested/runny nose,No        ,3258,89.3
+Sex,Female,Conjunctivitis,Yes       ,6,0.2
+Sex,Female,Conjunctivitis,No        ,3642,99.8
+Sex,Female,Cough,Yes       ,2367,64.9
+Sex,Female,Cough,No        ,1281,35.1
+Sex,Female,Diarrhea,Yes       ,836,22.9
+Sex,Female,Diarrhea,No        ,2812,77.1
+Sex,Female,Dysgeusia/decreased taste,Yes       ,163,4.5
+Sex,Female,Dysgeusia/decreased taste,No        ,3485,95.5
+Sex,Female,Fever/chills,Yes       ,2371,65.0
+Sex,Female,Fever/chills,No        ,1277,35.0
+Sex,Female,Headache,Yes       ,551,15.1
+Sex,Female,Headache,No        ,3097,84.9
+Sex,Female,Hemoptysis/bloody sputum,Yes       ,46,1.3
+Sex,Female,Hemoptysis/bloody sputum,No        ,3602,98.7
+Sex,Female,Muscle aches/myalgias,Yes       ,922,25.3
+Sex,Female,Muscle aches/myalgias,No        ,2726,74.7
+Sex,Female,Nausea/vomiting,Yes       ,937,25.7
+Sex,Female,Nausea/vomiting,No        ,2711,74.3
+Sex,Female,Rash,Yes       ,18,0.5
+Sex,Female,Rash,No        ,3630,99.5
+Sex,Female,Seizure,Yes       ,12,0.3
+Sex,Female,Seizure,No        ,3636,99.7
+Sex,Female,Shortness of breath,Yes       ,2330,63.9
+Sex,Female,Shortness of breath,No        ,1318,36.1
+Sex,Female,Sore throat,Yes       ,351,9.6
+Sex,Female,Sore throat,No        ,3297,90.4
+Sex,Female,Wheezing,Yes       ,157,4.3
+Sex,Female,Wheezing,No        ,3491,95.7
+Sex,Female,Acute encephalopahty/encephalitis,Yes       ,247,7.4
+Sex,Female,Acute encephalopahty/encephalitis,No        ,3096,92.6
+Sex,Female,Acute myocardial infarction,Yes       ,40,1.2
+Sex,Female,Acute myocardial infarction,No        ,3303,98.8
+Sex,Female,Acute myocarditis,Yes       ,4,0.1
+Sex,Female,Acute myocarditis,No        ,3338,99.9
+Sex,Female,Acute renal failure/acute kidney injury,Yes       ,517,15.5
+Sex,Female,Acute renal failure/acute kidney injury,No        ,2826,84.5
+Sex,Female,Acute respiratory distress syndrome,Yes       ,241,7.2
+Sex,Female,Acute respiratory distress syndrome,No        ,3102,92.8
+Sex,Female,Acute respiratory failure,Yes       ,1329,39.7
+Sex,Female,Acute respiratory failure,No        ,2015,60.3
+Sex,Female,Asthma exacerbation,Yes       ,67,2.0
+Sex,Female,Asthma exacerbation,No        ,3277,98.0
+Sex,Female,Bacteremia,Yes       ,43,1.3
+Sex,Female,Bacteremia,No        ,3299,98.7
+Sex,Female,Bronchiolitis,Yes       ,2,0.1
+Sex,Female,Bronchiolitis,No        ,3342,99.9
+Sex,Female,Bronchitis,Yes       ,26,0.8
+Sex,Female,Bronchitis,No        ,3318,99.2
+Sex,Female,Congestive heart failure,Yes       ,66,2.0
+Sex,Female,Congestive heart failure,No        ,3278,98.0
+Sex,Female,COPD exacerbation,Yes       ,52,1.6
+Sex,Female,COPD exacerbation,No        ,3292,98.4
+Sex,Female,Diabetic ketoacidosis,Yes       ,22,0.7
+Sex,Female,Diabetic ketoacidosis,No        ,3322,99.3
+Sex,Female,Disseminated intravascular coagulation,Yes       ,5,0.1
+Sex,Female,Disseminated intravascular coagulation,No        ,3338,99.9
+Sex,Female,Guillan-Barre syndrome,Yes       ,1,0.0
+Sex,Female,Guillan-Barre syndrome,No        ,3341,100.0
+Sex,Female,Hemophagocytic syndrome,Yes       ,,
+Sex,Female,Hemophagocytic syndrome,No        ,3344,100.0
+Sex,Female,Invasive pulmonary aspergillosis,Yes       ,1,0.0
+Sex,Female,Invasive pulmonary aspergillosis,No        ,3340,100.0
+Sex,Female,Reyes Syndrome,Yes       ,,
+Sex,Female,Reyes Syndrome,No        ,3343,100.0
+Sex,Female,Rhabdomyolysis,Yes       ,17,0.5
+Sex,Female,Rhabdomyolysis,No        ,3327,99.5
+Sex,Female,Pneumonia,Yes       ,1754,52.5
+Sex,Female,Pneumonia,No        ,1590,47.5
+Sex,Female,Seizures,Yes       ,22,0.7
+Sex,Female,Seizures,No        ,3319,99.3
+Sex,Female,Sepsis,Yes       ,531,15.9
+Sex,Female,Sepsis,No        ,2807,84.1
+Sex,Female,Stroke/CVA,Yes       ,23,0.7
+Sex,Female,Stroke/CVA,No        ,3319,99.3
+Race/Ethnicity,White,Age,18-49 yr,1118,12.5
+Race/Ethnicity,White,Age,50-64 yr,2109,23.5
+Race/Ethnicity,White,Age,65+ yr,5749,64.0
+Race/Ethnicity,White,Sex,Male,4571,50.9
+Race/Ethnicity,White,Sex,Female,4403,49.1
+Race/Ethnicity,White,BIPAP/CPAP,Yes       ,329,11.2
+Race/Ethnicity,White,BIPAP/CPAP,No        ,2605,88.8
+Race/Ethnicity,White,In-hospital death,Yes       ,581,19.8
+Race/Ethnicity,White,In-hospital death,No        ,2357,80.2
+Race/Ethnicity,White,HFNC,Yes       ,587,20.0
+Race/Ethnicity,White,HFNC,No        ,2347,80.0
+Race/Ethnicity,White,Intensive care unit,Yes       ,903,30.8
+Race/Ethnicity,White,Intensive care unit,No        ,2032,69.2
+Race/Ethnicity,White,Mechanical ventilation,Yes       ,501,17.1
+Race/Ethnicity,White,Mechanical ventilation,No        ,2433,82.9
+Race/Ethnicity,White,RRT,Yes       ,118,4.0
+Race/Ethnicity,White,RRT,No        ,2817,96.0
+Race/Ethnicity,White,Vasopressors,Yes       ,438,14.9
+Race/Ethnicity,White,Vasopressors,No        ,2493,85.1
+Race/Ethnicity,White,Blood disorder/Hemoglobinopathy,Yes       ,100,3.2
+Race/Ethnicity,White,Blood disorder/Hemoglobinopathy,No        ,3036,96.8
+Race/Ethnicity,White,CLD,Yes       ,873,27.8
+Race/Ethnicity,White,CLD,No        ,2268,72.2
+Race/Ethnicity,White,Asthma,Yes       ,377,12.0
+Race/Ethnicity,White,Asthma,No        ,2764,88.0
+Race/Ethnicity,White,COPD/emphysema,Yes       ,484,15.4
+Race/Ethnicity,White,COPD/emphysema,No        ,2657,84.6
+Race/Ethnicity,White,Obstructive sleep apnea,Yes       ,424,13.5
+Race/Ethnicity,White,Obstructive sleep apnea,No        ,2717,86.5
+Race/Ethnicity,White,CMD,Yes       ,1350,42.9
+Race/Ethnicity,White,CMD,No        ,1796,57.1
+Race/Ethnicity,White,Diabetes,Yes       ,1000,31.8
+Race/Ethnicity,White,Diabetes,No        ,2146,68.2
+Race/Ethnicity,White,Thyroid dysfunction,Yes       ,528,16.8
+Race/Ethnicity,White,Thyroid dysfunction,No        ,2618,83.2
+Race/Ethnicity,White,CVD,Yes       ,1369,43.5
+Race/Ethnicity,White,CVD,No        ,1777,56.5
+Race/Ethnicity,White,Atrial fibrillation,Yes       ,474,15.1
+Race/Ethnicity,White,Atrial fibrillation,No        ,2672,84.9
+Race/Ethnicity,White,Coronary artery disease,Yes       ,571,18.2
+Race/Ethnicity,White,Coronary artery disease,No        ,2575,81.8
+Race/Ethnicity,White,Heart failure,Yes       ,421,13.4
+Race/Ethnicity,White,Heart failure,No        ,2725,86.6
+Race/Ethnicity,White,Stroke,Yes       ,301,9.6
+Race/Ethnicity,White,Stroke,No        ,2845,90.4
+Race/Ethnicity,White,Hypertension,Yes       ,1944,61.7
+Race/Ethnicity,White,Hypertension,No        ,1205,38.3
+Race/Ethnicity,White,Immunocompromised condition,Yes       ,344,10.9
+Race/Ethnicity,White,Immunocompromised condition,No        ,2799,89.1
+Race/Ethnicity,White,AIDS/HIV,Yes       ,11,0.3
+Race/Ethnicity,White,AIDS/HIV,No        ,3132,99.7
+Race/Ethnicity,White,Liver disease,Yes       ,172,5.5
+Race/Ethnicity,White,Liver disease,No        ,2968,94.5
+Race/Ethnicity,White,Neurologic,Yes       ,1093,34.8
+Race/Ethnicity,White,Neurologic,No        ,2050,65.2
+Race/Ethnicity,White,Dementia/Alzheimer's disease,Yes       ,608,19.3
+Race/Ethnicity,White,Dementia/Alzheimer's disease,No        ,2535,80.7
+Race/Ethnicity,White,Obesity,Yes       ,1339,45.4
+Race/Ethnicity,White,Obesity,No        ,1610,54.6
+Race/Ethnicity,White,Renal disease,Yes       ,566,18.0
+Race/Ethnicity,White,Renal disease,No        ,2577,82.0
+Race/Ethnicity,White,Chronic kidney disease,Yes       ,559,17.8
+Race/Ethnicity,White,Chronic kidney disease,No        ,2584,82.2
+Race/Ethnicity,White,Rheumatologic/Autoimmune,Yes       ,122,3.9
+Race/Ethnicity,White,Rheumatologic/Autoimmune,No        ,3016,96.1
+Race/Ethnicity,White,Tobacco use,current,226,7.2
+Race/Ethnicity,White,Tobacco use,former,1006,31.9
+Race/Ethnicity,White,Tobacco use,never,1917,60.9
+Race/Ethnicity,White,Abdominal Pain,Yes       ,227,7.0
+Race/Ethnicity,White,Abdominal Pain,No        ,3003,93.0
+Race/Ethnicity,White,Altered mental status/confusion,Yes       ,543,16.8
+Race/Ethnicity,White,Altered mental status/confusion,No        ,2687,83.2
+Race/Ethnicity,White,Anosmia/decreased smell,Yes       ,96,3.0
+Race/Ethnicity,White,Anosmia/decreased smell,No        ,3134,97.0
+Race/Ethnicity,White,Chest pain,Yes       ,308,9.5
+Race/Ethnicity,White,Chest pain,No        ,2922,90.5
+Race/Ethnicity,White,Congested/runny nose,Yes       ,321,9.9
+Race/Ethnicity,White,Congested/runny nose,No        ,2909,90.1
+Race/Ethnicity,White,Conjunctivitis,Yes       ,5,0.2
+Race/Ethnicity,White,Conjunctivitis,No        ,3225,99.8
+Race/Ethnicity,White,Cough,Yes       ,2056,63.7
+Race/Ethnicity,White,Cough,No        ,1174,36.3
+Race/Ethnicity,White,Diarrhea,Yes       ,715,22.1
+Race/Ethnicity,White,Diarrhea,No        ,2515,77.9
+Race/Ethnicity,White,Dysgeusia/decreased taste,Yes       ,119,3.7
+Race/Ethnicity,White,Dysgeusia/decreased taste,No        ,3111,96.3
+Race/Ethnicity,White,Fever/chills,Yes       ,2069,64.1
+Race/Ethnicity,White,Fever/chills,No        ,1161,35.9
+Race/Ethnicity,White,Headache,Yes       ,373,11.5
+Race/Ethnicity,White,Headache,No        ,2857,88.5
+Race/Ethnicity,White,Hemoptysis/bloody sputum,Yes       ,35,1.1
+Race/Ethnicity,White,Hemoptysis/bloody sputum,No        ,3195,98.9
+Race/Ethnicity,White,Muscle aches/myalgias,Yes       ,672,20.8
+Race/Ethnicity,White,Muscle aches/myalgias,No        ,2558,79.2
+Race/Ethnicity,White,Nausea/vomiting,Yes       ,667,20.7
+Race/Ethnicity,White,Nausea/vomiting,No        ,2563,79.3
+Race/Ethnicity,White,Rash,Yes       ,21,0.7
+Race/Ethnicity,White,Rash,No        ,3209,99.3
+Race/Ethnicity,White,Seizure,Yes       ,13,0.4
+Race/Ethnicity,White,Seizure,No        ,3217,99.6
+Race/Ethnicity,White,Shortness of breath,Yes       ,2041,63.2
+Race/Ethnicity,White,Shortness of breath,No        ,1189,36.8
+Race/Ethnicity,White,Sore throat,Yes       ,266,8.2
+Race/Ethnicity,White,Sore throat,No        ,2964,91.8
+Race/Ethnicity,White,Wheezing,Yes       ,141,4.4
+Race/Ethnicity,White,Wheezing,No        ,3089,95.6
+Race/Ethnicity,White,Acute encephalopahty/encephalitis,Yes       ,278,9.5
+Race/Ethnicity,White,Acute encephalopahty/encephalitis,No        ,2650,90.5
+Race/Ethnicity,White,Acute myocardial infarction,Yes       ,46,1.6
+Race/Ethnicity,White,Acute myocardial infarction,No        ,2884,98.4
+Race/Ethnicity,White,Acute myocarditis,Yes       ,3,0.1
+Race/Ethnicity,White,Acute myocarditis,No        ,2923,99.9
+Race/Ethnicity,White,Acute renal failure/acute kidney injury,Yes       ,577,19.7
+Race/Ethnicity,White,Acute renal failure/acute kidney injury,No        ,2352,80.3
+Race/Ethnicity,White,Acute respiratory distress syndrome,Yes       ,251,8.6
+Race/Ethnicity,White,Acute respiratory distress syndrome,No        ,2678,91.4
+Race/Ethnicity,White,Acute respiratory failure,Yes       ,1289,44.0
+Race/Ethnicity,White,Acute respiratory failure,No        ,1642,56.0
+Race/Ethnicity,White,Asthma exacerbation,Yes       ,27,0.9
+Race/Ethnicity,White,Asthma exacerbation,No        ,2902,99.1
+Race/Ethnicity,White,Bacteremia,Yes       ,44,1.5
+Race/Ethnicity,White,Bacteremia,No        ,2885,98.5
+Race/Ethnicity,White,Bronchiolitis,Yes       ,1,0.0
+Race/Ethnicity,White,Bronchiolitis,No        ,2928,100.0
+Race/Ethnicity,White,Bronchitis,Yes       ,28,1.0
+Race/Ethnicity,White,Bronchitis,No        ,2901,99.0
+Race/Ethnicity,White,Congestive heart failure,Yes       ,57,1.9
+Race/Ethnicity,White,Congestive heart failure,No        ,2872,98.1
+Race/Ethnicity,White,COPD exacerbation,Yes       ,72,2.5
+Race/Ethnicity,White,COPD exacerbation,No        ,2859,97.5
+Race/Ethnicity,White,Diabetic ketoacidosis,Yes       ,14,0.5
+Race/Ethnicity,White,Diabetic ketoacidosis,No        ,2916,99.5
+Race/Ethnicity,White,Disseminated intravascular coagulation,Yes       ,5,0.2
+Race/Ethnicity,White,Disseminated intravascular coagulation,No        ,2925,99.8
+Race/Ethnicity,White,Guillan-Barre syndrome,Yes       ,3,0.1
+Race/Ethnicity,White,Guillan-Barre syndrome,No        ,2927,99.9
+Race/Ethnicity,White,Hemophagocytic syndrome,Yes       ,,
+Race/Ethnicity,White,Hemophagocytic syndrome,No        ,2930,100.0
+Race/Ethnicity,White,Invasive pulmonary aspergillosis,Yes       ,1,0.0
+Race/Ethnicity,White,Invasive pulmonary aspergillosis,No        ,2926,100.0
+Race/Ethnicity,White,Reyes Syndrome,Yes       ,,
+Race/Ethnicity,White,Reyes Syndrome,No        ,2929,100.0
+Race/Ethnicity,White,Rhabdomyolysis,Yes       ,14,0.5
+Race/Ethnicity,White,Rhabdomyolysis,No        ,2915,99.5
+Race/Ethnicity,White,Pneumonia,Yes       ,1517,51.8
+Race/Ethnicity,White,Pneumonia,No        ,1413,48.2
+Race/Ethnicity,White,Seizures,Yes       ,24,0.8
+Race/Ethnicity,White,Seizures,No        ,2905,99.2
+Race/Ethnicity,White,Sepsis,Yes       ,510,17.4
+Race/Ethnicity,White,Sepsis,No        ,2417,82.6
+Race/Ethnicity,White,Stroke/CVA,Yes       ,29,1.0
+Race/Ethnicity,White,Stroke/CVA,No        ,2898,99.0
+Race/Ethnicity,Black,Age,18-49 yr,1954,23.1
+Race/Ethnicity,Black,Age,50-64 yr,2809,33.2
+Race/Ethnicity,Black,Age,65+ yr,3699,43.7
+Race/Ethnicity,Black,Sex,Male,4157,49.1
+Race/Ethnicity,Black,Sex,Female,4305,50.9
+Race/Ethnicity,Black,BIPAP/CPAP,Yes       ,214,10.5
+Race/Ethnicity,Black,BIPAP/CPAP,No        ,1816,89.5
+Race/Ethnicity,Black,In-hospital death,Yes       ,265,13.0
+Race/Ethnicity,Black,In-hospital death,No        ,1766,87.0
+Race/Ethnicity,Black,HFNC,Yes       ,337,16.6
+Race/Ethnicity,Black,HFNC,No        ,1692,83.4
+Race/Ethnicity,Black,Intensive care unit,Yes       ,659,32.5
+Race/Ethnicity,Black,Intensive care unit,No        ,1371,67.5
+Race/Ethnicity,Black,Mechanical ventilation,Yes       ,402,19.8
+Race/Ethnicity,Black,Mechanical ventilation,No        ,1627,80.2
+Race/Ethnicity,Black,RRT,Yes       ,166,8.2
+Race/Ethnicity,Black,RRT,No        ,1864,91.8
+Race/Ethnicity,Black,Vasopressors,Yes       ,335,16.5
+Race/Ethnicity,Black,Vasopressors,No        ,1690,83.5
+Race/Ethnicity,Black,Blood disorder/Hemoglobinopathy,Yes       ,55,2.5
+Race/Ethnicity,Black,Blood disorder/Hemoglobinopathy,No        ,2124,97.5
+Race/Ethnicity,Black,CLD,Yes       ,442,20.2
+Race/Ethnicity,Black,CLD,No        ,1743,79.8
+Race/Ethnicity,Black,Asthma,Yes       ,338,15.5
+Race/Ethnicity,Black,Asthma,No        ,1847,84.5
+Race/Ethnicity,Black,COPD/emphysema,Yes       ,190,8.7
+Race/Ethnicity,Black,COPD/emphysema,No        ,1995,91.3
+Race/Ethnicity,Black,Obstructive sleep apnea,Yes       ,268,12.3
+Race/Ethnicity,Black,Obstructive sleep apnea,No        ,1917,87.7
+Race/Ethnicity,Black,CMD,Yes       ,1002,45.8
+Race/Ethnicity,Black,CMD,No        ,1184,54.2
+Race/Ethnicity,Black,Diabetes,Yes       ,883,40.4
+Race/Ethnicity,Black,Diabetes,No        ,1303,59.6
+Race/Ethnicity,Black,Thyroid dysfunction,Yes       ,183,8.4
+Race/Ethnicity,Black,Thyroid dysfunction,No        ,2003,91.6
+Race/Ethnicity,Black,CVD,Yes       ,719,32.9
+Race/Ethnicity,Black,CVD,No        ,1465,67.1
+Race/Ethnicity,Black,Atrial fibrillation,Yes       ,126,5.8
+Race/Ethnicity,Black,Atrial fibrillation,No        ,2058,94.2
+Race/Ethnicity,Black,Coronary artery disease,Yes       ,245,11.2
+Race/Ethnicity,Black,Coronary artery disease,No        ,1939,88.8
+Race/Ethnicity,Black,Heart failure,Yes       ,269,12.3
+Race/Ethnicity,Black,Heart failure,No        ,1915,87.7
+Race/Ethnicity,Black,Stroke,Yes       ,210,9.6
+Race/Ethnicity,Black,Stroke,No        ,1974,90.4
+Race/Ethnicity,Black,Hypertension,Yes       ,1409,64.2
+Race/Ethnicity,Black,Hypertension,No        ,786,35.8
+Race/Ethnicity,Black,Immunocompromised condition,Yes       ,236,10.8
+Race/Ethnicity,Black,Immunocompromised condition,No        ,1943,89.2
+Race/Ethnicity,Black,AIDS/HIV,Yes       ,30,1.4
+Race/Ethnicity,Black,AIDS/HIV,No        ,2149,98.6
+Race/Ethnicity,Black,Liver disease,Yes       ,110,5.1
+Race/Ethnicity,Black,Liver disease,No        ,2067,94.9
+Race/Ethnicity,Black,Neurologic,Yes       ,418,19.1
+Race/Ethnicity,Black,Neurologic,No        ,1767,80.9
+Race/Ethnicity,Black,Dementia/Alzheimer's disease,Yes       ,183,8.4
+Race/Ethnicity,Black,Dementia/Alzheimer's disease,No        ,2002,91.6
+Race/Ethnicity,Black,Obesity,Yes       ,1161,56.7
+Race/Ethnicity,Black,Obesity,No        ,885,43.3
+Race/Ethnicity,Black,Renal disease,Yes       ,439,20.1
+Race/Ethnicity,Black,Renal disease,No        ,1744,79.9
+Race/Ethnicity,Black,Chronic kidney disease,Yes       ,437,20.0
+Race/Ethnicity,Black,Chronic kidney disease,No        ,1746,80.0
+Race/Ethnicity,Black,Rheumatologic/Autoimmune,Yes       ,70,3.2
+Race/Ethnicity,Black,Rheumatologic/Autoimmune,No        ,2106,96.8
+Race/Ethnicity,Black,Tobacco use,current,176,8.1
+Race/Ethnicity,Black,Tobacco use,former,466,21.3
+Race/Ethnicity,Black,Tobacco use,never,1541,70.6
+Race/Ethnicity,Black,Abdominal Pain,Yes       ,222,10.1
+Race/Ethnicity,Black,Abdominal Pain,No        ,1977,89.9
+Race/Ethnicity,Black,Altered mental status/confusion,Yes       ,255,11.6
+Race/Ethnicity,Black,Altered mental status/confusion,No        ,1944,88.4
+Race/Ethnicity,Black,Anosmia/decreased smell,Yes       ,78,3.5
+Race/Ethnicity,Black,Anosmia/decreased smell,No        ,2121,96.5
+Race/Ethnicity,Black,Chest pain,Yes       ,324,14.7
+Race/Ethnicity,Black,Chest pain,No        ,1875,85.3
+Race/Ethnicity,Black,Congested/runny nose,Yes       ,222,10.1
+Race/Ethnicity,Black,Congested/runny nose,No        ,1977,89.9
+Race/Ethnicity,Black,Conjunctivitis,Yes       ,3,0.1
+Race/Ethnicity,Black,Conjunctivitis,No        ,2196,99.9
+Race/Ethnicity,Black,Cough,Yes       ,1441,65.5
+Race/Ethnicity,Black,Cough,No        ,758,34.5
+Race/Ethnicity,Black,Diarrhea,Yes       ,508,23.1
+Race/Ethnicity,Black,Diarrhea,No        ,1691,76.9
+Race/Ethnicity,Black,Dysgeusia/decreased taste,Yes       ,93,4.2
+Race/Ethnicity,Black,Dysgeusia/decreased taste,No        ,2106,95.8
+Race/Ethnicity,Black,Fever/chills,Yes       ,1418,64.5
+Race/Ethnicity,Black,Fever/chills,No        ,781,35.5
+Race/Ethnicity,Black,Headache,Yes       ,274,12.5
+Race/Ethnicity,Black,Headache,No        ,1925,87.5
+Race/Ethnicity,Black,Hemoptysis/bloody sputum,Yes       ,37,1.7
+Race/Ethnicity,Black,Hemoptysis/bloody sputum,No        ,2162,98.3
+Race/Ethnicity,Black,Muscle aches/myalgias,Yes       ,547,24.9
+Race/Ethnicity,Black,Muscle aches/myalgias,No        ,1652,75.1
+Race/Ethnicity,Black,Nausea/vomiting,Yes       ,530,24.1
+Race/Ethnicity,Black,Nausea/vomiting,No        ,1669,75.9
+Race/Ethnicity,Black,Rash,Yes       ,7,0.3
+Race/Ethnicity,Black,Rash,No        ,2192,99.7
+Race/Ethnicity,Black,Seizure,Yes       ,12,0.5
+Race/Ethnicity,Black,Seizure,No        ,2187,99.5
+Race/Ethnicity,Black,Shortness of breath,Yes       ,1396,63.5
+Race/Ethnicity,Black,Shortness of breath,No        ,803,36.5
+Race/Ethnicity,Black,Sore throat,Yes       ,166,7.5
+Race/Ethnicity,Black,Sore throat,No        ,2033,92.5
+Race/Ethnicity,Black,Wheezing,Yes       ,104,4.7
+Race/Ethnicity,Black,Wheezing,No        ,2095,95.3
+Race/Ethnicity,Black,Acute encephalopahty/encephalitis,Yes       ,147,7.3
+Race/Ethnicity,Black,Acute encephalopahty/encephalitis,No        ,1877,92.7
+Race/Ethnicity,Black,Acute myocardial infarction,Yes       ,33,1.6
+Race/Ethnicity,Black,Acute myocardial infarction,No        ,1992,98.4
+Race/Ethnicity,Black,Acute myocarditis,Yes       ,4,0.2
+Race/Ethnicity,Black,Acute myocarditis,No        ,2021,99.8
+Race/Ethnicity,Black,Acute renal failure/acute kidney injury,Yes       ,506,25.0
+Race/Ethnicity,Black,Acute renal failure/acute kidney injury,No        ,1521,75.0
+Race/Ethnicity,Black,Acute respiratory distress syndrome,Yes       ,180,8.9
+Race/Ethnicity,Black,Acute respiratory distress syndrome,No        ,1846,91.1
+Race/Ethnicity,Black,Acute respiratory failure,Yes       ,788,38.9
+Race/Ethnicity,Black,Acute respiratory failure,No        ,1239,61.1
+Race/Ethnicity,Black,Asthma exacerbation,Yes       ,46,2.3
+Race/Ethnicity,Black,Asthma exacerbation,No        ,1981,97.7
+Race/Ethnicity,Black,Bacteremia,Yes       ,31,1.5
+Race/Ethnicity,Black,Bacteremia,No        ,1994,98.5
+Race/Ethnicity,Black,Bronchiolitis,Yes       ,,
+Race/Ethnicity,Black,Bronchiolitis,No        ,2027,100.0
+Race/Ethnicity,Black,Bronchitis,Yes       ,9,0.4
+Race/Ethnicity,Black,Bronchitis,No        ,2018,99.6
+Race/Ethnicity,Black,Congestive heart failure,Yes       ,50,2.5
+Race/Ethnicity,Black,Congestive heart failure,No        ,1977,97.5
+Race/Ethnicity,Black,COPD exacerbation,Yes       ,28,1.4
+Race/Ethnicity,Black,COPD exacerbation,No        ,1999,98.6
+Race/Ethnicity,Black,Diabetic ketoacidosis,Yes       ,28,1.4
+Race/Ethnicity,Black,Diabetic ketoacidosis,No        ,1998,98.6
+Race/Ethnicity,Black,Disseminated intravascular coagulation,Yes       ,4,0.2
+Race/Ethnicity,Black,Disseminated intravascular coagulation,No        ,2022,99.8
+Race/Ethnicity,Black,Guillan-Barre syndrome,Yes       ,,
+Race/Ethnicity,Black,Guillan-Barre syndrome,No        ,2025,100.0
+Race/Ethnicity,Black,Hemophagocytic syndrome,Yes       ,,
+Race/Ethnicity,Black,Hemophagocytic syndrome,No        ,2027,100.0
+Race/Ethnicity,Black,Invasive pulmonary aspergillosis,Yes       ,,
+Race/Ethnicity,Black,Invasive pulmonary aspergillosis,No        ,2025,100.0
+Race/Ethnicity,Black,Reyes Syndrome,Yes       ,,
+Race/Ethnicity,Black,Reyes Syndrome,No        ,2026,100.0
+Race/Ethnicity,Black,Rhabdomyolysis,Yes       ,30,1.5
+Race/Ethnicity,Black,Rhabdomyolysis,No        ,1997,98.5
+Race/Ethnicity,Black,Pneumonia,Yes       ,1095,54.0
+Race/Ethnicity,Black,Pneumonia,No        ,932,46.0
+Race/Ethnicity,Black,Seizures,Yes       ,11,0.5
+Race/Ethnicity,Black,Seizures,No        ,2015,99.5
+Race/Ethnicity,Black,Sepsis,Yes       ,342,16.9
+Race/Ethnicity,Black,Sepsis,No        ,1681,83.1
+Race/Ethnicity,Black,Stroke/CVA,Yes       ,15,0.7
+Race/Ethnicity,Black,Stroke/CVA,No        ,2011,99.3
+Race/Ethnicity,Hispanic/Latino,Age,18-49 yr,2682,50.6
+Race/Ethnicity,Hispanic/Latino,Age,50-64 yr,1592,30.0
+Race/Ethnicity,Hispanic/Latino,Age,65+ yr,1027,19.4
+Race/Ethnicity,Hispanic/Latino,Sex,Male,2915,55.0
+Race/Ethnicity,Hispanic/Latino,Sex,Female,2386,45.0
+Race/Ethnicity,Hispanic/Latino,BIPAP/CPAP,Yes       ,96,9.0
+Race/Ethnicity,Hispanic/Latino,BIPAP/CPAP,No        ,976,91.0
+Race/Ethnicity,Hispanic/Latino,In-hospital death,Yes       ,80,7.4
+Race/Ethnicity,Hispanic/Latino,In-hospital death,No        ,994,92.6
+Race/Ethnicity,Hispanic/Latino,HFNC,Yes       ,209,19.5
+Race/Ethnicity,Hispanic/Latino,HFNC,No        ,862,80.5
+Race/Ethnicity,Hispanic/Latino,Intensive care unit,Yes       ,323,30.1
+Race/Ethnicity,Hispanic/Latino,Intensive care unit,No        ,750,69.9
+Race/Ethnicity,Hispanic/Latino,Mechanical ventilation,Yes       ,188,17.6
+Race/Ethnicity,Hispanic/Latino,Mechanical ventilation,No        ,883,82.4
+Race/Ethnicity,Hispanic/Latino,RRT,Yes       ,36,3.4
+Race/Ethnicity,Hispanic/Latino,RRT,No        ,1035,96.6
+Race/Ethnicity,Hispanic/Latino,Vasopressors,Yes       ,156,14.5
+Race/Ethnicity,Hispanic/Latino,Vasopressors,No        ,917,85.5
+Race/Ethnicity,Hispanic/Latino,Blood disorder/Hemoglobinopathy,Yes       ,18,1.5
+Race/Ethnicity,Hispanic/Latino,Blood disorder/Hemoglobinopathy,No        ,1172,98.5
+Race/Ethnicity,Hispanic/Latino,CLD,Yes       ,66,5.5
+Race/Ethnicity,Hispanic/Latino,CLD,No        ,1127,94.5
+Race/Ethnicity,Hispanic/Latino,Asthma,Yes       ,106,8.9
+Race/Ethnicity,Hispanic/Latino,Asthma,No        ,1087,91.1
+Race/Ethnicity,Hispanic/Latino,COPD/emphysema,Yes       ,21,1.8
+Race/Ethnicity,Hispanic/Latino,COPD/emphysema,No        ,1172,98.2
+Race/Ethnicity,Hispanic/Latino,Obstructive sleep apnea,Yes       ,45,3.8
+Race/Ethnicity,Hispanic/Latino,Obstructive sleep apnea,No        ,1148,96.2
+Race/Ethnicity,Hispanic/Latino,CMD,Yes       ,415,34.8
+Race/Ethnicity,Hispanic/Latino,CMD,No        ,778,65.2
+Race/Ethnicity,Hispanic/Latino,Diabetes,Yes       ,370,31.0
+Race/Ethnicity,Hispanic/Latino,Diabetes,No        ,823,69.0
+Race/Ethnicity,Hispanic/Latino,Thyroid dysfunction,Yes       ,61,5.1
+Race/Ethnicity,Hispanic/Latino,Thyroid dysfunction,No        ,1132,94.9
+Race/Ethnicity,Hispanic/Latino,CVD,Yes       ,129,10.8
+Race/Ethnicity,Hispanic/Latino,CVD,No        ,1064,89.2
+Race/Ethnicity,Hispanic/Latino,Atrial fibrillation,Yes       ,20,1.7
+Race/Ethnicity,Hispanic/Latino,Atrial fibrillation,No        ,1173,98.3
+Race/Ethnicity,Hispanic/Latino,Coronary artery disease,Yes       ,45,3.8
+Race/Ethnicity,Hispanic/Latino,Coronary artery disease,No        ,1148,96.2
+Race/Ethnicity,Hispanic/Latino,Heart failure,Yes       ,26,2.2
+Race/Ethnicity,Hispanic/Latino,Heart failure,No        ,1167,97.8
+Race/Ethnicity,Hispanic/Latino,Stroke,Yes       ,25,2.1
+Race/Ethnicity,Hispanic/Latino,Stroke,No        ,1168,97.9
+Race/Ethnicity,Hispanic/Latino,Hypertension,Yes       ,391,32.7
+Race/Ethnicity,Hispanic/Latino,Hypertension,No        ,804,67.3
+Race/Ethnicity,Hispanic/Latino,Immunocompromised condition,Yes       ,68,5.7
+Race/Ethnicity,Hispanic/Latino,Immunocompromised condition,No        ,1124,94.3
+Race/Ethnicity,Hispanic/Latino,AIDS/HIV,Yes       ,10,0.8
+Race/Ethnicity,Hispanic/Latino,AIDS/HIV,No        ,1182,99.2
+Race/Ethnicity,Hispanic/Latino,Liver disease,Yes       ,40,3.4
+Race/Ethnicity,Hispanic/Latino,Liver disease,No        ,1153,96.6
+Race/Ethnicity,Hispanic/Latino,Neurologic,Yes       ,85,7.1
+Race/Ethnicity,Hispanic/Latino,Neurologic,No        ,1107,92.9
+Race/Ethnicity,Hispanic/Latino,Dementia/Alzheimer's disease,Yes       ,18,1.5
+Race/Ethnicity,Hispanic/Latino,Dementia/Alzheimer's disease,No        ,1174,98.5
+Race/Ethnicity,Hispanic/Latino,Obesity,Yes       ,542,52.7
+Race/Ethnicity,Hispanic/Latino,Obesity,No        ,487,47.3
+Race/Ethnicity,Hispanic/Latino,Renal disease,Yes       ,72,6.0
+Race/Ethnicity,Hispanic/Latino,Renal disease,No        ,1121,94.0
+Race/Ethnicity,Hispanic/Latino,Chronic kidney disease,Yes       ,69,5.8
+Race/Ethnicity,Hispanic/Latino,Chronic kidney disease,No        ,1124,94.2
+Race/Ethnicity,Hispanic/Latino,Rheumatologic/Autoimmune,Yes       ,18,1.5
+Race/Ethnicity,Hispanic/Latino,Rheumatologic/Autoimmune,No        ,1173,98.5
+Race/Ethnicity,Hispanic/Latino,Tobacco use,current,66,5.5
+Race/Ethnicity,Hispanic/Latino,Tobacco use,former,177,14.9
+Race/Ethnicity,Hispanic/Latino,Tobacco use,never,948,79.6
+Race/Ethnicity,Hispanic/Latino,Abdominal Pain,Yes       ,160,13.0
+Race/Ethnicity,Hispanic/Latino,Abdominal Pain,No        ,1072,87.0
+Race/Ethnicity,Hispanic/Latino,Altered mental status/confusion,Yes       ,46,3.7
+Race/Ethnicity,Hispanic/Latino,Altered mental status/confusion,No        ,1186,96.3
+Race/Ethnicity,Hispanic/Latino,Anosmia/decreased smell,Yes       ,69,5.6
+Race/Ethnicity,Hispanic/Latino,Anosmia/decreased smell,No        ,1163,94.4
+Race/Ethnicity,Hispanic/Latino,Chest pain,Yes       ,262,21.3
+Race/Ethnicity,Hispanic/Latino,Chest pain,No        ,970,78.7
+Race/Ethnicity,Hispanic/Latino,Congested/runny nose,Yes       ,171,13.9
+Race/Ethnicity,Hispanic/Latino,Congested/runny nose,No        ,1061,86.1
+Race/Ethnicity,Hispanic/Latino,Conjunctivitis,Yes       ,5,0.4
+Race/Ethnicity,Hispanic/Latino,Conjunctivitis,No        ,1227,99.6
+Race/Ethnicity,Hispanic/Latino,Cough,Yes       ,952,77.3
+Race/Ethnicity,Hispanic/Latino,Cough,No        ,280,22.7
+Race/Ethnicity,Hispanic/Latino,Diarrhea,Yes       ,308,25.0
+Race/Ethnicity,Hispanic/Latino,Diarrhea,No        ,924,75.0
+Race/Ethnicity,Hispanic/Latino,Dysgeusia/decreased taste,Yes       ,78,6.3
+Race/Ethnicity,Hispanic/Latino,Dysgeusia/decreased taste,No        ,1154,93.7
+Race/Ethnicity,Hispanic/Latino,Fever/chills,Yes       ,917,74.4
+Race/Ethnicity,Hispanic/Latino,Fever/chills,No        ,315,25.6
+Race/Ethnicity,Hispanic/Latino,Headache,Yes       ,287,23.3
+Race/Ethnicity,Hispanic/Latino,Headache,No        ,945,76.7
+Race/Ethnicity,Hispanic/Latino,Hemoptysis/bloody sputum,Yes       ,21,1.7
+Race/Ethnicity,Hispanic/Latino,Hemoptysis/bloody sputum,No        ,1211,98.3
+Race/Ethnicity,Hispanic/Latino,Muscle aches/myalgias,Yes       ,444,36.0
+Race/Ethnicity,Hispanic/Latino,Muscle aches/myalgias,No        ,788,64.0
+Race/Ethnicity,Hispanic/Latino,Nausea/vomiting,Yes       ,344,27.9
+Race/Ethnicity,Hispanic/Latino,Nausea/vomiting,No        ,888,72.1
+Race/Ethnicity,Hispanic/Latino,Rash,Yes       ,2,0.2
+Race/Ethnicity,Hispanic/Latino,Rash,No        ,1230,99.8
+Race/Ethnicity,Hispanic/Latino,Seizure,Yes       ,2,0.2
+Race/Ethnicity,Hispanic/Latino,Seizure,No        ,1230,99.8
+Race/Ethnicity,Hispanic/Latino,Shortness of breath,Yes       ,891,72.3
+Race/Ethnicity,Hispanic/Latino,Shortness of breath,No        ,341,27.7
+Race/Ethnicity,Hispanic/Latino,Sore throat,Yes       ,207,16.8
+Race/Ethnicity,Hispanic/Latino,Sore throat,No        ,1025,83.2
+Race/Ethnicity,Hispanic/Latino,Wheezing,Yes       ,36,2.9
+Race/Ethnicity,Hispanic/Latino,Wheezing,No        ,1196,97.1
+Race/Ethnicity,Hispanic/Latino,Acute encephalopahty/encephalitis,Yes       ,47,4.4
+Race/Ethnicity,Hispanic/Latino,Acute encephalopahty/encephalitis,No        ,1025,95.6
+Race/Ethnicity,Hispanic/Latino,Acute myocardial infarction,Yes       ,13,1.2
+Race/Ethnicity,Hispanic/Latino,Acute myocardial infarction,No        ,1059,98.8
+Race/Ethnicity,Hispanic/Latino,Acute myocarditis,Yes       ,,
+Race/Ethnicity,Hispanic/Latino,Acute myocarditis,No        ,1072,100.0
+Race/Ethnicity,Hispanic/Latino,Acute renal failure/acute kidney injury,Yes       ,105,9.8
+Race/Ethnicity,Hispanic/Latino,Acute renal failure/acute kidney injury,No        ,967,90.2
+Race/Ethnicity,Hispanic/Latino,Acute respiratory distress syndrome,Yes       ,102,9.5
+Race/Ethnicity,Hispanic/Latino,Acute respiratory distress syndrome,No        ,970,90.5
+Race/Ethnicity,Hispanic/Latino,Acute respiratory failure,Yes       ,473,44.1
+Race/Ethnicity,Hispanic/Latino,Acute respiratory failure,No        ,599,55.9
+Race/Ethnicity,Hispanic/Latino,Asthma exacerbation,Yes       ,12,1.1
+Race/Ethnicity,Hispanic/Latino,Asthma exacerbation,No        ,1060,98.9
+Race/Ethnicity,Hispanic/Latino,Bacteremia,Yes       ,19,1.8
+Race/Ethnicity,Hispanic/Latino,Bacteremia,No        ,1053,98.2
+Race/Ethnicity,Hispanic/Latino,Bronchiolitis,Yes       ,1,0.1
+Race/Ethnicity,Hispanic/Latino,Bronchiolitis,No        ,1070,99.9
+Race/Ethnicity,Hispanic/Latino,Bronchitis,Yes       ,7,0.7
+Race/Ethnicity,Hispanic/Latino,Bronchitis,No        ,1065,99.3
+Race/Ethnicity,Hispanic/Latino,Congestive heart failure,Yes       ,5,0.5
+Race/Ethnicity,Hispanic/Latino,Congestive heart failure,No        ,1067,99.5
+Race/Ethnicity,Hispanic/Latino,COPD exacerbation,Yes       ,2,0.2
+Race/Ethnicity,Hispanic/Latino,COPD exacerbation,No        ,1070,99.8
+Race/Ethnicity,Hispanic/Latino,Diabetic ketoacidosis,Yes       ,11,1.0
+Race/Ethnicity,Hispanic/Latino,Diabetic ketoacidosis,No        ,1061,99.0
+Race/Ethnicity,Hispanic/Latino,Disseminated intravascular coagulation,Yes       ,,
+Race/Ethnicity,Hispanic/Latino,Disseminated intravascular coagulation,No        ,1072,100.0
+Race/Ethnicity,Hispanic/Latino,Guillan-Barre syndrome,Yes       ,,
+Race/Ethnicity,Hispanic/Latino,Guillan-Barre syndrome,No        ,1071,100.0
+Race/Ethnicity,Hispanic/Latino,Hemophagocytic syndrome,Yes       ,,
+Race/Ethnicity,Hispanic/Latino,Hemophagocytic syndrome,No        ,1072,100.0
+Race/Ethnicity,Hispanic/Latino,Invasive pulmonary aspergillosis,Yes       ,,
+Race/Ethnicity,Hispanic/Latino,Invasive pulmonary aspergillosis,No        ,1072,100.0
+Race/Ethnicity,Hispanic/Latino,Reyes Syndrome,Yes       ,,
+Race/Ethnicity,Hispanic/Latino,Reyes Syndrome,No        ,1072,100.0
+Race/Ethnicity,Hispanic/Latino,Rhabdomyolysis,Yes       ,8,0.7
+Race/Ethnicity,Hispanic/Latino,Rhabdomyolysis,No        ,1063,99.3
+Race/Ethnicity,Hispanic/Latino,Pneumonia,Yes       ,632,59.0
+Race/Ethnicity,Hispanic/Latino,Pneumonia,No        ,440,41.0
+Race/Ethnicity,Hispanic/Latino,Seizures,Yes       ,5,0.5
+Race/Ethnicity,Hispanic/Latino,Seizures,No        ,1065,99.5
+Race/Ethnicity,Hispanic/Latino,Sepsis,Yes       ,221,20.7
+Race/Ethnicity,Hispanic/Latino,Sepsis,No        ,847,79.3
+Race/Ethnicity,Hispanic/Latino,Stroke/CVA,Yes       ,1,0.1
+Race/Ethnicity,Hispanic/Latino,Stroke/CVA,No        ,1071,99.9
+Race/Ethnicity,Asian/Pacific Islander,Age,18-49 yr,355,28.9
+Race/Ethnicity,Asian/Pacific Islander,Age,50-64 yr,374,30.4
+Race/Ethnicity,Asian/Pacific Islander,Age,65+ yr,501,40.7
+Race/Ethnicity,Asian/Pacific Islander,Sex,Male,637,51.8
+Race/Ethnicity,Asian/Pacific Islander,Sex,Female,593,48.2
+Race/Ethnicity,Asian/Pacific Islander,BIPAP/CPAP,Yes       ,47,10.4
+Race/Ethnicity,Asian/Pacific Islander,BIPAP/CPAP,No        ,404,89.6
+Race/Ethnicity,Asian/Pacific Islander,In-hospital death,Yes       ,55,12.2
+Race/Ethnicity,Asian/Pacific Islander,In-hospital death,No        ,397,87.8
+Race/Ethnicity,Asian/Pacific Islander,HFNC,Yes       ,81,18.0
+Race/Ethnicity,Asian/Pacific Islander,HFNC,No        ,370,82.0
+Race/Ethnicity,Asian/Pacific Islander,Intensive care unit,Yes       ,159,35.3
+Race/Ethnicity,Asian/Pacific Islander,Intensive care unit,No        ,292,64.7
+Race/Ethnicity,Asian/Pacific Islander,Mechanical ventilation,Yes       ,88,19.5
+Race/Ethnicity,Asian/Pacific Islander,Mechanical ventilation,No        ,363,80.5
+Race/Ethnicity,Asian/Pacific Islander,RRT,Yes       ,18,4.0
+Race/Ethnicity,Asian/Pacific Islander,RRT,No        ,432,96.0
+Race/Ethnicity,Asian/Pacific Islander,Vasopressors,Yes       ,90,20.0
+Race/Ethnicity,Asian/Pacific Islander,Vasopressors,No        ,359,80.0
+Race/Ethnicity,Asian/Pacific Islander,Blood disorder/Hemoglobinopathy,Yes       ,8,1.7
+Race/Ethnicity,Asian/Pacific Islander,Blood disorder/Hemoglobinopathy,No        ,475,98.3
+Race/Ethnicity,Asian/Pacific Islander,CLD,Yes       ,49,10.2
+Race/Ethnicity,Asian/Pacific Islander,CLD,No        ,433,89.8
+Race/Ethnicity,Asian/Pacific Islander,Asthma,Yes       ,50,10.4
+Race/Ethnicity,Asian/Pacific Islander,Asthma,No        ,432,89.6
+Race/Ethnicity,Asian/Pacific Islander,COPD/emphysema,Yes       ,21,4.4
+Race/Ethnicity,Asian/Pacific Islander,COPD/emphysema,No        ,461,95.6
+Race/Ethnicity,Asian/Pacific Islander,Obstructive sleep apnea,Yes       ,26,5.4
+Race/Ethnicity,Asian/Pacific Islander,Obstructive sleep apnea,No        ,456,94.6
+Race/Ethnicity,Asian/Pacific Islander,CMD,Yes       ,180,37.2
+Race/Ethnicity,Asian/Pacific Islander,CMD,No        ,304,62.8
+Race/Ethnicity,Asian/Pacific Islander,Diabetes,Yes       ,156,32.2
+Race/Ethnicity,Asian/Pacific Islander,Diabetes,No        ,328,67.8
+Race/Ethnicity,Asian/Pacific Islander,Thyroid dysfunction,Yes       ,35,7.2
+Race/Ethnicity,Asian/Pacific Islander,Thyroid dysfunction,No        ,449,92.8
+Race/Ethnicity,Asian/Pacific Islander,CVD,Yes       ,102,21.1
+Race/Ethnicity,Asian/Pacific Islander,CVD,No        ,382,78.9
+Race/Ethnicity,Asian/Pacific Islander,Atrial fibrillation,Yes       ,23,4.8
+Race/Ethnicity,Asian/Pacific Islander,Atrial fibrillation,No        ,461,95.2
+Race/Ethnicity,Asian/Pacific Islander,Coronary artery disease,Yes       ,42,8.7
+Race/Ethnicity,Asian/Pacific Islander,Coronary artery disease,No        ,442,91.3
+Race/Ethnicity,Asian/Pacific Islander,Heart failure,Yes       ,25,5.2
+Race/Ethnicity,Asian/Pacific Islander,Heart failure,No        ,459,94.8
+Race/Ethnicity,Asian/Pacific Islander,Stroke,Yes       ,28,5.8
+Race/Ethnicity,Asian/Pacific Islander,Stroke,No        ,456,94.2
+Race/Ethnicity,Asian/Pacific Islander,Hypertension,Yes       ,216,44.4
+Race/Ethnicity,Asian/Pacific Islander,Hypertension,No        ,270,55.6
+Race/Ethnicity,Asian/Pacific Islander,Immunocompromised condition,Yes       ,27,5.6
+Race/Ethnicity,Asian/Pacific Islander,Immunocompromised condition,No        ,455,94.4
+Race/Ethnicity,Asian/Pacific Islander,AIDS/HIV,Yes       ,1,0.2
+Race/Ethnicity,Asian/Pacific Islander,AIDS/HIV,No        ,481,99.8
+Race/Ethnicity,Asian/Pacific Islander,Liver disease,Yes       ,33,6.8
+Race/Ethnicity,Asian/Pacific Islander,Liver disease,No        ,449,93.2
+Race/Ethnicity,Asian/Pacific Islander,Neurologic,Yes       ,63,13.0
+Race/Ethnicity,Asian/Pacific Islander,Neurologic,No        ,421,87.0
+Race/Ethnicity,Asian/Pacific Islander,Dementia/Alzheimer's disease,Yes       ,30,6.2
+Race/Ethnicity,Asian/Pacific Islander,Dementia/Alzheimer's disease,No        ,454,93.8
+Race/Ethnicity,Asian/Pacific Islander,Obesity,Yes       ,152,35.7
+Race/Ethnicity,Asian/Pacific Islander,Obesity,No        ,274,64.3
+Race/Ethnicity,Asian/Pacific Islander,Renal disease,Yes       ,61,12.7
+Race/Ethnicity,Asian/Pacific Islander,Renal disease,No        ,421,87.3
+Race/Ethnicity,Asian/Pacific Islander,Chronic kidney disease,Yes       ,61,12.7
+Race/Ethnicity,Asian/Pacific Islander,Chronic kidney disease,No        ,421,87.3
+Race/Ethnicity,Asian/Pacific Islander,Rheumatologic/Autoimmune,Yes       ,6,1.2
+Race/Ethnicity,Asian/Pacific Islander,Rheumatologic/Autoimmune,No        ,476,98.8
+Race/Ethnicity,Asian/Pacific Islander,Tobacco use,current,17,3.5
+Race/Ethnicity,Asian/Pacific Islander,Tobacco use,former,81,16.8
+Race/Ethnicity,Asian/Pacific Islander,Tobacco use,never,385,79.7
+Race/Ethnicity,Asian/Pacific Islander,Abdominal Pain,Yes       ,63,12.5
+Race/Ethnicity,Asian/Pacific Islander,Abdominal Pain,No        ,441,87.5
+Race/Ethnicity,Asian/Pacific Islander,Altered mental status/confusion,Yes       ,34,6.7
+Race/Ethnicity,Asian/Pacific Islander,Altered mental status/confusion,No        ,470,93.3
+Race/Ethnicity,Asian/Pacific Islander,Anosmia/decreased smell,Yes       ,36,7.1
+Race/Ethnicity,Asian/Pacific Islander,Anosmia/decreased smell,No        ,468,92.9
+Race/Ethnicity,Asian/Pacific Islander,Chest pain,Yes       ,72,14.3
+Race/Ethnicity,Asian/Pacific Islander,Chest pain,No        ,432,85.7
+Race/Ethnicity,Asian/Pacific Islander,Congested/runny nose,Yes       ,40,7.9
+Race/Ethnicity,Asian/Pacific Islander,Congested/runny nose,No        ,464,92.1
+Race/Ethnicity,Asian/Pacific Islander,Conjunctivitis,Yes       ,1,0.2
+Race/Ethnicity,Asian/Pacific Islander,Conjunctivitis,No        ,503,99.8
+Race/Ethnicity,Asian/Pacific Islander,Cough,Yes       ,367,72.8
+Race/Ethnicity,Asian/Pacific Islander,Cough,No        ,137,27.2
+Race/Ethnicity,Asian/Pacific Islander,Diarrhea,Yes       ,117,23.2
+Race/Ethnicity,Asian/Pacific Islander,Diarrhea,No        ,387,76.8
+Race/Ethnicity,Asian/Pacific Islander,Dysgeusia/decreased taste,Yes       ,39,7.7
+Race/Ethnicity,Asian/Pacific Islander,Dysgeusia/decreased taste,No        ,465,92.3
+Race/Ethnicity,Asian/Pacific Islander,Fever/chills,Yes       ,370,73.4
+Race/Ethnicity,Asian/Pacific Islander,Fever/chills,No        ,134,26.6
+Race/Ethnicity,Asian/Pacific Islander,Headache,Yes       ,94,18.7
+Race/Ethnicity,Asian/Pacific Islander,Headache,No        ,410,81.3
+Race/Ethnicity,Asian/Pacific Islander,Hemoptysis/bloody sputum,Yes       ,6,1.2
+Race/Ethnicity,Asian/Pacific Islander,Hemoptysis/bloody sputum,No        ,498,98.8
+Race/Ethnicity,Asian/Pacific Islander,Muscle aches/myalgias,Yes       ,144,28.6
+Race/Ethnicity,Asian/Pacific Islander,Muscle aches/myalgias,No        ,360,71.4
+Race/Ethnicity,Asian/Pacific Islander,Nausea/vomiting,Yes       ,111,22.0
+Race/Ethnicity,Asian/Pacific Islander,Nausea/vomiting,No        ,393,78.0
+Race/Ethnicity,Asian/Pacific Islander,Rash,Yes       ,2,0.4
+Race/Ethnicity,Asian/Pacific Islander,Rash,No        ,502,99.6
+Race/Ethnicity,Asian/Pacific Islander,Seizure,Yes       ,1,0.2
+Race/Ethnicity,Asian/Pacific Islander,Seizure,No        ,503,99.8
+Race/Ethnicity,Asian/Pacific Islander,Shortness of breath,Yes       ,352,69.8
+Race/Ethnicity,Asian/Pacific Islander,Shortness of breath,No        ,152,30.2
+Race/Ethnicity,Asian/Pacific Islander,Sore throat,Yes       ,55,10.9
+Race/Ethnicity,Asian/Pacific Islander,Sore throat,No        ,449,89.1
+Race/Ethnicity,Asian/Pacific Islander,Wheezing,Yes       ,16,3.2
+Race/Ethnicity,Asian/Pacific Islander,Wheezing,No        ,488,96.8
+Race/Ethnicity,Asian/Pacific Islander,Acute encephalopahty/encephalitis,Yes       ,24,5.3
+Race/Ethnicity,Asian/Pacific Islander,Acute encephalopahty/encephalitis,No        ,425,94.7
+Race/Ethnicity,Asian/Pacific Islander,Acute myocardial infarction,Yes       ,3,0.7
+Race/Ethnicity,Asian/Pacific Islander,Acute myocardial infarction,No        ,447,99.3
+Race/Ethnicity,Asian/Pacific Islander,Acute myocarditis,Yes       ,,
+Race/Ethnicity,Asian/Pacific Islander,Acute myocarditis,No        ,450,100.0
+Race/Ethnicity,Asian/Pacific Islander,Acute renal failure/acute kidney injury,Yes       ,71,15.7
+Race/Ethnicity,Asian/Pacific Islander,Acute renal failure/acute kidney injury,No        ,380,84.3
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory distress syndrome,Yes       ,54,12.0
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory distress syndrome,No        ,397,88.0
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory failure,Yes       ,188,41.7
+Race/Ethnicity,Asian/Pacific Islander,Acute respiratory failure,No        ,263,58.3
+Race/Ethnicity,Asian/Pacific Islander,Asthma exacerbation,Yes       ,5,1.1
+Race/Ethnicity,Asian/Pacific Islander,Asthma exacerbation,No        ,445,98.9
+Race/Ethnicity,Asian/Pacific Islander,Bacteremia,Yes       ,2,0.4
+Race/Ethnicity,Asian/Pacific Islander,Bacteremia,No        ,448,99.6
+Race/Ethnicity,Asian/Pacific Islander,Bronchiolitis,Yes       ,1,0.2
+Race/Ethnicity,Asian/Pacific Islander,Bronchiolitis,No        ,449,99.8
+Race/Ethnicity,Asian/Pacific Islander,Bronchitis,Yes       ,3,0.7
+Race/Ethnicity,Asian/Pacific Islander,Bronchitis,No        ,447,99.3
+Race/Ethnicity,Asian/Pacific Islander,Congestive heart failure,Yes       ,4,0.9
+Race/Ethnicity,Asian/Pacific Islander,Congestive heart failure,No        ,446,99.1
+Race/Ethnicity,Asian/Pacific Islander,COPD exacerbation,Yes       ,1,0.2
+Race/Ethnicity,Asian/Pacific Islander,COPD exacerbation,No        ,449,99.8
+Race/Ethnicity,Asian/Pacific Islander,Diabetic ketoacidosis,Yes       ,1,0.2
+Race/Ethnicity,Asian/Pacific Islander,Diabetic ketoacidosis,No        ,449,99.8
+Race/Ethnicity,Asian/Pacific Islander,Disseminated intravascular coagulation,Yes       ,2,0.4
+Race/Ethnicity,Asian/Pacific Islander,Disseminated intravascular coagulation,No        ,448,99.6
+Race/Ethnicity,Asian/Pacific Islander,Guillan-Barre syndrome,Yes       ,,
+Race/Ethnicity,Asian/Pacific Islander,Guillan-Barre syndrome,No        ,450,100.0
+Race/Ethnicity,Asian/Pacific Islander,Hemophagocytic syndrome,Yes       ,,
+Race/Ethnicity,Asian/Pacific Islander,Hemophagocytic syndrome,No        ,450,100.0
+Race/Ethnicity,Asian/Pacific Islander,Invasive pulmonary aspergillosis,Yes       ,,
+Race/Ethnicity,Asian/Pacific Islander,Invasive pulmonary aspergillosis,No        ,449,100.0
+Race/Ethnicity,Asian/Pacific Islander,Reyes Syndrome,Yes       ,,
+Race/Ethnicity,Asian/Pacific Islander,Reyes Syndrome,No        ,450,100.0
+Race/Ethnicity,Asian/Pacific Islander,Rhabdomyolysis,Yes       ,1,0.2
+Race/Ethnicity,Asian/Pacific Islander,Rhabdomyolysis,No        ,448,99.8
+Race/Ethnicity,Asian/Pacific Islander,Pneumonia,Yes       ,253,56.2
+Race/Ethnicity,Asian/Pacific Islander,Pneumonia,No        ,197,43.8
+Race/Ethnicity,Asian/Pacific Islander,Seizures,Yes       ,2,0.4
+Race/Ethnicity,Asian/Pacific Islander,Seizures,No        ,448,99.6
+Race/Ethnicity,Asian/Pacific Islander,Sepsis,Yes       ,79,17.6
+Race/Ethnicity,Asian/Pacific Islander,Sepsis,No        ,371,82.4
+Race/Ethnicity,Asian/Pacific Islander,Stroke/CVA,Yes       ,3,0.7
+Race/Ethnicity,Asian/Pacific Islander,Stroke/CVA,No        ,447,99.3
+Race/Ethnicity,American Indian/Alaska Native,Age,18-49 yr,167,39.1
+Race/Ethnicity,American Indian/Alaska Native,Age,50-64 yr,150,35.1
+Race/Ethnicity,American Indian/Alaska Native,Age,65+ yr,110,25.8
+Race/Ethnicity,American Indian/Alaska Native,Sex,Male,174,40.9
+Race/Ethnicity,American Indian/Alaska Native,Sex,Female,251,59.1
+Race/Ethnicity,American Indian/Alaska Native,BIPAP/CPAP,Yes       ,14,11.5
+Race/Ethnicity,American Indian/Alaska Native,BIPAP/CPAP,No        ,108,88.5
+Race/Ethnicity,American Indian/Alaska Native,In-hospital death,Yes       ,19,15.6
+Race/Ethnicity,American Indian/Alaska Native,In-hospital death,No        ,103,84.4
+Race/Ethnicity,American Indian/Alaska Native,HFNC,Yes       ,24,19.7
+Race/Ethnicity,American Indian/Alaska Native,HFNC,No        ,98,80.3
+Race/Ethnicity,American Indian/Alaska Native,Intensive care unit,Yes       ,33,27.0
+Race/Ethnicity,American Indian/Alaska Native,Intensive care unit,No        ,89,73.0
+Race/Ethnicity,American Indian/Alaska Native,Mechanical ventilation,Yes       ,20,16.4
+Race/Ethnicity,American Indian/Alaska Native,Mechanical ventilation,No        ,102,83.6
+Race/Ethnicity,American Indian/Alaska Native,RRT,Yes       ,8,6.6
+Race/Ethnicity,American Indian/Alaska Native,RRT,No        ,114,93.4
+Race/Ethnicity,American Indian/Alaska Native,Vasopressors,Yes       ,22,18.0
+Race/Ethnicity,American Indian/Alaska Native,Vasopressors,No        ,100,82.0
+Race/Ethnicity,American Indian/Alaska Native,Blood disorder/Hemoglobinopathy,Yes       ,5,3.6
+Race/Ethnicity,American Indian/Alaska Native,Blood disorder/Hemoglobinopathy,No        ,134,96.4
+Race/Ethnicity,American Indian/Alaska Native,CLD,Yes       ,13,9.4
+Race/Ethnicity,American Indian/Alaska Native,CLD,No        ,126,90.6
+Race/Ethnicity,American Indian/Alaska Native,Asthma,Yes       ,26,18.7
+Race/Ethnicity,American Indian/Alaska Native,Asthma,No        ,113,81.3
+Race/Ethnicity,American Indian/Alaska Native,COPD/emphysema,Yes       ,4,2.9
+Race/Ethnicity,American Indian/Alaska Native,COPD/emphysema,No        ,135,97.1
+Race/Ethnicity,American Indian/Alaska Native,Obstructive sleep apnea,Yes       ,9,6.5
+Race/Ethnicity,American Indian/Alaska Native,Obstructive sleep apnea,No        ,130,93.5
+Race/Ethnicity,American Indian/Alaska Native,CMD,Yes       ,60,43.2
+Race/Ethnicity,American Indian/Alaska Native,CMD,No        ,79,56.8
+Race/Ethnicity,American Indian/Alaska Native,Diabetes,Yes       ,53,38.1
+Race/Ethnicity,American Indian/Alaska Native,Diabetes,No        ,86,61.9
+Race/Ethnicity,American Indian/Alaska Native,Thyroid dysfunction,Yes       ,11,7.9
+Race/Ethnicity,American Indian/Alaska Native,Thyroid dysfunction,No        ,128,92.1
+Race/Ethnicity,American Indian/Alaska Native,CVD,Yes       ,25,18.0
+Race/Ethnicity,American Indian/Alaska Native,CVD,No        ,114,82.0
+Race/Ethnicity,American Indian/Alaska Native,Atrial fibrillation,Yes       ,6,4.3
+Race/Ethnicity,American Indian/Alaska Native,Atrial fibrillation,No        ,133,95.7
+Race/Ethnicity,American Indian/Alaska Native,Coronary artery disease,Yes       ,7,5.0
+Race/Ethnicity,American Indian/Alaska Native,Coronary artery disease,No        ,132,95.0
+Race/Ethnicity,American Indian/Alaska Native,Heart failure,Yes       ,12,8.6
+Race/Ethnicity,American Indian/Alaska Native,Heart failure,No        ,127,91.4
+Race/Ethnicity,American Indian/Alaska Native,Stroke,Yes       ,9,6.5
+Race/Ethnicity,American Indian/Alaska Native,Stroke,No        ,130,93.5
+Race/Ethnicity,American Indian/Alaska Native,Hypertension,Yes       ,55,39.6
+Race/Ethnicity,American Indian/Alaska Native,Hypertension,No        ,84,60.4
+Race/Ethnicity,American Indian/Alaska Native,Immunocompromised condition,Yes       ,7,5.0
+Race/Ethnicity,American Indian/Alaska Native,Immunocompromised condition,No        ,132,95.0
+Race/Ethnicity,American Indian/Alaska Native,AIDS/HIV,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,AIDS/HIV,No        ,139,100.0
+Race/Ethnicity,American Indian/Alaska Native,Liver disease,Yes       ,13,9.4
+Race/Ethnicity,American Indian/Alaska Native,Liver disease,No        ,126,90.6
+Race/Ethnicity,American Indian/Alaska Native,Neurologic,Yes       ,28,20.1
+Race/Ethnicity,American Indian/Alaska Native,Neurologic,No        ,111,79.9
+Race/Ethnicity,American Indian/Alaska Native,Dementia/Alzheimer's disease,Yes       ,5,3.6
+Race/Ethnicity,American Indian/Alaska Native,Dementia/Alzheimer's disease,No        ,134,96.4
+Race/Ethnicity,American Indian/Alaska Native,Obesity,Yes       ,69,53.5
+Race/Ethnicity,American Indian/Alaska Native,Obesity,No        ,60,46.5
+Race/Ethnicity,American Indian/Alaska Native,Renal disease,Yes       ,16,11.5
+Race/Ethnicity,American Indian/Alaska Native,Renal disease,No        ,123,88.5
+Race/Ethnicity,American Indian/Alaska Native,Chronic kidney disease,Yes       ,16,11.5
+Race/Ethnicity,American Indian/Alaska Native,Chronic kidney disease,No        ,123,88.5
+Race/Ethnicity,American Indian/Alaska Native,Rheumatologic/Autoimmune,Yes       ,1,0.7
+Race/Ethnicity,American Indian/Alaska Native,Rheumatologic/Autoimmune,No        ,138,99.3
+Race/Ethnicity,American Indian/Alaska Native,Tobacco use,current,25,18.1
+Race/Ethnicity,American Indian/Alaska Native,Tobacco use,former,30,21.7
+Race/Ethnicity,American Indian/Alaska Native,Tobacco use,never,83,60.1
+Race/Ethnicity,American Indian/Alaska Native,Abdominal Pain,Yes       ,16,11.5
+Race/Ethnicity,American Indian/Alaska Native,Abdominal Pain,No        ,123,88.5
+Race/Ethnicity,American Indian/Alaska Native,Altered mental status/confusion,Yes       ,9,6.5
+Race/Ethnicity,American Indian/Alaska Native,Altered mental status/confusion,No        ,130,93.5
+Race/Ethnicity,American Indian/Alaska Native,Anosmia/decreased smell,Yes       ,9,6.5
+Race/Ethnicity,American Indian/Alaska Native,Anosmia/decreased smell,No        ,130,93.5
+Race/Ethnicity,American Indian/Alaska Native,Chest pain,Yes       ,25,18.0
+Race/Ethnicity,American Indian/Alaska Native,Chest pain,No        ,114,82.0
+Race/Ethnicity,American Indian/Alaska Native,Congested/runny nose,Yes       ,15,10.8
+Race/Ethnicity,American Indian/Alaska Native,Congested/runny nose,No        ,124,89.2
+Race/Ethnicity,American Indian/Alaska Native,Conjunctivitis,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Conjunctivitis,No        ,139,100.0
+Race/Ethnicity,American Indian/Alaska Native,Cough,Yes       ,90,64.7
+Race/Ethnicity,American Indian/Alaska Native,Cough,No        ,49,35.3
+Race/Ethnicity,American Indian/Alaska Native,Diarrhea,Yes       ,41,29.5
+Race/Ethnicity,American Indian/Alaska Native,Diarrhea,No        ,98,70.5
+Race/Ethnicity,American Indian/Alaska Native,Dysgeusia/decreased taste,Yes       ,6,4.3
+Race/Ethnicity,American Indian/Alaska Native,Dysgeusia/decreased taste,No        ,133,95.7
+Race/Ethnicity,American Indian/Alaska Native,Fever/chills,Yes       ,88,63.3
+Race/Ethnicity,American Indian/Alaska Native,Fever/chills,No        ,51,36.7
+Race/Ethnicity,American Indian/Alaska Native,Headache,Yes       ,28,20.1
+Race/Ethnicity,American Indian/Alaska Native,Headache,No        ,111,79.9
+Race/Ethnicity,American Indian/Alaska Native,Hemoptysis/bloody sputum,Yes       ,2,1.4
+Race/Ethnicity,American Indian/Alaska Native,Hemoptysis/bloody sputum,No        ,137,98.6
+Race/Ethnicity,American Indian/Alaska Native,Muscle aches/myalgias,Yes       ,48,34.5
+Race/Ethnicity,American Indian/Alaska Native,Muscle aches/myalgias,No        ,91,65.5
+Race/Ethnicity,American Indian/Alaska Native,Nausea/vomiting,Yes       ,35,25.2
+Race/Ethnicity,American Indian/Alaska Native,Nausea/vomiting,No        ,104,74.8
+Race/Ethnicity,American Indian/Alaska Native,Rash,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Rash,No        ,139,100.0
+Race/Ethnicity,American Indian/Alaska Native,Seizure,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Seizure,No        ,139,100.0
+Race/Ethnicity,American Indian/Alaska Native,Shortness of breath,Yes       ,93,66.9
+Race/Ethnicity,American Indian/Alaska Native,Shortness of breath,No        ,46,33.1
+Race/Ethnicity,American Indian/Alaska Native,Sore throat,Yes       ,16,11.5
+Race/Ethnicity,American Indian/Alaska Native,Sore throat,No        ,123,88.5
+Race/Ethnicity,American Indian/Alaska Native,Wheezing,Yes       ,2,1.4
+Race/Ethnicity,American Indian/Alaska Native,Wheezing,No        ,137,98.6
+Race/Ethnicity,American Indian/Alaska Native,Acute encephalopahty/encephalitis,Yes       ,7,5.7
+Race/Ethnicity,American Indian/Alaska Native,Acute encephalopahty/encephalitis,No        ,115,94.3
+Race/Ethnicity,American Indian/Alaska Native,Acute myocardial infarction,Yes       ,1,0.8
+Race/Ethnicity,American Indian/Alaska Native,Acute myocardial infarction,No        ,121,99.2
+Race/Ethnicity,American Indian/Alaska Native,Acute myocarditis,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Acute myocarditis,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Acute renal failure/acute kidney injury,Yes       ,13,10.7
+Race/Ethnicity,American Indian/Alaska Native,Acute renal failure/acute kidney injury,No        ,109,89.3
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory distress syndrome,Yes       ,11,9.0
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory distress syndrome,No        ,111,91.0
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory failure,Yes       ,66,54.1
+Race/Ethnicity,American Indian/Alaska Native,Acute respiratory failure,No        ,56,45.9
+Race/Ethnicity,American Indian/Alaska Native,Asthma exacerbation,Yes       ,3,2.5
+Race/Ethnicity,American Indian/Alaska Native,Asthma exacerbation,No        ,119,97.5
+Race/Ethnicity,American Indian/Alaska Native,Bacteremia,Yes       ,5,4.1
+Race/Ethnicity,American Indian/Alaska Native,Bacteremia,No        ,117,95.9
+Race/Ethnicity,American Indian/Alaska Native,Bronchiolitis,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Bronchiolitis,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Bronchitis,Yes       ,3,2.5
+Race/Ethnicity,American Indian/Alaska Native,Bronchitis,No        ,119,97.5
+Race/Ethnicity,American Indian/Alaska Native,Congestive heart failure,Yes       ,2,1.6
+Race/Ethnicity,American Indian/Alaska Native,Congestive heart failure,No        ,120,98.4
+Race/Ethnicity,American Indian/Alaska Native,COPD exacerbation,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,COPD exacerbation,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Diabetic ketoacidosis,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Diabetic ketoacidosis,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Disseminated intravascular coagulation,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Disseminated intravascular coagulation,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Guillan-Barre syndrome,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Guillan-Barre syndrome,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Hemophagocytic syndrome,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Hemophagocytic syndrome,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Invasive pulmonary aspergillosis,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Invasive pulmonary aspergillosis,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Reyes Syndrome,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Reyes Syndrome,No        ,122,100.0
+Race/Ethnicity,American Indian/Alaska Native,Rhabdomyolysis,Yes       ,1,0.8
+Race/Ethnicity,American Indian/Alaska Native,Rhabdomyolysis,No        ,121,99.2
+Race/Ethnicity,American Indian/Alaska Native,Pneumonia,Yes       ,74,60.7
+Race/Ethnicity,American Indian/Alaska Native,Pneumonia,No        ,48,39.3
+Race/Ethnicity,American Indian/Alaska Native,Seizures,Yes       ,1,0.8
+Race/Ethnicity,American Indian/Alaska Native,Seizures,No        ,121,99.2
+Race/Ethnicity,American Indian/Alaska Native,Sepsis,Yes       ,22,18.2
+Race/Ethnicity,American Indian/Alaska Native,Sepsis,No        ,99,81.8
+Race/Ethnicity,American Indian/Alaska Native,Stroke/CVA,Yes       ,,
+Race/Ethnicity,American Indian/Alaska Native,Stroke/CVA,No        ,122,100.0
+Race/Ethnicity,Other,Age,18-49 yr,479,27.7
+Race/Ethnicity,Other,Age,50-64 yr,544,31.5
+Race/Ethnicity,Other,Age,65+ yr,705,40.8
+Race/Ethnicity,Other,Sex,Male,976,56.6
+Race/Ethnicity,Other,Sex,Female,749,43.4
+Race/Ethnicity,Other,BIPAP/CPAP,Yes       ,14,5.8
+Race/Ethnicity,Other,BIPAP/CPAP,No        ,227,94.2
+Race/Ethnicity,Other,In-hospital death,Yes       ,29,12.0
+Race/Ethnicity,Other,In-hospital death,No        ,212,88.0
+Race/Ethnicity,Other,HFNC,Yes       ,42,17.4
+Race/Ethnicity,Other,HFNC,No        ,199,82.6
+Race/Ethnicity,Other,Intensive care unit,Yes       ,70,29.0
+Race/Ethnicity,Other,Intensive care unit,No        ,171,71.0
+Race/Ethnicity,Other,Mechanical ventilation,Yes       ,37,15.4
+Race/Ethnicity,Other,Mechanical ventilation,No        ,204,84.6
+Race/Ethnicity,Other,RRT,Yes       ,7,2.9
+Race/Ethnicity,Other,RRT,No        ,234,97.1
+Race/Ethnicity,Other,Vasopressors,Yes       ,28,11.6
+Race/Ethnicity,Other,Vasopressors,No        ,213,88.4
+Race/Ethnicity,Other,Blood disorder/Hemoglobinopathy,Yes       ,3,1.1
+Race/Ethnicity,Other,Blood disorder/Hemoglobinopathy,No        ,262,98.9
+Race/Ethnicity,Other,CLD,Yes       ,33,12.5
+Race/Ethnicity,Other,CLD,No        ,232,87.5
+Race/Ethnicity,Other,Asthma,Yes       ,27,10.2
+Race/Ethnicity,Other,Asthma,No        ,238,89.8
+Race/Ethnicity,Other,COPD/emphysema,Yes       ,18,6.8
+Race/Ethnicity,Other,COPD/emphysema,No        ,247,93.2
+Race/Ethnicity,Other,Obstructive sleep apnea,Yes       ,14,5.3
+Race/Ethnicity,Other,Obstructive sleep apnea,No        ,251,94.7
+Race/Ethnicity,Other,CMD,Yes       ,101,37.8
+Race/Ethnicity,Other,CMD,No        ,166,62.2
+Race/Ethnicity,Other,Diabetes,Yes       ,85,31.8
+Race/Ethnicity,Other,Diabetes,No        ,182,68.2
+Race/Ethnicity,Other,Thyroid dysfunction,Yes       ,24,9.0
+Race/Ethnicity,Other,Thyroid dysfunction,No        ,243,91.0
+Race/Ethnicity,Other,CVD,Yes       ,81,30.5
+Race/Ethnicity,Other,CVD,No        ,185,69.5
+Race/Ethnicity,Other,Atrial fibrillation,Yes       ,22,8.3
+Race/Ethnicity,Other,Atrial fibrillation,No        ,244,91.7
+Race/Ethnicity,Other,Coronary artery disease,Yes       ,37,13.9
+Race/Ethnicity,Other,Coronary artery disease,No        ,229,86.1
+Race/Ethnicity,Other,Heart failure,Yes       ,25,9.4
+Race/Ethnicity,Other,Heart failure,No        ,241,90.6
+Race/Ethnicity,Other,Stroke,Yes       ,15,5.6
+Race/Ethnicity,Other,Stroke,No        ,251,94.4
+Race/Ethnicity,Other,Hypertension,Yes       ,129,48.1
+Race/Ethnicity,Other,Hypertension,No        ,139,51.9
+Race/Ethnicity,Other,Immunocompromised condition,Yes       ,27,10.2
+Race/Ethnicity,Other,Immunocompromised condition,No        ,239,89.8
+Race/Ethnicity,Other,AIDS/HIV,Yes       ,2,0.8
+Race/Ethnicity,Other,AIDS/HIV,No        ,264,99.2
+Race/Ethnicity,Other,Liver disease,Yes       ,8,3.0
+Race/Ethnicity,Other,Liver disease,No        ,259,97.0
+Race/Ethnicity,Other,Neurologic,Yes       ,41,15.4
+Race/Ethnicity,Other,Neurologic,No        ,225,84.6
+Race/Ethnicity,Other,Dementia/Alzheimer's disease,Yes       ,23,8.6
+Race/Ethnicity,Other,Dementia/Alzheimer's disease,No        ,243,91.4
+Race/Ethnicity,Other,Obesity,Yes       ,107,44.0
+Race/Ethnicity,Other,Obesity,No        ,136,56.0
+Race/Ethnicity,Other,Renal disease,Yes       ,32,12.0
+Race/Ethnicity,Other,Renal disease,No        ,234,88.0
+Race/Ethnicity,Other,Chronic kidney disease,Yes       ,31,11.7
+Race/Ethnicity,Other,Chronic kidney disease,No        ,235,88.3
+Race/Ethnicity,Other,Rheumatologic/Autoimmune,Yes       ,3,1.1
+Race/Ethnicity,Other,Rheumatologic/Autoimmune,No        ,263,98.9
+Race/Ethnicity,Other,Tobacco use,current,20,7.5
+Race/Ethnicity,Other,Tobacco use,former,49,18.4
+Race/Ethnicity,Other,Tobacco use,never,197,74.1
+Race/Ethnicity,Other,Abdominal Pain,Yes       ,22,7.9
+Race/Ethnicity,Other,Abdominal Pain,No        ,256,92.1
+Race/Ethnicity,Other,Altered mental status/confusion,Yes       ,30,10.8
+Race/Ethnicity,Other,Altered mental status/confusion,No        ,248,89.2
+Race/Ethnicity,Other,Anosmia/decreased smell,Yes       ,9,3.2
+Race/Ethnicity,Other,Anosmia/decreased smell,No        ,269,96.8
+Race/Ethnicity,Other,Chest pain,Yes       ,46,16.5
+Race/Ethnicity,Other,Chest pain,No        ,232,83.5
+Race/Ethnicity,Other,Congested/runny nose,Yes       ,31,11.2
+Race/Ethnicity,Other,Congested/runny nose,No        ,247,88.8
+Race/Ethnicity,Other,Conjunctivitis,Yes       ,,
+Race/Ethnicity,Other,Conjunctivitis,No        ,278,100.0
+Race/Ethnicity,Other,Cough,Yes       ,200,71.9
+Race/Ethnicity,Other,Cough,No        ,78,28.1
+Race/Ethnicity,Other,Diarrhea,Yes       ,68,24.5
+Race/Ethnicity,Other,Diarrhea,No        ,210,75.5
+Race/Ethnicity,Other,Dysgeusia/decreased taste,Yes       ,12,4.3
+Race/Ethnicity,Other,Dysgeusia/decreased taste,No        ,266,95.7
+Race/Ethnicity,Other,Fever/chills,Yes       ,202,72.7
+Race/Ethnicity,Other,Fever/chills,No        ,76,27.3
+Race/Ethnicity,Other,Headache,Yes       ,46,16.5
+Race/Ethnicity,Other,Headache,No        ,232,83.5
+Race/Ethnicity,Other,Hemoptysis/bloody sputum,Yes       ,6,2.2
+Race/Ethnicity,Other,Hemoptysis/bloody sputum,No        ,272,97.8
+Race/Ethnicity,Other,Muscle aches/myalgias,Yes       ,79,28.4
+Race/Ethnicity,Other,Muscle aches/myalgias,No        ,199,71.6
+Race/Ethnicity,Other,Nausea/vomiting,Yes       ,63,22.7
+Race/Ethnicity,Other,Nausea/vomiting,No        ,215,77.3
+Race/Ethnicity,Other,Rash,Yes       ,,
+Race/Ethnicity,Other,Rash,No        ,278,100.0
+Race/Ethnicity,Other,Seizure,Yes       ,1,0.4
+Race/Ethnicity,Other,Seizure,No        ,277,99.6
+Race/Ethnicity,Other,Shortness of breath,Yes       ,190,68.3
+Race/Ethnicity,Other,Shortness of breath,No        ,88,31.7
+Race/Ethnicity,Other,Sore throat,Yes       ,38,13.7
+Race/Ethnicity,Other,Sore throat,No        ,240,86.3
+Race/Ethnicity,Other,Wheezing,Yes       ,10,3.6
+Race/Ethnicity,Other,Wheezing,No        ,268,96.4
+Race/Ethnicity,Other,Acute encephalopahty/encephalitis,Yes       ,14,5.8
+Race/Ethnicity,Other,Acute encephalopahty/encephalitis,No        ,227,94.2
+Race/Ethnicity,Other,Acute myocardial infarction,Yes       ,3,1.2
+Race/Ethnicity,Other,Acute myocardial infarction,No        ,238,98.8
+Race/Ethnicity,Other,Acute myocarditis,Yes       ,,
+Race/Ethnicity,Other,Acute myocarditis,No        ,241,100.0
+Race/Ethnicity,Other,Acute renal failure/acute kidney injury,Yes       ,35,14.5
+Race/Ethnicity,Other,Acute renal failure/acute kidney injury,No        ,206,85.5
+Race/Ethnicity,Other,Acute respiratory distress syndrome,Yes       ,22,9.1
+Race/Ethnicity,Other,Acute respiratory distress syndrome,No        ,219,90.9
+Race/Ethnicity,Other,Acute respiratory failure,Yes       ,107,44.4
+Race/Ethnicity,Other,Acute respiratory failure,No        ,134,55.6
+Race/Ethnicity,Other,Asthma exacerbation,Yes       ,4,1.7
+Race/Ethnicity,Other,Asthma exacerbation,No        ,236,98.3
+Race/Ethnicity,Other,Bacteremia,Yes       ,4,1.7
+Race/Ethnicity,Other,Bacteremia,No        ,237,98.3
+Race/Ethnicity,Other,Bronchiolitis,Yes       ,1,0.4
+Race/Ethnicity,Other,Bronchiolitis,No        ,240,99.6
+Race/Ethnicity,Other,Bronchitis,Yes       ,2,0.8
+Race/Ethnicity,Other,Bronchitis,No        ,239,99.2
+Race/Ethnicity,Other,Congestive heart failure,Yes       ,4,1.7
+Race/Ethnicity,Other,Congestive heart failure,No        ,237,98.3
+Race/Ethnicity,Other,COPD exacerbation,Yes       ,2,0.8
+Race/Ethnicity,Other,COPD exacerbation,No        ,239,99.2
+Race/Ethnicity,Other,Diabetic ketoacidosis,Yes       ,2,0.8
+Race/Ethnicity,Other,Diabetic ketoacidosis,No        ,239,99.2
+Race/Ethnicity,Other,Disseminated intravascular coagulation,Yes       ,,
+Race/Ethnicity,Other,Disseminated intravascular coagulation,No        ,241,100.0
+Race/Ethnicity,Other,Guillan-Barre syndrome,Yes       ,,
+Race/Ethnicity,Other,Guillan-Barre syndrome,No        ,241,100.0
+Race/Ethnicity,Other,Hemophagocytic syndrome,Yes       ,,
+Race/Ethnicity,Other,Hemophagocytic syndrome,No        ,241,100.0
+Race/Ethnicity,Other,Invasive pulmonary aspergillosis,Yes       ,,
+Race/Ethnicity,Other,Invasive pulmonary aspergillosis,No        ,241,100.0
+Race/Ethnicity,Other,Reyes Syndrome,Yes       ,,
+Race/Ethnicity,Other,Reyes Syndrome,No        ,241,100.0
+Race/Ethnicity,Other,Rhabdomyolysis,Yes       ,3,1.2
+Race/Ethnicity,Other,Rhabdomyolysis,No        ,238,98.8
+Race/Ethnicity,Other,Pneumonia,Yes       ,143,59.3
+Race/Ethnicity,Other,Pneumonia,No        ,98,40.7
+Race/Ethnicity,Other,Seizures,Yes       ,2,0.8
+Race/Ethnicity,Other,Seizures,No        ,239,99.2
+Race/Ethnicity,Other,Sepsis,Yes       ,52,21.6
+Race/Ethnicity,Other,Sepsis,No        ,189,78.4
+Race/Ethnicity,Other,Stroke/CVA,Yes       ,3,1.3
+Race/Ethnicity,Other,Stroke/CVA,No        ,237,98.8
+In-hospital death,Yes       ,Age,18-49 yr,41,4.0
+In-hospital death,Yes       ,Age,50-64 yr,189,18.4
+In-hospital death,Yes       ,Age,65+ yr,799,77.6
+In-hospital death,Yes       ,Sex,Male,570,55.4
+In-hospital death,Yes       ,Sex,Female,459,44.6
+In-hospital death,Yes       ,Race/Ethnicity,White,581,56.5
+In-hospital death,Yes       ,Race/Ethnicity,Black,265,25.8
+In-hospital death,Yes       ,Race/Ethnicity,Hispanic/Latino,80,7.8
+In-hospital death,Yes       ,Race/Ethnicity,Asian/Pacific Islander,55,5.3
+In-hospital death,Yes       ,Race/Ethnicity,American Indian/Alaska Native,19,1.8
+In-hospital death,Yes       ,Race/Ethnicity,Other,103,10.0
+In-hospital death,No        ,Age,18-49 yr,1995,34.2
+In-hospital death,No        ,Age,50-64 yr,1757,30.1
+In-hospital death,No        ,Age,65+ yr,2079,35.7
+In-hospital death,No        ,Sex,Male,2943,50.5
+In-hospital death,No        ,Sex,Female,2888,49.5
+In-hospital death,No        ,Race/Ethnicity,White,2357,40.4
+In-hospital death,No        ,Race/Ethnicity,Black,1766,30.3
+In-hospital death,No        ,Race/Ethnicity,Hispanic/Latino,994,17.1
+In-hospital death,No        ,Race/Ethnicity,Asian/Pacific Islander,397,6.8
+In-hospital death,No        ,Race/Ethnicity,American Indian/Alaska Native,103,1.8
+In-hospital death,No        ,Race/Ethnicity,Other,712,12.2
+Intensive care unit,Yes       ,Age,18-49 yr,485,22.6
+Intensive care unit,Yes       ,Age,50-64 yr,686,31.9
+Intensive care unit,Yes       ,Age,65+ yr,977,45.5
+Intensive care unit,Yes       ,Sex,Male,1252,58.3
+Intensive care unit,Yes       ,Sex,Female,896,41.7
+Intensive care unit,Yes       ,Race/Ethnicity,White,903,42.1
+Intensive care unit,Yes       ,Race/Ethnicity,Black,659,30.7
+Intensive care unit,Yes       ,Race/Ethnicity,Hispanic/Latino,323,15.0
+Intensive care unit,Yes       ,Race/Ethnicity,Asian/Pacific Islander,159,7.4
+Intensive care unit,Yes       ,Race/Ethnicity,American Indian/Alaska Native,33,1.5
+Intensive care unit,Yes       ,Race/Ethnicity,Other,262,12.2
+Intensive care unit,No        ,Age,18-49 yr,1551,33.0
+Intensive care unit,No        ,Age,50-64 yr,1254,26.6
+Intensive care unit,No        ,Age,65+ yr,1901,40.4
+Intensive care unit,No        ,Sex,Male,2256,47.9
+Intensive care unit,No        ,Sex,Female,2450,52.1
+Intensive care unit,No        ,Race/Ethnicity,White,2032,43.2
+Intensive care unit,No        ,Race/Ethnicity,Black,1371,29.1
+Intensive care unit,No        ,Race/Ethnicity,Hispanic/Latino,750,15.9
+Intensive care unit,No        ,Race/Ethnicity,Asian/Pacific Islander,292,6.2
+Intensive care unit,No        ,Race/Ethnicity,American Indian/Alaska Native,89,1.9
+Intensive care unit,No        ,Race/Ethnicity,Other,552,11.7
+Mechanical ventilation,Yes       ,Age,18-49 yr,236,19.1
+Mechanical ventilation,Yes       ,Age,50-64 yr,408,33.0
+Mechanical ventilation,Yes       ,Age,65+ yr,592,47.9
+Mechanical ventilation,Yes       ,Sex,Male,746,60.4
+Mechanical ventilation,Yes       ,Sex,Female,490,39.6
+Mechanical ventilation,Yes       ,Race/Ethnicity,White,501,40.5
+Mechanical ventilation,Yes       ,Race/Ethnicity,Black,402,32.5
+Mechanical ventilation,Yes       ,Race/Ethnicity,Hispanic/Latino,188,15.2
+Mechanical ventilation,Yes       ,Race/Ethnicity,Asian/Pacific Islander,88,7.1
+Mechanical ventilation,Yes       ,Race/Ethnicity,American Indian/Alaska Native,20,1.6
+Mechanical ventilation,Yes       ,Race/Ethnicity,Other,145,11.7
+Mechanical ventilation,No        ,Age,18-49 yr,1797,32.0
+Mechanical ventilation,No        ,Age,50-64 yr,1531,27.3
+Mechanical ventilation,No        ,Age,65+ yr,2286,40.7
+Mechanical ventilation,No        ,Sex,Male,2758,49.1
+Mechanical ventilation,No        ,Sex,Female,2856,50.9
+Mechanical ventilation,No        ,Race/Ethnicity,White,2433,43.4
+Mechanical ventilation,No        ,Race/Ethnicity,Black,1627,29.0
+Mechanical ventilation,No        ,Race/Ethnicity,Hispanic/Latino,883,15.7
+Mechanical ventilation,No        ,Race/Ethnicity,Asian/Pacific Islander,363,6.5
+Mechanical ventilation,No        ,Race/Ethnicity,American Indian/Alaska Native,102,1.8
+Mechanical ventilation,No        ,Race/Ethnicity,Other,669,11.9
+
+"The Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET) hospitalization data are preliminary and subject to change as more data become available. In particular, case counts for recent hospital admissions are subject to lag. As data are received each week, prior case counts are updated accordingly. Due to small case counts, data on pediatric cases (0-17 years old) will be suppressed until case counts are sufficient. The denominator for each underlying condition and characteristic data (except for intensive care unit, mechanical ventilation, in-hospital mortality, and discharge diagnoses) is the total number of patients with non-missing data for that condition or characteristic.  The denominator for intensive care unit, mechanical ventilation, in-hospital mortality, and discharge diagnoses is restricted to cases who are no longer hospitalized and who have complete medical chart reviews.  White, Black, Asian/Pacific Islander and American Indian/Alaska Native all represent non-Hispanic ethnicity groups; Other includes persons in multiple race categories and persons for whom race is unknown."
+"COVID-NET conducts population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations in children (less than 18 years of age) and adults. COVID-NET covers nearly 100 counties in the 10 Emerging Infections Program (EIP) states (CA, CO, CT, GA, MD, MN, NM, NY, OR, TN) and four Influenza Hospitalization Surveillance Project (IHSP) states (IA, MI, OH, and UT). "
+""
