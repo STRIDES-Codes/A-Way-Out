@@ -202,3 +202,33 @@ drop region
 save "$datatemp/cencus_employment_state", replace
 *===============================================================================
 
+
+
+
+
+
+use "$datatemp/cencus_pop_demo", clear
+
+*Categorize age
+gen age_group = .
+la var age_group "Age group"
+replace age_group = 1 if inrange(age,0,17)
+replace age_group = 2 if inrange(age,18,49)
+replace age_group = 3 if inrange(age,50,64)
+replace age_group = 4 if inrange(age,65,100)
+
+la def lab_age_group 1 "0-17" 2 "18-49" 3 "50-64" 4 "65+"
+la val age_group lab_age_group
+
+*Redefy race group
+replace race = 4 if race == 5
+la def lab_race 4 "Asian/Pacific Islander", modify
+
+*Collapse data
+collapse (sum) popestimate,	///
+	by(year state_code state_name race age_group)
+
+order state_code state_name year  age_group race 
+	
+compress
+save "$datatemp/cencus_pop_demo_collapsed", replace
