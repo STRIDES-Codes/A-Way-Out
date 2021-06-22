@@ -16,6 +16,7 @@
 
 Team Members:
 Vincent La (University of Massachusetts Medical School)
+Ashley Bamfo (Howard University Master's of Public Health Graduate)
 
 <h5><b>References and Resources </b></h5>
 <ol>1.  Arasteh K. (2020). Prevalence of Comorbidities and Risks Associated with COVID-19 Among Black and Hispanic Populations in New York City: an Examination of the 2018 New York City Community Health Survey. Journal of racial and ethnic health disparities, 1–7. Advance online publication. https://doi.org/10.1007/s40615-020-00844-1</ol>
