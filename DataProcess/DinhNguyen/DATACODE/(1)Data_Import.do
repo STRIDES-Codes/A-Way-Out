@@ -33,7 +33,16 @@ la var rnaturalinc "Natural increase rate"
 la var rinternationalmig "Net international migration rate"
 la var rdomesticmig "Net domestic migration rate"
 la var rnetmig "Net migration rate"
- 
+
+la var year "Year"
+
+ren name state_name
+ren state state_code
+
+drop sumlev region division
+
+drop if state_code == 0
+
 save "$datatemp/cencus_pop_all", replace
 *===============================================================================
 
@@ -69,6 +78,15 @@ la val sex lab_sex
 la val origin lab_origin
 la val race lab_race
 
+la var year "Year"
+
+ren name state_name
+ren state state_code
+
+drop sumlev region division
+
+drop if state_code == 0
+
 save "$datatemp/cencus_pop_demo", replace
 *===============================================================================
 
@@ -87,13 +105,20 @@ drop tablename linecode industryclassification description unit
 drop if geoname == "Puerto Rico"
 replace geofips = subinstr(geofips, `"""', "", 2)
 destring region geofips, replace
-
+replace geofips = geofips/1000
 
 reshape long v, i(region geofips geoname) j(year)
 ren v percap_real_inc
 replace year = year + 1999
 
 la var percap_real_inc "Real per capita income"
+
+ren geoname state_name
+ren geofips state_code
+
+la var year "Year"
+
+drop region
 
 save "$datatemp/cencus_realpercapinc_state", replace
 *===============================================================================
@@ -118,6 +143,8 @@ destring region geofips, replace
 
 drop if geofips/1000 != round(geofips/1000)
 drop if geofips>90000
+drop if geofips==0
+replace geofips = geofips/1000
 
 
 reshape long v, i(region geofips geoname linecode description) j(year)
@@ -164,6 +191,13 @@ la var employment_2002 "Military"
 la var employment_2010 "State and local"
 la var employment_2011 "State government"
 la var employment_2012 "Local government"
+
+ren geoname state_name
+ren geofips state_code
+
+la var year "Year"
+
+drop region
 
 save "$datatemp/cencus_employment_state", replace
 *===============================================================================
