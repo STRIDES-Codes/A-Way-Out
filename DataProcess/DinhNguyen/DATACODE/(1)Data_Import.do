@@ -206,7 +206,8 @@ save "$datatemp/cencus_employment_state", replace
 
 
 
-
+*===============================================================================
+*Collapse demographics data=====================================================
 use "$datatemp/cencus_pop_demo", clear
 
 *Categorize age
@@ -228,7 +229,10 @@ la def lab_race 4 "Asian/Pacific Islander", modify
 collapse (sum) popestimate,	///
 	by(year state_code state_name race age_group)
 
+la var popestimate "Estimated population"
+	
 order state_code state_name year  age_group race 
 	
 compress
 save "$datatemp/cencus_pop_demo_collapsed", replace
+*===============================================================================

@@ -1,9 +1,9 @@
 {smcl}
-{txt}{sf}{ul off}{.-}
+{com}{sf}{ul off}{txt}{.-}
       name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo_collapsed.scml
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}22 Jun 2021, 16:26:59
+ {txt}opened on:  {res}22 Jun 2021, 16:28:40
 {txt}
 {com}. codebook
 
@@ -170,7 +170,7 @@
 {col 21}{res}       408{col 33}       6{col 43}{txt}Two or more races
 
 {txt}{hline}
-{res}popestimate{right:(sum) popestimate}
+{res}popestimate{right:Estimated population}
 {txt}{hline}
 
 {col 19}type:  numeric ({res}long{txt})
@@ -188,7 +188,7 @@
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo_collapsed.scml
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}22 Jun 2021, 16:26:59
+ {txt}closed on:  {res}22 Jun 2021, 16:28:40
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
