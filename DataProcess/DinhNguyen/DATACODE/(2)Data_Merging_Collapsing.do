@@ -6,14 +6,18 @@ merge 1:m state_code state_name using "$datatemp/cencus_pop_all"
 	drop if _merge == 1
 	drop _merge
 
-merge m:m state_code state_name using "$datatemp/cencus_realpercapinc_state"
-	drop if _merge == 1
+merge m:m state_code state_name year using "$datatemp/cencus_realpercapinc_state"
+	drop if _merge == 2
 	drop _merge
 	
-merge m:m state_code state_name using "$datatemp/cencus_employment_state"
-	drop if _merge == 1
+merge m:m state_code state_name year using "$datatemp/cencus_employment_state"
+	drop if _merge == 2
 	drop _merge
 	
+merge m:m state_abbr year using "$datatemp/food_insecurity_state"
+	drop if _merge ==2
+	drop _merge
+
 *drop *_name
 	
 keep if year >= 2018

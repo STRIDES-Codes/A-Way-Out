@@ -285,5 +285,63 @@ Civilian labor force
 	Unemployed
 		Total
 		Rate
+*===============================================================================
+
+
+
+*===============================================================================
+*Population by county===========================================================
+*Economic Research Service - U.S. Department of Agriculture
+*https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/#Current%20Version
+
+import excel using "$dataraw/FoodEnvironmentAtlas.xls", clear firstrow	///
+	sheet("Supplemental Data - County")
+	ren *, lower
+
+drop _Census_Population
+	
+destring fips, replace	
+
+reshape long population_estimate_, i(fips county state) j(year)
+
+ren population_estimate_ popestimate
+
+keep if year == 2018
+drop year
+
+save "$datatemp/pop_county", replace
+*===============================================================================
+
+
+
+*===============================================================================
+*Food Insecurity================================================================
+*Economic Research Service - U.S. Department of Agriculture
+*https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/#Current%20Version
+
+import excel using "$dataraw/FoodEnvironmentAtlas.xls", clear firstrow	///
+	sheet("INSECURITY")
+	ren *, lower
+
+drop j foodinsec_12_14 ch_foodinsec_14_17 vlfoodsec_12_14 vlfoodsec_15_17 ch_vlfoodsec_14_17
+	
+destring fips, replace	
+ 
+drop fips county
+collapse (mean) foodinsec_15_17, by(state)
+
+gen year = 2017
+ren state state_abbr
+
+la var foodinsec_15_17 "Food Insecurity 2015-2017"
+
+save "$datatemp/food_insecurity_state", replace
+*===============================================================================
+
+
+
+
+
+
 
 
