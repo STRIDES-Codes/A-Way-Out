@@ -5,21 +5,24 @@
 ## Why pandemic preparedness?
 Since the beginning of the COVID-19 pandemic, the disproportionate impact on BIPOC (Black and Indigenous People of Color) communities has been catastrophic. Generations of health disparities manifest in wide-spread co-morbidities such as hypertension, obesity, and diabetes(1) have made these communities extremely vulnerable. Compounding the problem is the often lack of adequate medical resources within the community. All of these factors have created a preparedness vacuum leaving the most vulnerable of society exposed, infected, and dead.
 
+## Our approach
+In an effort to address these health disparities in pandemic preparedness, we aim to aid _____ in deciding where and how to distribute resources equitably by constructing a ______ composite index and to assess which communities may be more vulnerable to the impacts of the COVID pandemic.
+
 
 ## Methods:
-# Data Sources:
+### Data Sources:
 
 + Demographic | <a href="">DATASET TITLE</a>
 + Comorbidities | <a href="https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm/data">Conditions Contributing to COVID-19 Deaths, by State and Age</a>
 + Social Determinants of Health | <a href="">DATASET TITLE</a>
 
-# Outcome
+### Outcome
 Mortality and morbidity of minority populations in the U.S. (cases and deaths).
 
-# Study variables
+### Study variables
 These variables included comorbidities of a presence of hypertension, obesity, or diabetes diagnosis. 
 
-Technologies:
+### Technologies:
 <br>
 + Jupyter Notebook
 + Python
@@ -41,5 +44,5 @@ Technologies:
 
 ## Planned Features
 
-<h5><b>References and Resources </b></h5>
+## References and Resources
 <ol>1.  Arasteh K. (2020). Prevalence of Comorbidities and Risks Associated with COVID-19 Among Black and Hispanic Populations in New York City: an Examination of the 2018 New York City Community Health Survey. Journal of racial and ethnic health disparities, 1–7. Advance online publication. https://doi.org/10.1007/s40615-020-00844-1</ol>
