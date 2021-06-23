@@ -1,0 +1,531 @@
+"","Group","Year","State","Age.Group","COVID.19.Deaths_Hypertensive diseases","COVID.19.Deaths_Diabetes","COVID.19.Deaths_Obesity","Number.of.Mentions_Hypertensive diseases","Number.of.Mentions_Diabetes","Number.of.Mentions_Obesity"
+"1","By Year",2021,"Alabama","0-24",0,0,0,0,0,0
+"2","By Year",2021,"Alabama","25-34",NA,NA,NA,NA,NA,NA
+"3","By Year",2021,"Alabama","35-44",12,12,14,12,12,14
+"4","By Year",2021,"Alabama","45-54",15,30,16,15,30,16
+"5","By Year",2021,"Alabama","55-64",54,82,26,55,84,26
+"6","By Year",2021,"Alabama","65-74",126,138,23,126,138,23
+"7","By Year",2021,"Alabama","75-84",110,133,16,111,135,16
+"8","By Year",2021,"Alabama","85+",98,54,NA,101,58,NA
+"9","By Year",2021,"Alabama","Not stated",0,0,0,0,0,0
+"10","By Year",2021,"Alabama","All Ages",416,453,97,421,461,97
+"11","By Year",2021,"Alaska","0-24",0,0,0,0,0,0
+"12","By Year",2021,"Alaska","25-34",NA,NA,NA,NA,NA,NA
+"13","By Year",2021,"Alaska","35-44",0,0,0,0,0,0
+"14","By Year",2021,"Alaska","45-54",NA,NA,NA,NA,NA,NA
+"15","By Year",2021,"Alaska","55-64",NA,NA,NA,NA,NA,NA
+"16","By Year",2021,"Alaska","65-74",NA,NA,0,NA,NA,0
+"17","By Year",2021,"Alaska","75-84",NA,NA,0,NA,NA,0
+"18","By Year",2021,"Alaska","85+",NA,NA,0,NA,NA,0
+"19","By Year",2021,"Alaska","Not stated",0,0,0,0,0,0
+"20","By Year",2021,"Alaska","All Ages",16,NA,NA,17,NA,NA
+"21","By Year",2021,"Arizona","0-24",NA,NA,NA,NA,NA,NA
+"22","By Year",2021,"Arizona","25-34",NA,11,16,NA,11,16
+"23","By Year",2021,"Arizona","35-44",16,16,28,16,16,28
+"24","By Year",2021,"Arizona","45-54",52,65,48,52,65,48
+"25","By Year",2021,"Arizona","55-64",147,203,101,148,204,101
+"26","By Year",2021,"Arizona","65-74",233,278,86,233,279,86
+"27","By Year",2021,"Arizona","75-84",328,284,32,331,286,32
+"28","By Year",2021,"Arizona","85+",264,118,10,267,118,10
+"29","By Year",2021,"Arizona","Not stated",0,0,0,0,0,0
+"30","By Year",2021,"Arizona","All Ages",NA,976,325,NA,980,325
+"31","By Year",2021,"Arkansas","0-24",0,NA,NA,0,NA,NA
+"32","By Year",2021,"Arkansas","25-34",0,NA,NA,0,NA,NA
+"33","By Year",2021,"Arkansas","35-44",NA,NA,NA,NA,NA,NA
+"34","By Year",2021,"Arkansas","45-54",15,15,11,15,16,11
+"35","By Year",2021,"Arkansas","55-64",33,39,14,33,39,14
+"36","By Year",2021,"Arkansas","65-74",102,82,14,102,83,14
+"37","By Year",2021,"Arkansas","75-84",104,84,NA,106,84,NA
+"38","By Year",2021,"Arkansas","85+",96,36,NA,96,36,NA
+"39","By Year",2021,"Arkansas","Not stated",0,0,0,0,0,0
+"40","By Year",2021,"Arkansas","All Ages",356,264,55,358,266,55
+"41","By Year",2021,"California","0-24",NA,NA,12,NA,NA,12
+"42","By Year",2021,"California","25-34",20,57,77,21,57,77
+"43","By Year",2021,"California","35-44",89,190,138,89,191,139
+"44","By Year",2021,"California","45-54",335,593,309,335,597,309
+"45","By Year",2021,"California","55-64",NA,NA,445,NA,NA,445
+"46","By Year",2021,"California","65-74",NA,NA,399,NA,NA,399
+"47","By Year",2021,"California","75-84",NA,NA,192,NA,NA,192
+"48","By Year",2021,"California","85+",NA,995,34,NA,997,34
+"49","By Year",2021,"California","Not stated",0,0,0,0,0,0
+"50","By Year",2021,"California","All Ages",NA,NA,NA,NA,NA,NA
+"51","By Year",2021,"Colorado","0-24",0,NA,0,0,NA,0
+"52","By Year",2021,"Colorado","25-34",NA,NA,NA,NA,NA,NA
+"53","By Year",2021,"Colorado","35-44",NA,NA,NA,NA,NA,NA
+"54","By Year",2021,"Colorado","45-54",17,22,28,17,22,28
+"55","By Year",2021,"Colorado","55-64",40,50,36,41,50,36
+"56","By Year",2021,"Colorado","65-74",73,85,28,74,85,28
+"57","By Year",2021,"Colorado","75-84",107,92,15,109,96,15
+"58","By Year",2021,"Colorado","85+",108,49,NA,108,51,NA
+"59","By Year",2021,"Colorado","Not stated",0,0,0,0,0,0
+"60","By Year",2021,"Colorado","All Ages",353,305,117,357,312,117
+"61","By Year",2021,"Connecticut","0-24",0,0,NA,0,0,NA
+"62","By Year",2021,"Connecticut","25-34",0,0,NA,0,0,NA
+"63","By Year",2021,"Connecticut","35-44",NA,NA,NA,NA,NA,NA
+"64","By Year",2021,"Connecticut","45-54",10,12,NA,10,13,NA
+"65","By Year",2021,"Connecticut","55-64",23,21,19,23,21,19
+"66","By Year",2021,"Connecticut","65-74",42,33,14,42,33,14
+"67","By Year",2021,"Connecticut","75-84",57,64,NA,57,64,NA
+"68","By Year",2021,"Connecticut","85+",107,56,NA,108,56,NA
+"69","By Year",2021,"Connecticut","Not stated",0,0,0,0,0,0
+"70","By Year",2021,"Connecticut","All Ages",241,190,65,242,191,65
+"71","By Year",2021,"Delaware","0-24",0,0,0,0,0,0
+"72","By Year",2021,"Delaware","25-34",0,0,0,0,0,0
+"73","By Year",2021,"Delaware","35-44",0,0,NA,0,0,NA
+"74","By Year",2021,"Delaware","45-54",NA,NA,NA,NA,NA,NA
+"75","By Year",2021,"Delaware","55-64",NA,NA,NA,NA,NA,NA
+"76","By Year",2021,"Delaware","65-74",20,19,15,20,19,15
+"77","By Year",2021,"Delaware","75-84",31,25,NA,31,25,NA
+"78","By Year",2021,"Delaware","85+",40,14,0,40,14,0
+"79","By Year",2021,"Delaware","Not stated",0,0,0,0,0,0
+"80","By Year",2021,"Delaware","All Ages",101,66,32,101,67,32
+"81","By Year",2021,"District of Columbia","0-24",0,0,NA,0,0,NA
+"82","By Year",2021,"District of Columbia","25-34",NA,NA,NA,NA,NA,NA
+"83","By Year",2021,"District of Columbia","35-44",NA,NA,NA,NA,NA,NA
+"84","By Year",2021,"District of Columbia","45-54",26,18,12,26,18,12
+"85","By Year",2021,"District of Columbia","55-64",59,48,18,59,49,18
+"86","By Year",2021,"District of Columbia","65-74",93,62,14,94,63,14
+"87","By Year",2021,"District of Columbia","75-84",77,42,NA,77,42,NA
+"88","By Year",2021,"District of Columbia","85+",67,34,0,67,34,0
+"89","By Year",2021,"District of Columbia","Not stated",0,0,0,0,0,0
+"90","By Year",2021,"District of Columbia","All Ages",326,211,54,327,214,54
+"91","By Year",2021,"Florida","0-24",NA,NA,NA,NA,NA,NA
+"92","By Year",2021,"Florida","25-34",NA,NA,22,NA,NA,22
+"93","By Year",2021,"Florida","35-44",23,22,32,23,22,32
+"94","By Year",2021,"Florida","45-54",61,83,58,61,83,58
+"95","By Year",2021,"Florida","55-64",186,209,111,187,211,111
+"96","By Year",2021,"Florida","65-74",418,401,120,422,403,120
+"97","By Year",2021,"Florida","75-84",589,452,76,592,455,76
+"98","By Year",2021,"Florida","85+",531,234,12,541,234,12
+"99","By Year",2021,"Florida","Not stated",0,0,0,0,0,0
+"100","By Year",2021,"Florida","All Ages",NA,NA,438,NA,NA,438
+"101","By Year",2021,"Georgia","0-24",0,NA,NA,0,NA,NA
+"102","By Year",2021,"Georgia","25-34",NA,NA,NA,NA,NA,NA
+"103","By Year",2021,"Georgia","35-44",24,33,34,24,33,34
+"104","By Year",2021,"Georgia","45-54",67,61,52,69,62,52
+"105","By Year",2021,"Georgia","55-64",168,178,84,172,180,84
+"106","By Year",2021,"Georgia","65-74",283,244,84,289,245,84
+"107","By Year",2021,"Georgia","75-84",366,268,44,373,270,44
+"108","By Year",2021,"Georgia","85+",272,130,11,280,131,11
+"109","By Year",2021,"Georgia","Not stated",0,0,0,0,0,0
+"110","By Year",2021,"Georgia","All Ages",NA,919,320,NA,926,320
+"111","By Year",2021,"Hawaii","0-24",0,0,0,0,0,0
+"112","By Year",2021,"Hawaii","25-34",0,0,NA,0,0,NA
+"113","By Year",2021,"Hawaii","35-44",0,0,0,0,0,0
+"114","By Year",2021,"Hawaii","45-54",0,0,0,0,0,0
+"115","By Year",2021,"Hawaii","55-64",NA,NA,NA,NA,NA,NA
+"116","By Year",2021,"Hawaii","65-74",10,13,NA,10,13,NA
+"117","By Year",2021,"Hawaii","75-84",NA,NA,0,NA,NA,0
+"118","By Year",2021,"Hawaii","85+",NA,NA,0,NA,NA,0
+"119","By Year",2021,"Hawaii","Not stated",0,0,0,0,0,0
+"120","By Year",2021,"Hawaii","All Ages",20,28,NA,20,28,NA
+"121","By Year",2021,"Idaho","0-24",0,0,0,0,0,0
+"122","By Year",2021,"Idaho","25-34",NA,NA,0,NA,NA,0
+"123","By Year",2021,"Idaho","35-44",0,NA,0,0,NA,0
+"124","By Year",2021,"Idaho","45-54",NA,NA,NA,NA,NA,NA
+"125","By Year",2021,"Idaho","55-64",NA,NA,NA,NA,NA,NA
+"126","By Year",2021,"Idaho","65-74",22,26,NA,22,26,NA
+"127","By Year",2021,"Idaho","75-84",44,32,NA,44,32,NA
+"128","By Year",2021,"Idaho","85+",38,18,0,42,18,0
+"129","By Year",2021,"Idaho","Not stated",0,0,0,0,0,0
+"130","By Year",2021,"Idaho","All Ages",118,88,33,122,88,33
+"131","By Year",2021,"Illinois","0-24",NA,0,NA,NA,0,NA
+"132","By Year",2021,"Illinois","25-34",12,NA,18,12,NA,18
+"133","By Year",2021,"Illinois","35-44",30,24,32,30,24,32
+"134","By Year",2021,"Illinois","45-54",106,92,72,106,93,72
+"135","By Year",2021,"Illinois","55-64",269,218,100,269,218,100
+"136","By Year",2021,"Illinois","65-74",490,388,93,491,388,93
+"137","By Year",2021,"Illinois","75-84",542,379,51,542,379,51
+"138","By Year",2021,"Illinois","85+",579,236,12,583,237,12
+"139","By Year",2021,"Illinois","Not stated",0,0,0,0,0,0
+"140","By Year",2021,"Illinois","All Ages",NA,NA,383,NA,NA,383
+"141","By Year",2021,"Indiana","0-24",0,0,0,0,0,0
+"142","By Year",2021,"Indiana","25-34",NA,NA,NA,NA,NA,NA
+"143","By Year",2021,"Indiana","35-44",NA,10,10,NA,10,10
+"144","By Year",2021,"Indiana","45-54",20,26,19,20,27,19
+"145","By Year",2021,"Indiana","55-64",67,97,38,67,98,39
+"146","By Year",2021,"Indiana","65-74",141,173,33,142,177,33
+"147","By Year",2021,"Indiana","75-84",191,160,13,193,161,13
+"148","By Year",2021,"Indiana","85+",229,120,NA,232,121,NA
+"149","By Year",2021,"Indiana","Not stated",0,0,0,0,0,0
+"150","By Year",2021,"Indiana","All Ages",656,588,125,662,596,126
+"151","By Year",2021,"Iowa","0-24",0,0,0,0,0,0
+"152","By Year",2021,"Iowa","25-34",0,0,NA,0,0,NA
+"153","By Year",2021,"Iowa","35-44",NA,NA,NA,NA,NA,NA
+"154","By Year",2021,"Iowa","45-54",NA,NA,NA,NA,10,NA
+"155","By Year",2021,"Iowa","55-64",17,26,10,17,26,10
+"156","By Year",2021,"Iowa","65-74",29,45,14,29,45,14
+"157","By Year",2021,"Iowa","75-84",60,58,NA,60,58,NA
+"158","By Year",2021,"Iowa","85+",97,54,NA,97,54,NA
+"159","By Year",2021,"Iowa","Not stated",0,0,0,0,0,0
+"160","By Year",2021,"Iowa","All Ages",214,195,53,214,196,53
+"161","By Year",2021,"Kansas","0-24",0,0,NA,0,0,NA
+"162","By Year",2021,"Kansas","25-34",0,0,0,0,0,0
+"163","By Year",2021,"Kansas","35-44",0,NA,NA,0,NA,NA
+"164","By Year",2021,"Kansas","45-54",NA,NA,NA,NA,NA,NA
+"165","By Year",2021,"Kansas","55-64",21,20,13,21,21,13
+"166","By Year",2021,"Kansas","65-74",34,45,18,34,47,18
+"167","By Year",2021,"Kansas","75-84",45,41,NA,46,42,NA
+"168","By Year",2021,"Kansas","85+",69,37,NA,71,37,NA
+"169","By Year",2021,"Kansas","Not stated",0,0,0,0,0,0
+"170","By Year",2021,"Kansas","All Ages",174,152,54,177,156,54
+"171","By Year",2021,"Kentucky","0-24",0,0,0,0,0,0
+"172","By Year",2021,"Kentucky","25-34",0,0,NA,0,0,NA
+"173","By Year",2021,"Kentucky","35-44",NA,12,NA,NA,14,NA
+"174","By Year",2021,"Kentucky","45-54",17,28,12,17,29,12
+"175","By Year",2021,"Kentucky","55-64",67,87,18,67,88,18
+"176","By Year",2021,"Kentucky","65-74",99,150,17,100,151,17
+"177","By Year",2021,"Kentucky","75-84",153,187,15,156,190,16
+"178","By Year",2021,"Kentucky","85+",152,107,NA,154,109,NA
+"179","By Year",2021,"Kentucky","Not stated",0,0,0,0,0,0
+"180","By Year",2021,"Kentucky","All Ages",493,571,74,499,581,75
+"181","By Year",2021,"Louisiana","0-24",0,0,NA,0,0,NA
+"182","By Year",2021,"Louisiana","25-34",NA,0,NA,NA,0,NA
+"183","By Year",2021,"Louisiana","35-44",NA,NA,NA,NA,NA,NA
+"184","By Year",2021,"Louisiana","45-54",30,27,18,30,28,18
+"185","By Year",2021,"Louisiana","55-64",86,69,23,86,69,23
+"186","By Year",2021,"Louisiana","65-74",157,125,30,157,126,30
+"187","By Year",2021,"Louisiana","75-84",154,107,14,156,107,14
+"188","By Year",2021,"Louisiana","85+",123,67,NA,128,67,NA
+"189","By Year",2021,"Louisiana","Not stated",0,0,0,0,0,0
+"190","By Year",2021,"Louisiana","All Ages",557,401,104,564,404,104
+"191","By Year",2021,"Maine","0-24",0,0,NA,0,0,NA
+"192","By Year",2021,"Maine","25-34",0,0,0,0,0,0
+"193","By Year",2021,"Maine","35-44",NA,NA,NA,NA,NA,NA
+"194","By Year",2021,"Maine","45-54",NA,0,NA,NA,0,NA
+"195","By Year",2021,"Maine","55-64",NA,NA,NA,NA,NA,NA
+"196","By Year",2021,"Maine","65-74",NA,NA,0,NA,NA,0
+"197","By Year",2021,"Maine","75-84",12,15,NA,13,15,NA
+"198","By Year",2021,"Maine","85+",21,NA,0,22,NA,0
+"199","By Year",2021,"Maine","Not stated",0,0,0,0,0,0
+"200","By Year",2021,"Maine","All Ages",43,36,NA,46,36,NA
+"201","By Year",2021,"Maryland","0-24",0,0,NA,0,0,NA
+"202","By Year",2021,"Maryland","25-34",NA,NA,NA,NA,NA,NA
+"203","By Year",2021,"Maryland","35-44",16,20,18,16,21,18
+"204","By Year",2021,"Maryland","45-54",46,59,53,46,59,53
+"205","By Year",2021,"Maryland","55-64",137,139,66,139,140,66
+"206","By Year",2021,"Maryland","65-74",215,211,57,215,211,57
+"207","By Year",2021,"Maryland","75-84",280,169,27,280,170,27
+"208","By Year",2021,"Maryland","85+",297,123,NA,300,123,NA
+"209","By Year",2021,"Maryland","Not stated",0,0,0,0,0,0
+"210","By Year",2021,"Maryland","All Ages",994,725,232,999,728,232
+"211","By Year",2021,"Massachusetts","0-24",0,0,NA,0,0,NA
+"212","By Year",2021,"Massachusetts","25-34",NA,NA,NA,NA,NA,NA
+"213","By Year",2021,"Massachusetts","35-44",NA,NA,11,NA,NA,11
+"214","By Year",2021,"Massachusetts","45-54",12,14,15,12,14,15
+"215","By Year",2021,"Massachusetts","55-64",36,36,20,36,36,20
+"216","By Year",2021,"Massachusetts","65-74",67,76,28,68,76,28
+"217","By Year",2021,"Massachusetts","75-84",85,88,11,86,89,11
+"218","By Year",2021,"Massachusetts","85+",127,80,NA,130,80,NA
+"219","By Year",2021,"Massachusetts","Not stated",0,0,0,0,0,0
+"220","By Year",2021,"Massachusetts","All Ages",335,300,95,340,301,95
+"221","By Year",2021,"Michigan","0-24",0,NA,NA,0,NA,NA
+"222","By Year",2021,"Michigan","25-34",NA,NA,11,NA,NA,11
+"223","By Year",2021,"Michigan","35-44",NA,13,22,NA,13,22
+"224","By Year",2021,"Michigan","45-54",43,42,51,43,42,51
+"225","By Year",2021,"Michigan","55-64",109,113,81,110,115,81
+"226","By Year",2021,"Michigan","65-74",172,186,73,172,186,73
+"227","By Year",2021,"Michigan","75-84",215,146,34,218,147,34
+"228","By Year",2021,"Michigan","85+",193,95,NA,204,96,NA
+"229","By Year",2021,"Michigan","Not stated",0,0,0,0,0,0
+"230","By Year",2021,"Michigan","All Ages",743,598,280,758,602,280
+"231","By Year",2021,"Minnesota","0-24",0,0,0,0,0,0
+"232","By Year",2021,"Minnesota","25-34",NA,NA,NA,NA,NA,NA
+"233","By Year",2021,"Minnesota","35-44",NA,NA,10,NA,NA,10
+"234","By Year",2021,"Minnesota","45-54",12,NA,15,12,NA,15
+"235","By Year",2021,"Minnesota","55-64",38,49,24,38,49,24
+"236","By Year",2021,"Minnesota","65-74",78,94,28,78,95,28
+"237","By Year",2021,"Minnesota","75-84",137,112,20,138,112,20
+"238","By Year",2021,"Minnesota","85+",199,80,10,205,80,10
+"239","By Year",2021,"Minnesota","Not stated",0,0,0,0,0,0
+"240","By Year",2021,"Minnesota","All Ages",467,349,109,475,350,109
+"241","By Year",2021,"Mississippi","0-24",NA,NA,NA,NA,NA,NA
+"242","By Year",2021,"Mississippi","25-34",NA,NA,NA,NA,NA,NA
+"243","By Year",2021,"Mississippi","35-44",11,NA,NA,11,NA,NA
+"244","By Year",2021,"Mississippi","45-54",36,28,18,36,28,18
+"245","By Year",2021,"Mississippi","55-64",86,65,21,87,65,21
+"246","By Year",2021,"Mississippi","65-74",245,166,24,247,168,24
+"247","By Year",2021,"Mississippi","75-84",238,133,19,247,134,19
+"248","By Year",2021,"Mississippi","85+",169,63,NA,178,63,NA
+"249","By Year",2021,"Mississippi","Not stated",0,0,0,0,0,0
+"250","By Year",2021,"Mississippi","All Ages",790,465,93,811,468,93
+"251","By Year",2021,"Missouri","0-24",0,0,0,0,0,0
+"252","By Year",2021,"Missouri","25-34",0,0,0,0,0,0
+"253","By Year",2021,"Missouri","35-44",NA,NA,NA,NA,NA,NA
+"254","By Year",2021,"Missouri","45-54",10,12,NA,10,12,NA
+"255","By Year",2021,"Missouri","55-64",41,40,23,42,41,23
+"256","By Year",2021,"Missouri","65-74",68,85,33,68,88,33
+"257","By Year",2021,"Missouri","75-84",88,96,13,90,97,13
+"258","By Year",2021,"Missouri","85+",110,67,NA,115,69,NA
+"259","By Year",2021,"Missouri","Not stated",0,0,0,0,0,0
+"260","By Year",2021,"Missouri","All Ages",319,303,83,327,310,83
+"261","By Year",2021,"Montana","0-24",0,0,0,0,0,0
+"262","By Year",2021,"Montana","25-34",0,0,0,0,0,0
+"263","By Year",2021,"Montana","35-44",NA,NA,NA,NA,NA,NA
+"264","By Year",2021,"Montana","45-54",NA,NA,NA,NA,NA,NA
+"265","By Year",2021,"Montana","55-64",NA,10,NA,NA,11,NA
+"266","By Year",2021,"Montana","65-74",21,18,10,21,18,10
+"267","By Year",2021,"Montana","75-84",22,21,NA,22,21,NA
+"268","By Year",2021,"Montana","85+",19,11,NA,19,11,NA
+"269","By Year",2021,"Montana","Not stated",0,0,0,0,0,0
+"270","By Year",2021,"Montana","All Ages",73,67,26,73,68,26
+"271","By Year",2021,"Nebraska","0-24",0,0,0,0,0,0
+"272","By Year",2021,"Nebraska","25-34",0,0,0,0,0,0
+"273","By Year",2021,"Nebraska","35-44",0,0,NA,0,0,NA
+"274","By Year",2021,"Nebraska","45-54",NA,NA,NA,NA,NA,NA
+"275","By Year",2021,"Nebraska","55-64",11,14,NA,11,15,NA
+"276","By Year",2021,"Nebraska","65-74",20,32,12,20,32,13
+"277","By Year",2021,"Nebraska","75-84",26,34,NA,26,34,NA
+"278","By Year",2021,"Nebraska","85+",57,17,NA,60,17,NA
+"279","By Year",2021,"Nebraska","Not stated",0,0,0,0,0,0
+"280","By Year",2021,"Nebraska","All Ages",120,101,32,123,102,33
+"281","By Year",2021,"Nevada","0-24",0,0,0,0,0,0
+"282","By Year",2021,"Nevada","25-34",NA,NA,NA,NA,NA,NA
+"283","By Year",2021,"Nevada","35-44",NA,NA,NA,NA,NA,NA
+"284","By Year",2021,"Nevada","45-54",21,24,17,22,24,17
+"285","By Year",2021,"Nevada","55-64",57,66,31,59,66,31
+"286","By Year",2021,"Nevada","65-74",99,93,27,99,93,27
+"287","By Year",2021,"Nevada","75-84",109,82,NA,110,82,NA
+"288","By Year",2021,"Nevada","85+",59,41,0,60,41,0
+"289","By Year",2021,"Nevada","Not stated",0,0,0,0,0,0
+"290","By Year",2021,"Nevada","All Ages",347,316,94,352,316,94
+"291","By Year",2021,"New Hampshire","0-24",0,0,0,0,0,0
+"292","By Year",2021,"New Hampshire","25-34",0,0,NA,0,0,NA
+"293","By Year",2021,"New Hampshire","35-44",0,0,0,0,0,0
+"294","By Year",2021,"New Hampshire","45-54",NA,0,NA,NA,0,NA
+"295","By Year",2021,"New Hampshire","55-64",NA,NA,NA,NA,NA,NA
+"296","By Year",2021,"New Hampshire","65-74",NA,12,NA,NA,12,NA
+"297","By Year",2021,"New Hampshire","75-84",13,19,NA,13,19,NA
+"298","By Year",2021,"New Hampshire","85+",17,24,0,17,25,0
+"299","By Year",2021,"New Hampshire","Not stated",0,0,0,0,0,0
+"300","By Year",2021,"New Hampshire","All Ages",47,61,18,47,62,18
+"301","By Year",2021,"New Jersey","0-24",0,NA,0,0,NA,0
+"302","By Year",2021,"New Jersey","25-34",NA,NA,NA,NA,NA,NA
+"303","By Year",2021,"New Jersey","35-44",10,NA,20,10,NA,20
+"304","By Year",2021,"New Jersey","45-54",44,51,41,44,51,41
+"305","By Year",2021,"New Jersey","55-64",123,126,58,123,126,58
+"306","By Year",2021,"New Jersey","65-74",212,179,55,213,180,55
+"307","By Year",2021,"New Jersey","75-84",236,182,19,236,185,19
+"308","By Year",2021,"New Jersey","85+",241,119,NA,244,120,NA
+"309","By Year",2021,"New Jersey","Not stated",0,0,0,0,0,0
+"310","By Year",2021,"New Jersey","All Ages",869,668,202,873,673,202
+"311","By Year",2021,"New Mexico","0-24",0,NA,NA,0,NA,NA
+"312","By Year",2021,"New Mexico","25-34",NA,NA,NA,NA,NA,NA
+"313","By Year",2021,"New Mexico","35-44",NA,NA,11,NA,NA,11
+"314","By Year",2021,"New Mexico","45-54",14,18,10,14,18,10
+"315","By Year",2021,"New Mexico","55-64",41,55,28,41,55,28
+"316","By Year",2021,"New Mexico","65-74",60,75,20,60,76,20
+"317","By Year",2021,"New Mexico","75-84",38,46,NA,39,46,NA
+"318","By Year",2021,"New Mexico","85+",47,24,NA,50,25,NA
+"319","By Year",2021,"New Mexico","Not stated",0,0,0,0,0,0
+"320","By Year",2021,"New Mexico","All Ages",202,228,84,206,230,84
+"321","By Year",2021,"New York","0-24",NA,NA,NA,NA,NA,NA
+"322","By Year",2021,"New York","25-34",NA,NA,NA,NA,NA,NA
+"323","By Year",2021,"New York","35-44",NA,NA,13,NA,NA,13
+"324","By Year",2021,"New York","45-54",45,36,37,45,36,37
+"325","By Year",2021,"New York","55-64",120,129,62,123,131,62
+"326","By Year",2021,"New York","65-74",216,205,54,217,210,54
+"327","By Year",2021,"New York","75-84",393,271,40,400,274,40
+"328","By Year",2021,"New York","85+",537,209,NA,551,212,NA
+"329","By Year",2021,"New York","Not stated",0,0,0,0,0,0
+"330","By Year",2021,"New York","All Ages",NA,863,219,NA,876,219
+"331","By Year",2021,"New York City","0-24",0,NA,NA,0,NA,NA
+"332","By Year",2021,"New York City","25-34",NA,NA,10,NA,NA,10
+"333","By Year",2021,"New York City","35-44",21,19,22,21,19,22
+"334","By Year",2021,"New York City","45-54",62,45,30,62,45,30
+"335","By Year",2021,"New York City","55-64",204,129,41,206,133,41
+"336","By Year",2021,"New York City","65-74",340,238,25,343,238,25
+"337","By Year",2021,"New York City","75-84",376,229,NA,381,229,NA
+"338","By Year",2021,"New York City","85+",390,180,NA,400,180,NA
+"339","By Year",2021,"New York City","Not stated",0,0,0,0,0,0
+"340","By Year",2021,"New York City","All Ages",NA,845,138,NA,849,138
+"341","By Year",2021,"North Carolina","0-24",0,0,NA,0,0,NA
+"342","By Year",2021,"North Carolina","25-34",0,NA,NA,0,NA,NA
+"343","By Year",2021,"North Carolina","35-44",NA,NA,18,NA,NA,18
+"344","By Year",2021,"North Carolina","45-54",15,28,14,15,28,14
+"345","By Year",2021,"North Carolina","55-64",57,93,46,58,93,46
+"346","By Year",2021,"North Carolina","65-74",110,145,33,111,145,33
+"347","By Year",2021,"North Carolina","75-84",135,131,12,136,131,12
+"348","By Year",2021,"North Carolina","85+",162,91,NA,165,92,NA
+"349","By Year",2021,"North Carolina","Not stated",0,0,0,0,0,0
+"350","By Year",2021,"North Carolina","All Ages",487,500,135,493,501,135
+"351","By Year",2021,"North Dakota","0-24",0,0,0,0,0,0
+"352","By Year",2021,"North Dakota","25-34",0,0,0,0,0,0
+"353","By Year",2021,"North Dakota","35-44",0,0,0,0,0,0
+"354","By Year",2021,"North Dakota","45-54",0,0,NA,0,0,NA
+"355","By Year",2021,"North Dakota","55-64",NA,NA,NA,NA,NA,NA
+"356","By Year",2021,"North Dakota","65-74",NA,NA,NA,NA,NA,NA
+"357","By Year",2021,"North Dakota","75-84",NA,NA,NA,NA,NA,NA
+"358","By Year",2021,"North Dakota","85+",13,NA,0,13,NA,0
+"359","By Year",2021,"North Dakota","Not stated",0,0,0,0,0,0
+"360","By Year",2021,"North Dakota","All Ages",23,24,11,23,24,11
+"361","By Year",2021,"Ohio","0-24",0,NA,NA,0,NA,NA
+"362","By Year",2021,"Ohio","25-34",NA,NA,NA,NA,NA,NA
+"363","By Year",2021,"Ohio","35-44",12,10,14,12,10,14
+"364","By Year",2021,"Ohio","45-54",16,32,27,16,33,27
+"365","By Year",2021,"Ohio","55-64",75,108,47,77,111,47
+"366","By Year",2021,"Ohio","65-74",187,265,59,188,267,59
+"367","By Year",2021,"Ohio","75-84",281,287,29,288,287,29
+"368","By Year",2021,"Ohio","85+",360,178,NA,369,180,NA
+"369","By Year",2021,"Ohio","Not stated",0,0,0,0,0,0
+"370","By Year",2021,"Ohio","All Ages",933,884,187,952,892,187
+"371","By Year",2021,"Oklahoma","0-24",NA,NA,NA,NA,NA,NA
+"372","By Year",2021,"Oklahoma","25-34",NA,NA,NA,NA,NA,NA
+"373","By Year",2021,"Oklahoma","35-44",14,16,18,14,16,19
+"374","By Year",2021,"Oklahoma","45-54",70,75,49,70,75,49
+"375","By Year",2021,"Oklahoma","55-64",167,156,70,169,157,70
+"376","By Year",2021,"Oklahoma","65-74",354,288,100,357,291,100
+"377","By Year",2021,"Oklahoma","75-84",398,232,33,403,232,33
+"378","By Year",2021,"Oklahoma","85+",295,117,NA,302,117,NA
+"379","By Year",2021,"Oklahoma","Not stated",0,0,0,0,0,0
+"380","By Year",2021,"Oklahoma","All Ages",NA,889,286,NA,893,287
+"381","By Year",2021,"Oregon","0-24",0,0,0,0,0,0
+"382","By Year",2021,"Oregon","25-34",0,0,0,0,0,0
+"383","By Year",2021,"Oregon","35-44",NA,NA,NA,NA,NA,NA
+"384","By Year",2021,"Oregon","45-54",NA,10,12,NA,10,12
+"385","By Year",2021,"Oregon","55-64",17,23,13,19,23,14
+"386","By Year",2021,"Oregon","65-74",35,46,21,36,46,21
+"387","By Year",2021,"Oregon","75-84",48,61,12,48,61,12
+"388","By Year",2021,"Oregon","85+",76,40,NA,79,40,NA
+"389","By Year",2021,"Oregon","Not stated",0,0,0,0,0,0
+"390","By Year",2021,"Oregon","All Ages",184,181,63,190,181,64
+"391","By Year",2021,"Pennsylvania","0-24",0,NA,NA,0,NA,NA
+"392","By Year",2021,"Pennsylvania","25-34",NA,NA,11,NA,NA,11
+"393","By Year",2021,"Pennsylvania","35-44",11,15,20,11,15,20
+"394","By Year",2021,"Pennsylvania","45-54",55,51,56,56,51,56
+"395","By Year",2021,"Pennsylvania","55-64",142,131,94,142,133,94
+"396","By Year",2021,"Pennsylvania","65-74",297,309,107,298,310,107
+"397","By Year",2021,"Pennsylvania","75-84",361,330,45,365,332,45
+"398","By Year",2021,"Pennsylvania","85+",511,273,12,520,274,12
+"399","By Year",2021,"Pennsylvania","Not stated",0,0,0,0,0,0
+"400","By Year",2021,"Pennsylvania","All Ages",NA,NA,348,NA,NA,348
+"401","By Year",2021,"Rhode Island","0-24",0,0,0,0,0,0
+"402","By Year",2021,"Rhode Island","25-34",0,0,NA,0,0,NA
+"403","By Year",2021,"Rhode Island","35-44",0,0,0,0,0,0
+"404","By Year",2021,"Rhode Island","45-54",NA,NA,NA,NA,NA,NA
+"405","By Year",2021,"Rhode Island","55-64",16,11,NA,16,11,NA
+"406","By Year",2021,"Rhode Island","65-74",24,23,11,24,23,11
+"407","By Year",2021,"Rhode Island","75-84",32,27,NA,32,27,NA
+"408","By Year",2021,"Rhode Island","85+",48,17,NA,48,17,NA
+"409","By Year",2021,"Rhode Island","Not stated",0,0,0,0,0,0
+"410","By Year",2021,"Rhode Island","All Ages",124,85,26,124,85,26
+"411","By Year",2021,"South Carolina","0-24",0,0,NA,0,0,NA
+"412","By Year",2021,"South Carolina","25-34",NA,NA,NA,NA,NA,NA
+"413","By Year",2021,"South Carolina","35-44",NA,NA,NA,NA,NA,NA
+"414","By Year",2021,"South Carolina","45-54",15,16,NA,15,16,NA
+"415","By Year",2021,"South Carolina","55-64",32,41,24,32,41,24
+"416","By Year",2021,"South Carolina","65-74",77,83,23,78,84,25
+"417","By Year",2021,"South Carolina","75-84",70,55,NA,73,56,NA
+"418","By Year",2021,"South Carolina","85+",45,25,0,51,25,0
+"419","By Year",2021,"South Carolina","Not stated",0,0,0,0,0,0
+"420","By Year",2021,"South Carolina","All Ages",247,226,69,257,228,71
+"421","By Year",2021,"South Dakota","0-24",0,0,0,0,0,0
+"422","By Year",2021,"South Dakota","25-34",0,0,0,0,0,0
+"423","By Year",2021,"South Dakota","35-44",0,0,0,0,0,0
+"424","By Year",2021,"South Dakota","45-54",NA,NA,NA,NA,NA,NA
+"425","By Year",2021,"South Dakota","55-64",NA,13,NA,NA,13,NA
+"426","By Year",2021,"South Dakota","65-74",14,19,NA,14,19,NA
+"427","By Year",2021,"South Dakota","75-84",17,22,NA,19,22,NA
+"428","By Year",2021,"South Dakota","85+",26,18,0,27,19,0
+"429","By Year",2021,"South Dakota","Not stated",0,0,0,0,0,0
+"430","By Year",2021,"South Dakota","All Ages",69,76,21,72,77,21
+"431","By Year",2021,"Tennessee","0-24",0,NA,NA,0,NA,NA
+"432","By Year",2021,"Tennessee","25-34",NA,NA,NA,NA,NA,NA
+"433","By Year",2021,"Tennessee","35-44",12,13,20,12,13,20
+"434","By Year",2021,"Tennessee","45-54",43,55,46,45,57,46
+"435","By Year",2021,"Tennessee","55-64",110,128,60,111,128,60
+"436","By Year",2021,"Tennessee","65-74",196,191,38,201,194,38
+"437","By Year",2021,"Tennessee","75-84",221,203,17,223,207,17
+"438","By Year",2021,"Tennessee","85+",224,105,NA,227,105,NA
+"439","By Year",2021,"Tennessee","Not stated",0,0,0,0,0,0
+"440","By Year",2021,"Tennessee","All Ages",809,699,191,822,708,191
+"441","By Year",2021,"Texas","0-24",NA,NA,10,NA,NA,10
+"442","By Year",2021,"Texas","25-34",17,35,75,17,37,75
+"443","By Year",2021,"Texas","35-44",69,113,135,69,115,136
+"444","By Year",2021,"Texas","45-54",232,329,246,233,331,246
+"445","By Year",2021,"Texas","55-64",650,764,340,651,774,343
+"446","By Year",2021,"Texas","65-74",NA,NA,341,NA,NA,343
+"447","By Year",2021,"Texas","75-84",NA,996,114,NA,NA,115
+"448","By Year",2021,"Texas","85+",NA,503,21,NA,505,21
+"449","By Year",2021,"Texas","Not stated",0,0,0,0,0,0
+"450","By Year",2021,"Texas","All Ages",NA,NA,NA,NA,NA,NA
+"451","By Year",2021,"Utah","0-24",0,NA,0,0,NA,0
+"452","By Year",2021,"Utah","25-34",0,NA,NA,0,NA,NA
+"453","By Year",2021,"Utah","35-44",NA,NA,12,NA,NA,12
+"454","By Year",2021,"Utah","45-54",NA,NA,14,NA,NA,14
+"455","By Year",2021,"Utah","55-64",18,22,15,19,22,15
+"456","By Year",2021,"Utah","65-74",30,44,22,30,44,22
+"457","By Year",2021,"Utah","75-84",27,32,NA,27,32,NA
+"458","By Year",2021,"Utah","85+",34,20,0,36,20,0
+"459","By Year",2021,"Utah","Not stated",0,0,0,0,0,0
+"460","By Year",2021,"Utah","All Ages",122,136,73,125,136,73
+"461","By Year",2021,"Vermont","0-24",0,0,0,0,0,0
+"462","By Year",2021,"Vermont","25-34",0,0,0,0,0,0
+"463","By Year",2021,"Vermont","35-44",NA,NA,NA,NA,NA,NA
+"464","By Year",2021,"Vermont","45-54",NA,NA,NA,NA,NA,NA
+"465","By Year",2021,"Vermont","55-64",NA,NA,NA,NA,NA,NA
+"466","By Year",2021,"Vermont","65-74",NA,NA,NA,NA,NA,NA
+"467","By Year",2021,"Vermont","75-84",NA,NA,0,NA,NA,0
+"468","By Year",2021,"Vermont","85+",10,NA,0,12,NA,0
+"469","By Year",2021,"Vermont","Not stated",0,0,0,0,0,0
+"470","By Year",2021,"Vermont","All Ages",20,15,NA,22,15,NA
+"471","By Year",2021,"Virginia","0-24",0,0,NA,0,0,NA
+"472","By Year",2021,"Virginia","25-34",NA,NA,NA,NA,NA,NA
+"473","By Year",2021,"Virginia","35-44",NA,NA,10,NA,NA,10
+"474","By Year",2021,"Virginia","45-54",27,36,13,27,36,13
+"475","By Year",2021,"Virginia","55-64",58,75,32,61,75,33
+"476","By Year",2021,"Virginia","65-74",107,150,30,109,150,30
+"477","By Year",2021,"Virginia","75-84",143,156,NA,145,160,NA
+"478","By Year",2021,"Virginia","85+",198,94,NA,201,94,NA
+"479","By Year",2021,"Virginia","Not stated",0,0,0,0,0,0
+"480","By Year",2021,"Virginia","All Ages",539,522,102,549,526,103
+"481","By Year",2021,"Washington","0-24",0,NA,0,0,NA,0
+"482","By Year",2021,"Washington","25-34",NA,NA,NA,NA,NA,NA
+"483","By Year",2021,"Washington","35-44",NA,NA,NA,NA,NA,NA
+"484","By Year",2021,"Washington","45-54",13,19,15,13,19,15
+"485","By Year",2021,"Washington","55-64",31,66,36,31,67,36
+"486","By Year",2021,"Washington","65-74",69,84,34,70,85,35
+"487","By Year",2021,"Washington","75-84",87,90,20,90,91,20
+"488","By Year",2021,"Washington","85+",100,58,NA,103,58,NA
+"489","By Year",2021,"Washington","Not stated",0,0,0,0,0,0
+"490","By Year",2021,"Washington","All Ages",303,328,124,310,332,125
+"491","By Year",2021,"West Virginia","0-24",0,0,0,0,0,0
+"492","By Year",2021,"West Virginia","25-34",0,0,0,0,0,0
+"493","By Year",2021,"West Virginia","35-44",NA,NA,NA,NA,NA,NA
+"494","By Year",2021,"West Virginia","45-54",NA,10,12,NA,10,12
+"495","By Year",2021,"West Virginia","55-64",22,24,NA,22,24,NA
+"496","By Year",2021,"West Virginia","65-74",45,55,17,45,55,17
+"497","By Year",2021,"West Virginia","75-84",49,45,NA,50,45,NA
+"498","By Year",2021,"West Virginia","85+",55,27,NA,55,28,NA
+"499","By Year",2021,"West Virginia","Not stated",0,0,0,0,0,0
+"500","By Year",2021,"West Virginia","All Ages",181,164,50,182,165,50
+"501","By Year",2021,"Wisconsin","0-24",0,0,0,0,0,0
+"502","By Year",2021,"Wisconsin","25-34",NA,NA,NA,NA,NA,NA
+"503","By Year",2021,"Wisconsin","35-44",NA,NA,NA,NA,NA,NA
+"504","By Year",2021,"Wisconsin","45-54",27,24,13,28,25,13
+"505","By Year",2021,"Wisconsin","55-64",58,57,38,58,59,38
+"506","By Year",2021,"Wisconsin","65-74",131,121,52,131,122,52
+"507","By Year",2021,"Wisconsin","75-84",157,125,31,157,126,31
+"508","By Year",2021,"Wisconsin","85+",210,103,14,218,103,14
+"509","By Year",2021,"Wisconsin","Not stated",0,0,0,0,0,0
+"510","By Year",2021,"Wisconsin","All Ages",587,438,156,596,444,156
+"511","By Year",2021,"Wyoming","0-24",0,0,0,0,0,0
+"512","By Year",2021,"Wyoming","25-34",NA,0,0,NA,0,0
+"513","By Year",2021,"Wyoming","35-44",0,NA,0,0,NA,0
+"514","By Year",2021,"Wyoming","45-54",NA,NA,NA,NA,NA,NA
+"515","By Year",2021,"Wyoming","55-64",NA,NA,NA,NA,NA,NA
+"516","By Year",2021,"Wyoming","65-74",11,NA,NA,11,NA,NA
+"517","By Year",2021,"Wyoming","75-84",15,NA,NA,15,NA,NA
+"518","By Year",2021,"Wyoming","85+",17,NA,NA,17,NA,NA
+"519","By Year",2021,"Wyoming","Not stated",0,0,0,0,0,0
+"520","By Year",2021,"Wyoming","All Ages",50,28,NA,50,31,NA
+"521","By Year",2021,"Puerto Rico","0-24",0,0,0,0,0,0
+"522","By Year",2021,"Puerto Rico","25-34",NA,0,NA,NA,0,NA
+"523","By Year",2021,"Puerto Rico","35-44",0,NA,NA,0,NA,NA
+"524","By Year",2021,"Puerto Rico","45-54",14,15,10,14,15,10
+"525","By Year",2021,"Puerto Rico","55-64",16,22,13,16,22,13
+"526","By Year",2021,"Puerto Rico","65-74",18,32,NA,19,32,NA
+"527","By Year",2021,"Puerto Rico","75-84",30,32,NA,30,33,NA
+"528","By Year",2021,"Puerto Rico","85+",18,17,NA,18,17,NA
+"529","By Year",2021,"Puerto Rico","Not stated",0,0,0,0,0,0
+"530","By Year",2021,"Puerto Rico","All Ages",97,121,44,98,122,44
