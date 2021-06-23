@@ -67,18 +67,20 @@ drop census2010pop estimatesbase2010
 reshape long popestimate,	///
  i(sumlev region division state sex origin race age) j(year)
 
+
 la var popestimate "Resident total population estimate"
  
-
-la def lab_sex 0 "Total" 1 "Male" 2 "Female"
-la def lab_origin 0 "Total" 1 "Not Hispanic" 2 "Hispanic"
-la def lab_race 1 "White Alone" 2 "Black or African American Alone" 3 "American Indian or Alaska Native Alone" 4 "Asian Alone" 5 "Native Hawaiian and Other Pacific Islander Alone" 6 "Two or more races"
-
+	pro_lab
 la val sex lab_sex
 la val origin lab_origin
 la val race lab_race
 
 la var year "Year"
+
+*Drop Total
+drop if origin == 0
+keep if sex == 0
+drop sex
 
 ren name state_name
 ren state state_code
@@ -86,6 +88,11 @@ ren state state_code
 drop sumlev region division
 
 drop if state_code == 0
+
+*Collpase hispanic value
+replace race = 7 if origin == 2
+drop origin
+collapse (sum) popestimate, by(state_code race year state_name age)
 
 save "$datatemp/cencus_pop_demo", replace
 *===============================================================================
@@ -96,17 +103,20 @@ use "$datatemp/cencus_pop_demo", clear
 *Categorize age
 gen age_group = .
 la var age_group "Age group"
-replace age_group = 1 if inrange(age,0,17)
-replace age_group = 2 if inrange(age,18,49)
-replace age_group = 3 if inrange(age,50,64)
-replace age_group = 4 if inrange(age,65,100)
-
-la def lab_age_group 1 "0-17" 2 "18-49" 3 "50-64" 4 "65+"
+replace age_group = 1 if inrange(age,16,19)
+replace age_group = 2 if inrange(age,20,24)
+replace age_group = 3 if inrange(age,25,34)
+replace age_group = 4 if inrange(age,35,44)
+replace age_group = 5 if inrange(age,45,54)
+replace age_group = 6 if inrange(age,55,64)
+replace age_group = 7 if inrange(age,65,100)
+	
+	pro_lab_age_group
 la val age_group lab_age_group
 
 *Redefy race group
-replace race = 4 if race == 5
-la def lab_race 4 "Asian/Pacific Islander", modify
+*replace race = 4 if race == 5
+*la def lab_race 4 "Asian/Pacific Islander", modify
 
 *Collapse data
 collapse (sum) popestimate,	///
@@ -247,12 +257,13 @@ save "$datatemp/cencus_employment_state", replace
 
 
 *===============================================================================
-*
+*Employment by demographic characteristics and state============================
 *U.S. Bureau of Labor Statistics - United States Department of Labor
 *Local Area Unemployment Statistics
 *Expanded State Employment Status Demographic Data
 *https://www.bls.gov/lau/ex14tables.htm
-
+*Notes: Unusable due to inconsistant of each year reporting 
+/*
 forval year =15(1)20 {
 	import excel using "$dataraw/table14full`year'.xlsx", clear
 		drop in 1/7
@@ -263,28 +274,94 @@ forval year =15(1)20 {
 	    destring `X', replace
 	}
 	*
-	if inrange(`year',2015,2016) {
+	if inrange(`year',15,16) {
 	    drop l m n
 	}
-	else if inrange(`year',2017,2019) {
+	else if inrange(`year',17,19) {
 	    drop l
 	}
 	*
-		
+	
+	
+	ren a state_code 
+	ren c state_name
+	ren b group_code
+	ren d group_name
+	ren e pop_non_institutional
+	ren f pop_labor_total
+	ren g pop_labor_percent
+	ren h pop_labor_employed_total
+	ren i pop_labor_employed_percent
+	ren j pop_unemployed_total
+	ren k pop_unemployed_rate
+
+
+	la var state_code "State FIPS code"
+	la var state_name "State name"
+	la var group_code "Population group code"
+	la var group_name "Population group"
+	la var pop_non_institutional "Civilian non-institutional population"
+	la var pop_labor_total "Total civilian labor force"
+	la var pop_labor_percent "Percent civilian labor force"
+	la var pop_labor_employed_total "Total of population employed"
+	la var pop_labor_employed_percent "Percent of population employed"
+	la var pop_unemployed_total "Total unemployed"
+	la var pop_unemployed_rate "Unemployed rate"
+
+	
+	cap replace pop_unemployed_total = "0" if pop_unemployed_total == "( 3 )"
+	cap replace pop_unemployed_total = "0" if pop_unemployed_total == "(3)-"
+	cap replace pop_unemployed_rate = "0" if pop_unemployed_rate == "( 3 )"
+	destring pop_unemployed_total pop_unemployed_rate, replace
+	
+	gen year = 2000 + `year'
+	la var year "Year"
+	
 	compress
 	save "$datatemp/table14full`year'", replace
 }
 *
-Civilian non-institutional population
-Civilian labor force				
-	Total	
-	Percent of population
-	Employed
-		Total
-		Percent of population
-	Unemployed
-		Total
-		Rate
+ 
+clear
+forval year =15(1)20 {
+	append using "$datatemp/table14full`year'"
+}
+*
+ 
+gen race = .
+replace race = 1 if strpos(group_name, "Whit") > 0 
+replace race = 2 if strpos(group_name, "Black") > 0 
+replace race = 4 if strpos(group_name, "Asian") > 0 
+replace race = 7 if strpos(group_name, "Hispanic") > 0 
+gen sex = .
+replace sex = 2 if strpos(group_name, "Women") > 0 | strpos(group_name, "women") > 0
+replace sex = 1 if (strpos(group_name, "Men") > 0 | strpos(group_name, "men") > 0) & sex == .
+gen age_group = .
+replace age_group = 1 if strpos(group_name, "16 to 19") > 0
+replace age_group = 2 if strpos(group_name, "20 to 24") > 0
+replace age_group = 3 if strpos(group_name, "25 to 34") > 0
+replace age_group = 4 if strpos(group_name, "35 to 44") > 0
+replace age_group = 5 if strpos(group_name, "45 to 54") > 0
+replace age_group = 6 if strpos(group_name, "55 to 64") > 0
+replace age_group = 7 if strpos(group_name, "65 years") > 0
+
+
+	pro_lab
+	pro_lab_age_group
+la val race lab_race
+la val sex lab_sex
+la val age_group lab_age_group
+
+drop if age_group != .
+	drop age_group
+drop if race == .
+drop if sex != .
+	drop sex
+	
+order state_code group_code state_name group_name race age_group year 
+sort state_name group_code year
+save "$datatemp/employment_demo_state", replace
+*/
 *===============================================================================
 
 
