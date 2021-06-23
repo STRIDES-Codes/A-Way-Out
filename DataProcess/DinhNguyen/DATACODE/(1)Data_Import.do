@@ -89,6 +89,36 @@ drop if state_code == 0
 
 save "$datatemp/cencus_pop_demo", replace
 *===============================================================================
+*===============================================================================
+*Collapse demographics data=====================================================
+use "$datatemp/cencus_pop_demo", clear
+
+*Categorize age
+gen age_group = .
+la var age_group "Age group"
+replace age_group = 1 if inrange(age,0,17)
+replace age_group = 2 if inrange(age,18,49)
+replace age_group = 3 if inrange(age,50,64)
+replace age_group = 4 if inrange(age,65,100)
+
+la def lab_age_group 1 "0-17" 2 "18-49" 3 "50-64" 4 "65+"
+la val age_group lab_age_group
+
+*Redefy race group
+replace race = 4 if race == 5
+la def lab_race 4 "Asian/Pacific Islander", modify
+
+*Collapse data
+collapse (sum) popestimate,	///
+	by(year state_code state_name race age_group)
+
+la var popestimate "Estimated population"
+	
+order state_code state_name year  age_group race 
+	
+compress
+save "$datatemp/cencus_pop_demo_collapsed", replace
+*===============================================================================
 
 
 
@@ -96,6 +126,10 @@ save "$datatemp/cencus_pop_demo", replace
 
 *===============================================================================
 *Real Personal Income by state==================================================
+*Bureau of Economic Analysis - U.S. Department of Commerce 
+*Regional Economic Accounts
+*https://apps.bea.gov/regional/downloadzip.cfm
+
 import delimited using "$dataraw/SARPI_STATE_2008_2019.csv", clear
 
 drop in 105/108
@@ -130,6 +164,10 @@ save "$datatemp/cencus_realpercapinc_state", replace
 
 *===============================================================================
 *Employment by state and sector=================================================
+*Bureau of Economic Analysis - U.S. Department of Commerce
+*Regional Economic Accounts
+*https://apps.bea.gov/regional/downloadzip.cfm
+
 import delimited using "$dataraw/CAEMP25N__ALL_AREAS_2001_2019.csv", clear
  
 drop in 105535/105538
@@ -206,33 +244,46 @@ save "$datatemp/cencus_employment_state", replace
 
 
 
+
+
 *===============================================================================
-*Collapse demographics data=====================================================
-use "$datatemp/cencus_pop_demo", clear
+*
+*U.S. Bureau of Labor Statistics - United States Department of Labor
+*Local Area Unemployment Statistics
+*Expanded State Employment Status Demographic Data
+*https://www.bls.gov/lau/ex14tables.htm
 
-*Categorize age
-gen age_group = .
-la var age_group "Age group"
-replace age_group = 1 if inrange(age,0,17)
-replace age_group = 2 if inrange(age,18,49)
-replace age_group = 3 if inrange(age,50,64)
-replace age_group = 4 if inrange(age,65,100)
+forval year =15(1)20 {
+	import excel using "$dataraw/table14full`year'.xlsx", clear
+		drop in 1/7
+		ren *, lower
+		drop if b == ""
+		
+	foreach X in * {
+	    destring `X', replace
+	}
+	*
+	if inrange(`year',2015,2016) {
+	    drop l m n
+	}
+	else if inrange(`year',2017,2019) {
+	    drop l
+	}
+	*
+		
+	compress
+	save "$datatemp/table14full`year'", replace
+}
+*
+Civilian non-institutional population
+Civilian labor force				
+	Total	
+	Percent of population
+	Employed
+		Total
+		Percent of population
+	Unemployed
+		Total
+		Rate
 
-la def lab_age_group 1 "0-17" 2 "18-49" 3 "50-64" 4 "65+"
-la val age_group lab_age_group
 
-*Redefy race group
-replace race = 4 if race == 5
-la def lab_race 4 "Asian/Pacific Islander", modify
-
-*Collapse data
-collapse (sum) popestimate,	///
-	by(year state_code state_name race age_group)
-
-la var popestimate "Estimated population"
-	
-order state_code state_name year  age_group race 
-	
-compress
-save "$datatemp/cencus_pop_demo_collapsed", replace
-*===============================================================================
