@@ -14,15 +14,13 @@
 <figcaption style="font-size:10px">CDC</figcaption></center>
 <br>
 
-Team Members:
-Vincent La - University of Massachusetts Medical School
-Dinh Nguyen-Xuan - George Washington University - N.X.Dinh@outlook.com
-
 ## Data Sources:
 **Demographic**
 + <a href="">DATASET TITLE</a>
+
 **Comorbidities**
 + <a href="https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm/data">Conditions Contributing to COVID-19 Deaths, by State and Age</a>
+
 **Social Determinants of Health**
 + <a href="">DATASET TITLE</a>
 
