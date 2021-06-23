@@ -18,6 +18,7 @@ graph export "$datafinal/graph_pop_minorities.png", as(png)
 
 *===============================================================================
 *Map for United States of America===============================================
+*Data for Flourish
 use "$datafinal/data_usa_demo&others", clear
  
  keep if year == 2019

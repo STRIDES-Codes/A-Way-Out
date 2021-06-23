@@ -1,0 +1,715 @@
+region_code,region_name,division_code,division_name,state_abbr,state_code,state_name,year,race,popestimate,obese_pct,highbloodpress_pct
+3,South,6,East South Central,AL,1,Alabama,2017,1,2562181,33.6,40.6
+3,South,6,East South Central,AL,1,Alabama,2017,2,972489,44.5,47.6
+3,South,6,East South Central,AL,1,Alabama,2017,3,22269,45.9,40.3
+3,South,6,East South Central,AL,1,Alabama,2017,4,53903,,
+3,South,6,East South Central,AL,1,Alabama,2017,5,1788,,
+3,South,6,East South Central,AL,1,Alabama,2017,6,39330,38.6,35
+3,South,6,East South Central,AL,1,Alabama,2017,7,126509,34.4,26.5
+4,West,9,Pacific,AK,2,Alaska,2017,1,358024,32.7,32.4
+4,West,9,Pacific,AK,2,Alaska,2017,2,18826,,52.3
+4,West,9,Pacific,AK,2,Alaska,2017,3,73666,44,63.6
+4,West,9,Pacific,AK,2,Alaska,2017,4,36328,,
+4,West,9,Pacific,AK,2,Alaska,2017,5,6479,,
+4,West,9,Pacific,AK,2,Alaska,2017,6,26424,28.6,21.1
+4,West,9,Pacific,AK,2,Alaska,2017,7,34543,32.3,20.6
+4,West,8,Mountain,AZ,4,Arizona,2017,1,3219872,26.9,65.59999999999999
+4,West,8,Mountain,AZ,4,Arizona,2017,2,225337,34.1,65.90000000000001
+4,West,8,Mountain,AZ,4,Arizona,2017,3,199128,41.9,67.90000000000001
+4,West,8,Mountain,AZ,4,Arizona,2017,4,189850,8.5,81.3
+4,West,8,Mountain,AZ,4,Arizona,2017,5,10103,,
+4,West,8,Mountain,AZ,4,Arizona,2017,6,78898,34.4,23.4
+4,West,8,Mountain,AZ,4,Arizona,2017,7,1483658,35.4,23.2
+3,South,7,West South Central,AR,5,Arkansas,2017,1,1729603,33.8,57.6
+3,South,7,West South Central,AR,5,Arkansas,2017,2,337311,45.3,52.1
+3,South,7,West South Central,AR,5,Arkansas,2017,3,17499,50.2,67.5
+3,South,7,West South Central,AR,5,Arkansas,2017,4,36398,,
+3,South,7,West South Central,AR,5,Arkansas,2017,5,5967,,
+3,South,7,West South Central,AR,5,Arkansas,2017,6,29966,,58
+3,South,7,West South Central,AR,5,Arkansas,2017,7,139231,28.5,
+4,West,9,Pacific,CA,6,California,2017,1,12353827,23.7,68.7
+4,West,9,Pacific,CA,6,California,2017,2,1753949,33.7,46
+4,West,9,Pacific,CA,6,California,2017,3,130827,32.8,41.3
+4,West,9,Pacific,CA,6,California,2017,4,4656406,9.6,78.3
+4,West,9,Pacific,CA,6,California,2017,5,112649,,
+4,West,9,Pacific,CA,6,California,2017,6,646541,37.7,72.7
+4,West,9,Pacific,CA,6,California,2017,7,10657984,31.6,24.5
+4,West,8,Mountain,CO,8,Colorado,2017,1,3118605,21.6,73.40000000000001
+4,West,8,Mountain,CO,8,Colorado,2017,2,170136,29.3,66.8
+4,West,8,Mountain,CO,8,Colorado,2017,3,28576,27.8,37.1
+4,West,8,Mountain,CO,8,Colorado,2017,4,141949,,85
+4,West,8,Mountain,CO,8,Colorado,2017,5,5583,,
+4,West,8,Mountain,CO,8,Colorado,2017,6,72059,28.5,76.7
+4,West,8,Mountain,CO,8,Colorado,2017,7,811875,27.7,77.40000000000001
+1,Northeast,1,New England,CT,9,Connecticut,2017,1,1988818,25.6,31.8
+1,Northeast,1,New England,CT,9,Connecticut,2017,2,277462,35.8,36.2
+1,Northeast,1,New England,CT,9,Connecticut,2017,3,5686,,44
+1,Northeast,1,New England,CT,9,Connecticut,2017,4,128420,10,83.5
+1,Northeast,1,New England,CT,9,Connecticut,2017,5,964,,
+1,Northeast,1,New England,CT,9,Connecticut,2017,6,33351,27,70.5
+1,Northeast,1,New England,CT,9,Connecticut,2017,7,395254,32,75.5
+3,South,5,South Atlantic,DE,10,Delaware,2017,1,497228,30.2,36
+3,South,5,South Atlantic,DE,10,Delaware,2017,2,156479,40.2,60.6
+3,South,5,South Atlantic,DE,10,Delaware,2017,3,2443,33.4,40.4
+3,South,5,South Atlantic,DE,10,Delaware,2017,4,29407,,88.59999999999999
+3,South,5,South Atlantic,DE,10,Delaware,2017,5,253,,
+3,South,5,South Atlantic,DE,10,Delaware,2017,6,10898,,
+3,South,5,South Atlantic,DE,10,Delaware,2017,7,56254,30.3,20.6
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,1,228361,12,82.8
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,2,247872,36.2,40.8
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,3,1224,,
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,4,26325,,89.8
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,5,288,,
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,6,10559,,
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,7,55595,19,89.5
+3,South,5,South Atlantic,FL,12,Florida,2017,1,9575220,26.2,61.1
+3,South,5,South Atlantic,FL,12,Florida,2017,2,2412501,36.8,64.09999999999999
+3,South,5,South Atlantic,FL,12,Florida,2017,3,44070,46.7,67.7
+3,South,5,South Atlantic,FL,12,Florida,2017,4,472057,,83.8
+3,South,5,South Atlantic,FL,12,Florida,2017,5,10475,,
+3,South,5,South Atlantic,FL,12,Florida,2017,6,189462,37.1,71
+3,South,5,South Atlantic,FL,12,Florida,2017,7,4057925,31.3,25.8
+3,South,5,South Atlantic,GA,13,Georgia,2017,1,4400213,30.8,35.2
+3,South,5,South Atlantic,GA,13,Georgia,2017,2,2420344,35.9,34.8
+3,South,5,South Atlantic,GA,13,Georgia,2017,3,18966,34,69.5
+3,South,5,South Atlantic,GA,13,Georgia,2017,4,330102,14.3,85.8
+3,South,5,South Atlantic,GA,13,Georgia,2017,5,4685,,
+3,South,5,South Atlantic,GA,13,Georgia,2017,6,96073,39,41
+3,South,5,South Atlantic,GA,13,Georgia,2017,7,628537,27.4,20.3
+4,West,9,Pacific,HI,15,Hawaii,2017,1,270800,17.2,25.3
+4,West,9,Pacific,HI,15,Hawaii,2017,2,22084,30.8,67.3
+4,West,9,Pacific,HI,15,Hawaii,2017,3,2536,,
+4,West,9,Pacific,HI,15,Hawaii,2017,4,446631,16,37
+4,West,9,Pacific,HI,15,Hawaii,2017,5,100405,44.4,27.7
+4,West,9,Pacific,HI,15,Hawaii,2017,6,183293,37.3,29.2
+4,West,9,Pacific,HI,15,Hawaii,2017,7,93483,33.9,22.8
+4,West,8,Mountain,ID,16,Idaho,2017,1,1077173,28.2,69.2
+4,West,8,Mountain,ID,16,Idaho,2017,2,8449,,
+4,West,8,Mountain,ID,16,Idaho,2017,3,14055,,
+4,West,8,Mountain,ID,16,Idaho,2017,4,19543,,
+4,West,8,Mountain,ID,16,Idaho,2017,5,2146,,
+4,West,8,Mountain,ID,16,Idaho,2017,6,19233,35.7,70.7
+4,West,8,Mountain,ID,16,Idaho,2017,7,134626,37.3,22.6
+2,Midwest,3,East North Central,IL,17,Illinois,2017,1,6360688,31,66.40000000000001
+2,Midwest,3,East North Central,IL,17,Illinois,2017,2,1357377,38.5,60.1
+2,Midwest,3,East North Central,IL,17,Illinois,2017,3,15490,,
+2,Midwest,3,East North Central,IL,17,Illinois,2017,4,567046,10.6,84.3
+2,Midwest,3,East North Central,IL,17,Illinois,2017,5,2789,,
+2,Midwest,3,East North Central,IL,17,Illinois,2017,6,105393,18.4,30.2
+2,Midwest,3,East North Central,IL,17,Illinois,2017,7,1474063,33.6,25.7
+2,Midwest,3,East North Central,IN,18,Indiana,2017,1,4157005,33.2,35.4
+2,Midwest,3,East North Central,IN,18,Indiana,2017,2,452177,43.6,45.6
+2,Midwest,3,East North Central,IN,18,Indiana,2017,3,12325,28.6,56.6
+2,Midwest,3,East North Central,IN,18,Indiana,2017,4,117022,13.7,83.09999999999999
+2,Midwest,3,East North Central,IN,18,Indiana,2017,5,1784,,
+2,Midwest,3,East North Central,IN,18,Indiana,2017,6,57857,38.1,41.4
+2,Midwest,3,East North Central,IN,18,Indiana,2017,7,287008,29.3,79.09999999999999
+2,Midwest,4,West North Central,IA,19,Iowa,2017,1,2124187,36.5,67.5
+2,Midwest,4,West North Central,IA,19,Iowa,2017,2,77509,43.3,69.8
+2,Midwest,4,West North Central,IA,19,Iowa,2017,3,6708,,
+2,Midwest,4,West North Central,IA,19,Iowa,2017,4,61313,23.9,17.3
+2,Midwest,4,West North Central,IA,19,Iowa,2017,5,2194,,
+2,Midwest,4,West North Central,IA,19,Iowa,2017,6,23386,31.3,21.5
+2,Midwest,4,West North Central,IA,19,Iowa,2017,7,114642,38.1,21.4
+2,Midwest,4,West North Central,KS,20,Kansas,2017,1,1734422,32,65.90000000000001
+2,Midwest,4,West North Central,KS,20,Kansas,2017,2,123332,36.3,60.1
+2,Midwest,4,West North Central,KS,20,Kansas,2017,3,17821,33.4,57.4
+2,Midwest,4,West North Central,KS,20,Kansas,2017,4,67935,13.2,87
+2,Midwest,4,West North Central,KS,20,Kansas,2017,5,1845,,
+2,Midwest,4,West North Central,KS,20,Kansas,2017,6,37444,34.9,31.6
+2,Midwest,4,West North Central,KS,20,Kansas,2017,7,214062,37.7,77.09999999999999
+3,South,6,East South Central,KY,21,Kentucky,2017,1,2973167,34.5,39.7
+3,South,6,East South Central,KY,21,Kentucky,2017,2,268825,35.6,51.6
+3,South,6,East South Central,KY,21,Kentucky,2017,3,7674,37.8,47.3
+3,South,6,East South Central,KY,21,Kentucky,2017,4,50688,,
+3,South,6,East South Central,KY,21,Kentucky,2017,5,2033,,
+3,South,6,East South Central,KY,21,Kentucky,2017,6,37706,30.4,38.3
+3,South,6,East South Central,KY,21,Kentucky,2017,7,101755,28.9,88.3
+3,South,7,West South Central,LA,22,Louisiana,2017,1,2179419,33.6,38
+3,South,7,West South Central,LA,22,Louisiana,2017,2,1098250,42.2,57.7
+3,South,7,West South Central,LA,22,Louisiana,2017,3,22882,44.4,55.5
+3,South,7,West South Central,LA,22,Louisiana,2017,4,63722,,
+3,South,7,West South Central,LA,22,Louisiana,2017,5,1412,,
+3,South,7,West South Central,LA,22,Louisiana,2017,6,34364,40.9,41.1
+3,South,7,West South Central,LA,22,Louisiana,2017,7,163179,33.2,70.7
+1,Northeast,1,New England,ME,23,Maine,2017,1,1021776,29.2,64.90000000000001
+1,Northeast,1,New England,ME,23,Maine,2017,2,12998,,
+1,Northeast,1,New England,ME,23,Maine,2017,3,6593,29.3,63.3
+1,Northeast,1,New England,ME,23,Maine,2017,4,12896,,
+1,Northeast,1,New England,ME,23,Maine,2017,5,275,,
+1,Northeast,1,New England,ME,23,Maine,2017,6,12412,36.1,55
+1,Northeast,1,New England,ME,23,Maine,2017,7,15040,36.7,68.59999999999999
+3,South,5,South Atlantic,MD,24,Maryland,2017,1,2504900,28.8,66.8
+3,South,5,South Atlantic,MD,24,Maryland,2017,2,1377240,42.2,37.5
+3,South,5,South Atlantic,MD,24,Maryland,2017,3,11771,28.4,40.1
+3,South,5,South Atlantic,MD,24,Maryland,2017,4,307780,7.4,25.1
+3,South,5,South Atlantic,MD,24,Maryland,2017,5,2360,,
+3,South,5,South Atlantic,MD,24,Maryland,2017,6,75138,35.4,29.5
+3,South,5,South Atlantic,MD,24,Maryland,2017,7,400749,29.4,16.6
+1,Northeast,1,New England,MA,25,Massachusetts,2017,1,4101259,25.8,30.4
+1,Northeast,1,New England,MA,25,Massachusetts,2017,2,371931,31.2,32.8
+1,Northeast,1,New England,MA,25,Massachusetts,2017,3,9756,,
+1,Northeast,1,New England,MA,25,Massachusetts,2017,4,372337,10.2,13.4
+1,Northeast,1,New England,MA,25,Massachusetts,2017,5,2189,,
+1,Northeast,1,New England,MA,25,Massachusetts,2017,6,68446,36.3,67.7
+1,Northeast,1,New England,MA,25,Massachusetts,2017,7,560598,30.9,22.1
+2,Midwest,3,East North Central,MI,26,Michigan,2017,1,6028908,31,65.59999999999999
+2,Midwest,3,East North Central,MI,26,Michigan,2017,2,1027602,41.2,44.8
+2,Midwest,3,East North Central,MI,26,Michigan,2017,3,43624,31.9,38.4
+2,Midwest,3,East North Central,MI,26,Michigan,2017,4,249273,17.5,13.4
+2,Midwest,3,East North Central,MI,26,Michigan,2017,5,2098,,
+2,Midwest,3,East North Central,MI,26,Michigan,2017,6,115449,28.8,30.2
+2,Midwest,3,East North Central,MI,26,Michigan,2017,7,325413,37.7,76.09999999999999
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,1,3552739,28.3,72.2
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,2,230808,32.4,72.8
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,3,40402,39.3,70.8
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,4,197663,16.7,86.40000000000001
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,5,1904,,
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,6,58861,38.2,75.09999999999999
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,7,184335,35.8,82.5
+3,South,6,East South Central,MS,28,Mississippi,2017,1,1340857,33.1,61.9
+3,South,6,East South Central,MS,28,Mississippi,2017,2,818795,45.7,54
+3,South,6,East South Central,MS,28,Mississippi,2017,3,10431,42.9,40.2
+3,South,6,East South Central,MS,28,Mississippi,2017,4,24253,,
+3,South,6,East South Central,MS,28,Mississippi,2017,5,819,,
+3,South,6,East South Central,MS,28,Mississippi,2017,6,16522,29.6,59.3
+3,South,6,East South Central,MS,28,Mississippi,2017,7,62332,,39.7
+2,Midwest,4,West North Central,MO,29,Missouri,2017,1,3851138,32,32.2
+2,Midwest,4,West North Central,MO,29,Missouri,2017,2,521710,40.7,38.5
+2,Midwest,4,West North Central,MO,29,Missouri,2017,3,20843,28.1,56.1
+2,Midwest,4,West North Central,MO,29,Missouri,2017,4,97056,,93.90000000000001
+2,Midwest,4,West North Central,MO,29,Missouri,2017,5,5159,,
+2,Midwest,4,West North Central,MO,29,Missouri,2017,6,65849,33.5,36.5
+2,Midwest,4,West North Central,MO,29,Missouri,2017,7,161994,24,13.3
+4,West,8,Mountain,MT,30,Montana,2017,1,727783,24.1,70.59999999999999
+4,West,8,Mountain,MT,30,Montana,2017,2,4044,,
+4,West,8,Mountain,MT,30,Montana,2017,3,41991,43.2,33.9
+4,West,8,Mountain,MT,30,Montana,2017,4,7417,,
+4,West,8,Mountain,MT,30,Montana,2017,5,602,,
+4,West,8,Mountain,MT,30,Montana,2017,6,15293,35.2,72
+4,West,8,Mountain,MT,30,Montana,2017,7,26152,28.8,20.8
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,1,1186865,32.2,31.2
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,2,63629,44.6,55.2
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,3,10589,33.2,65.2
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,4,35918,,
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,5,836,,
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,6,16782,41.9,25.8
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,7,125394,34.6,20.8
+4,West,8,Mountain,NV,32,Nevada,2017,1,1225034,25,64.3
+4,West,8,Mountain,NV,32,Nevada,2017,2,197946,32.8,39.3
+4,West,8,Mountain,NV,32,Nevada,2017,3,20042,50.8,63.3
+4,West,8,Mountain,NV,32,Nevada,2017,4,202798,25.2,28.9
+4,West,8,Mountain,NV,32,Nevada,2017,5,14058,,
+4,West,8,Mountain,NV,32,Nevada,2017,6,55458,37.3,40.4
+4,West,8,Mountain,NV,32,Nevada,2017,7,573034,26.4,23.4
+1,Northeast,1,New England,NH,33,New Hampshire,2017,1,996350,28.3,30.7
+1,Northeast,1,New England,NH,33,New Hampshire,2017,2,13552,,
+1,Northeast,1,New England,NH,33,New Hampshire,2017,3,2391,,
+1,Northeast,1,New England,NH,33,New Hampshire,2017,4,30290,,
+1,Northeast,1,New England,NH,33,New Hampshire,2017,5,297,,
+1,Northeast,1,New England,NH,33,New Hampshire,2017,6,11603,25.9,25.6
+1,Northeast,1,New England,NH,33,New Hampshire,2017,7,34051,35.4,79.7
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,1,4017111,26.8,65.8
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,2,882181,36,58.8
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,3,9850,33.6,66.3
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,4,665090,10.2,74.7
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,5,2328,,
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,6,73275,29.2,41.5
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,7,1272307,32.6,72.59999999999999
+4,West,8,Mountain,NM,35,New Mexico,2017,1,666063,24.9,33.9
+4,West,8,Mountain,NM,35,New Mexico,2017,2,30182,27.3,64.3
+4,West,8,Mountain,NM,35,New Mexico,2017,3,133868,38.7,73.2
+4,West,8,Mountain,NM,35,New Mexico,2017,4,26011,,
+4,West,8,Mountain,NM,35,New Mexico,2017,5,1122,,
+4,West,8,Mountain,NM,35,New Mexico,2017,6,19098,,
+4,West,8,Mountain,NM,35,New Mexico,2017,7,726982,30.8,71.2
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,1,8939324,25.3,71.09999999999999
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,2,2217228,35.3,59.8
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,3,44641,21.5,57.2
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,4,1360894,12.1,81.09999999999999
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,5,6849,,
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,6,194043,23,65.59999999999999
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,7,2712981,26.9,72.59999999999999
+3,South,5,South Atlantic,NC,37,North Carolina,2017,1,5286793,30.2,34.8
+3,South,5,South Atlantic,NC,37,North Carolina,2017,2,1674434,41.6,42.7
+3,South,5,South Atlantic,NC,37,North Carolina,2017,3,87862,36,39.3
+3,South,5,South Atlantic,NC,37,North Carolina,2017,4,229247,,82.40000000000001
+3,South,5,South Atlantic,NC,37,North Carolina,2017,5,4824,,
+3,South,5,South Atlantic,NC,37,North Carolina,2017,6,97381,31,24.3
+3,South,5,South Atlantic,NC,37,North Carolina,2017,7,586971,28,80.3
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,1,503685,32.7,30.6
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,2,15586,26.8,
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,3,24759,46.4,62.2
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,4,9643,,
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,5,310,,
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,6,7442,42.7,81.8
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,7,17180,38.7,22.9
+2,Midwest,3,East North Central,OH,39,Ohio,2017,1,7346972,33,65.09999999999999
+2,Midwest,3,East North Central,OH,39,Ohio,2017,2,1071796,41.6,39.8
+2,Midwest,3,East North Central,OH,39,Ohio,2017,3,18392,28,56.5
+2,Midwest,3,East North Central,OH,39,Ohio,2017,4,210585,,13.8
+2,Midwest,3,East North Central,OH,39,Ohio,2017,5,3131,,
+2,Midwest,3,East North Central,OH,39,Ohio,2017,6,118135,29.2,78.3
+2,Midwest,3,East North Central,OH,39,Ohio,2017,7,282643,38.2,71.90000000000001
+3,South,7,West South Central,OK,40,Oklahoma,2017,1,2071146,36.2,38.9
+3,South,7,West South Central,OK,40,Oklahoma,2017,2,215347,36.5,40.7
+3,South,7,West South Central,OK,40,Oklahoma,2017,3,233933,45.6,40.6
+3,South,7,West South Central,OK,40,Oklahoma,2017,4,68398,,79.59999999999999
+3,South,7,West South Central,OK,40,Oklahoma,2017,5,4231,,
+3,South,7,West South Central,OK,40,Oklahoma,2017,6,126296,34.6,61
+3,South,7,West South Central,OK,40,Oklahoma,2017,7,253528,36,26.6
+4,West,9,Pacific,OR,41,Oregon,2017,1,2584642,29.3,67.8
+4,West,9,Pacific,OR,41,Oregon,2017,2,58140,29,24.3
+4,West,9,Pacific,OR,41,Oregon,2017,3,35698,43.7,36.4
+4,West,9,Pacific,OR,41,Oregon,2017,4,153773,,
+4,West,9,Pacific,OR,41,Oregon,2017,5,12325,,
+4,West,9,Pacific,OR,41,Oregon,2017,6,80228,30.4,71
+4,West,9,Pacific,OR,41,Oregon,2017,7,346447,33.4,20.3
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,1,8003550,31.8,33.2
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,2,1034813,38.1,41.1
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,3,14530,,
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,4,348447,,87.09999999999999
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,5,2895,,
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,6,105028,48.4,59.6
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,7,614103,25,80.7
+1,Northeast,1,New England,RI,44,Rhode Island,2017,1,645997,29.6,35.1
+1,Northeast,1,New England,RI,44,Rhode Island,2017,2,47156,35.3,36.3
+1,Northeast,1,New England,RI,44,Rhode Island,2017,3,3340,,
+1,Northeast,1,New England,RI,44,Rhode Island,2017,4,29158,,
+1,Northeast,1,New England,RI,44,Rhode Island,2017,5,497,,
+1,Northeast,1,New England,RI,44,Rhode Island,2017,6,12195,20.3,70.5
+1,Northeast,1,New England,RI,44,Rhode Island,2017,7,110479,34.8,76.7
+3,South,5,South Atlantic,SC,45,South Carolina,2017,1,2597850,30.8,36.9
+3,South,5,South Atlantic,SC,45,South Carolina,2017,2,1015135,43.5,45.8
+3,South,5,South Atlantic,SC,45,South Carolina,2017,3,14792,40.2,44.4
+3,South,5,South Atlantic,SC,45,South Carolina,2017,4,65142,,
+3,South,5,South Atlantic,SC,45,South Carolina,2017,5,2213,,
+3,South,5,South Atlantic,SC,45,South Carolina,2017,6,40645,32.9,29.4
+3,South,5,South Atlantic,SC,45,South Carolina,2017,7,181711,30.8,80.59999999999999
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,1,560158,30.5,68.8
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,2,12394,,
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,3,45047,48.6,63
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,4,10024,,
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,5,333,,
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,6,8823,34.2,74.09999999999999
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,7,20124,44,
+3,South,6,East South Central,TN,47,Tennessee,2017,1,3977545,31.1,60.8
+3,South,6,East South Central,TN,47,Tennessee,2017,2,836623,44.7,41.8
+3,South,6,East South Central,TN,47,Tennessee,2017,3,15420,26.7,41.3
+3,South,6,East South Central,TN,47,Tennessee,2017,4,92460,,
+3,South,6,East South Central,TN,47,Tennessee,2017,5,2611,,
+3,South,6,East South Central,TN,47,Tennessee,2017,6,58005,35.6,64.8
+3,South,6,East South Central,TN,47,Tennessee,2017,7,219617,27,87.09999999999999
+3,South,7,West South Central,TX,48,Texas,2017,1,9555987,30.2,62.3
+3,South,7,West South Central,TX,48,Texas,2017,2,2511408,38.7,47.6
+3,South,7,West South Central,TX,48,Texas,2017,3,74045,48.2,33.9
+3,South,7,West South Central,TX,48,Texas,2017,4,1058914,,19.5
+3,South,7,West South Central,TX,48,Texas,2017,5,17651,,
+3,South,7,West South Central,TX,48,Texas,2017,6,220308,,76
+3,South,7,West South Central,TX,48,Texas,2017,7,7495297,37.4,77.2
+4,West,8,Mountain,UT,49,Utah,2017,1,1746615,25,74.90000000000001
+4,West,8,Mountain,UT,49,Utah,2017,2,23416,,47.5
+4,West,8,Mountain,UT,49,Utah,2017,3,20890,34.5,26.9
+4,West,8,Mountain,UT,49,Utah,2017,4,59762,,85
+4,West,8,Mountain,UT,49,Utah,2017,5,19881,,
+4,West,8,Mountain,UT,49,Utah,2017,6,31230,23.2,17.4
+4,West,8,Mountain,UT,49,Utah,2017,7,272140,27.9,79.40000000000001
+1,Northeast,1,New England,VT,50,Vermont,2017,1,475305,27.7,31
+1,Northeast,1,New England,VT,50,Vermont,2017,2,5469,,
+1,Northeast,1,New England,VT,50,Vermont,2017,3,1708,35.7,44.8
+1,Northeast,1,New England,VT,50,Vermont,2017,4,9203,,
+1,Northeast,1,New England,VT,50,Vermont,2017,5,152,,
+1,Northeast,1,New England,VT,50,Vermont,2017,6,6711,32.2,78.7
+1,Northeast,1,New England,VT,50,Vermont,2017,7,8890,,
+3,South,5,South Atlantic,VA,51,Virginia,2017,1,4237439,28.5,32.5
+3,South,5,South Atlantic,VA,51,Virginia,2017,2,1242047,43.7,55.3
+3,South,5,South Atlantic,VA,51,Virginia,2017,3,18367,25.6,32.1
+3,South,5,South Atlantic,VA,51,Virginia,2017,4,438208,7.5,85.90000000000001
+3,South,5,South Atlantic,VA,51,Virginia,2017,5,4822,,
+3,South,5,South Atlantic,VA,51,Virginia,2017,6,115277,22.5,73
+3,South,5,South Atlantic,VA,51,Virginia,2017,7,536841,32.2,19.7
+4,West,9,Pacific,WA,53,Washington,2017,1,4163735,28.6,67.7
+4,West,9,Pacific,WA,53,Washington,2017,2,214831,31.6,69.90000000000001
+4,West,9,Pacific,WA,53,Washington,2017,3,71393,34.8,58.4
+4,West,9,Pacific,WA,53,Washington,2017,4,527006,9.1,18.1
+4,West,9,Pacific,WA,53,Washington,2017,5,37309,,75.3
+4,West,9,Pacific,WA,53,Washington,2017,6,168271,33.8,26
+4,West,9,Pacific,WA,53,Washington,2017,7,589901,33.1,81
+3,South,5,South Atlantic,WV,54,West Virginia,2017,1,1347075,38,44
+3,South,5,South Atlantic,WV,54,West Virginia,2017,2,49776,42.9,42
+3,South,5,South Atlantic,WV,54,West Virginia,2017,3,3255,,
+3,South,5,South Atlantic,WV,54,West Virginia,2017,4,12339,,
+3,South,5,South Atlantic,WV,54,West Virginia,2017,5,312,,
+3,South,5,South Atlantic,WV,54,West Virginia,2017,6,15109,52.8,33.1
+3,South,5,South Atlantic,WV,54,West Virginia,2017,7,19847,,
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,1,3803498,31.3,31.9
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,2,255781,39,68.90000000000001
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,3,37229,37,23.1
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,4,121294,,84.90000000000001
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,5,1556,,
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,6,46001,,75.09999999999999
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,7,241622,38.7,77.40000000000001
+4,West,8,Mountain,WY,56,Wyoming,2017,1,381550,28.6,31
+4,West,8,Mountain,WY,56,Wyoming,2017,2,4885,,
+4,West,8,Mountain,WY,56,Wyoming,2017,3,8187,44.4,64.40000000000001
+4,West,8,Mountain,WY,56,Wyoming,2017,4,4699,,
+4,West,8,Mountain,WY,56,Wyoming,2017,5,315,,
+4,West,8,Mountain,WY,56,Wyoming,2017,6,5560,28.8,30.7
+4,West,8,Mountain,WY,56,Wyoming,2017,7,37529,25.8,73
+3,South,6,East South Central,AL,1,Alabama,2017,1,2562181,33.6,59.4
+3,South,6,East South Central,AL,1,Alabama,2017,2,972489,44.5,52.4
+3,South,6,East South Central,AL,1,Alabama,2017,3,22269,45.9,59.7
+3,South,6,East South Central,AL,1,Alabama,2017,4,53903,,
+3,South,6,East South Central,AL,1,Alabama,2017,5,1788,,
+3,South,6,East South Central,AL,1,Alabama,2017,6,39330,38.6,65
+3,South,6,East South Central,AL,1,Alabama,2017,7,126509,34.4,73.5
+4,West,9,Pacific,AK,2,Alaska,2017,1,358024,32.7,67.59999999999999
+4,West,9,Pacific,AK,2,Alaska,2017,2,18826,,47.7
+4,West,9,Pacific,AK,2,Alaska,2017,3,73666,44,36.4
+4,West,9,Pacific,AK,2,Alaska,2017,4,36328,,80.59999999999999
+4,West,9,Pacific,AK,2,Alaska,2017,5,6479,,
+4,West,9,Pacific,AK,2,Alaska,2017,6,26424,28.6,78.90000000000001
+4,West,9,Pacific,AK,2,Alaska,2017,7,34543,32.3,79.40000000000001
+4,West,8,Mountain,AZ,4,Arizona,2017,1,3219872,26.9,34.4
+4,West,8,Mountain,AZ,4,Arizona,2017,2,225337,34.1,34.1
+4,West,8,Mountain,AZ,4,Arizona,2017,3,199128,41.9,32.1
+4,West,8,Mountain,AZ,4,Arizona,2017,4,189850,8.5,18.7
+4,West,8,Mountain,AZ,4,Arizona,2017,5,10103,,
+4,West,8,Mountain,AZ,4,Arizona,2017,6,78898,34.4,76.59999999999999
+4,West,8,Mountain,AZ,4,Arizona,2017,7,1483658,35.4,76.8
+3,South,7,West South Central,AR,5,Arkansas,2017,1,1729603,33.8,42.4
+3,South,7,West South Central,AR,5,Arkansas,2017,2,337311,45.3,47.9
+3,South,7,West South Central,AR,5,Arkansas,2017,3,17499,50.2,32.5
+3,South,7,West South Central,AR,5,Arkansas,2017,4,36398,,
+3,South,7,West South Central,AR,5,Arkansas,2017,5,5967,,
+3,South,7,West South Central,AR,5,Arkansas,2017,6,29966,,42
+3,South,7,West South Central,AR,5,Arkansas,2017,7,139231,28.5,82
+4,West,9,Pacific,CA,6,California,2017,1,12353827,23.7,31.3
+4,West,9,Pacific,CA,6,California,2017,2,1753949,33.7,54
+4,West,9,Pacific,CA,6,California,2017,3,130827,32.8,58.7
+4,West,9,Pacific,CA,6,California,2017,4,4656406,9.6,21.7
+4,West,9,Pacific,CA,6,California,2017,5,112649,,
+4,West,9,Pacific,CA,6,California,2017,6,646541,37.7,27.3
+4,West,9,Pacific,CA,6,California,2017,7,10657984,31.6,75.5
+4,West,8,Mountain,CO,8,Colorado,2017,1,3118605,21.6,26.6
+4,West,8,Mountain,CO,8,Colorado,2017,2,170136,29.3,33.2
+4,West,8,Mountain,CO,8,Colorado,2017,3,28576,27.8,62.9
+4,West,8,Mountain,CO,8,Colorado,2017,4,141949,,15
+4,West,8,Mountain,CO,8,Colorado,2017,5,5583,,
+4,West,8,Mountain,CO,8,Colorado,2017,6,72059,28.5,23.3
+4,West,8,Mountain,CO,8,Colorado,2017,7,811875,27.7,22.6
+1,Northeast,1,New England,CT,9,Connecticut,2017,1,1988818,25.6,68.2
+1,Northeast,1,New England,CT,9,Connecticut,2017,2,277462,35.8,63.8
+1,Northeast,1,New England,CT,9,Connecticut,2017,3,5686,,56
+1,Northeast,1,New England,CT,9,Connecticut,2017,4,128420,10,16.5
+1,Northeast,1,New England,CT,9,Connecticut,2017,5,964,,
+1,Northeast,1,New England,CT,9,Connecticut,2017,6,33351,27,29.5
+1,Northeast,1,New England,CT,9,Connecticut,2017,7,395254,32,24.5
+3,South,5,South Atlantic,DE,10,Delaware,2017,1,497228,30.2,64
+3,South,5,South Atlantic,DE,10,Delaware,2017,2,156479,40.2,39.4
+3,South,5,South Atlantic,DE,10,Delaware,2017,3,2443,33.4,59.6
+3,South,5,South Atlantic,DE,10,Delaware,2017,4,29407,,
+3,South,5,South Atlantic,DE,10,Delaware,2017,5,253,,
+3,South,5,South Atlantic,DE,10,Delaware,2017,6,10898,,
+3,South,5,South Atlantic,DE,10,Delaware,2017,7,56254,30.3,79.40000000000001
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,1,228361,12,17.2
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,2,247872,36.2,59.2
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,3,1224,,
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,4,26325,,
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,5,288,,
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,6,10559,,79.8
+3,South,5,South Atlantic,DC,11,District of Columbia,2017,7,55595,19,10.5
+3,South,5,South Atlantic,FL,12,Florida,2017,1,9575220,26.2,38.9
+3,South,5,South Atlantic,FL,12,Florida,2017,2,2412501,36.8,35.9
+3,South,5,South Atlantic,FL,12,Florida,2017,3,44070,46.7,32.3
+3,South,5,South Atlantic,FL,12,Florida,2017,4,472057,,16.2
+3,South,5,South Atlantic,FL,12,Florida,2017,5,10475,,
+3,South,5,South Atlantic,FL,12,Florida,2017,6,189462,37.1,29
+3,South,5,South Atlantic,FL,12,Florida,2017,7,4057925,31.3,74.2
+3,South,5,South Atlantic,GA,13,Georgia,2017,1,4400213,30.8,64.8
+3,South,5,South Atlantic,GA,13,Georgia,2017,2,2420344,35.9,65.2
+3,South,5,South Atlantic,GA,13,Georgia,2017,3,18966,34,30.5
+3,South,5,South Atlantic,GA,13,Georgia,2017,4,330102,14.3,14.2
+3,South,5,South Atlantic,GA,13,Georgia,2017,5,4685,,
+3,South,5,South Atlantic,GA,13,Georgia,2017,6,96073,39,59
+3,South,5,South Atlantic,GA,13,Georgia,2017,7,628537,27.4,79.7
+4,West,9,Pacific,HI,15,Hawaii,2017,1,270800,17.2,74.7
+4,West,9,Pacific,HI,15,Hawaii,2017,2,22084,30.8,32.7
+4,West,9,Pacific,HI,15,Hawaii,2017,3,2536,,
+4,West,9,Pacific,HI,15,Hawaii,2017,4,446631,16,63
+4,West,9,Pacific,HI,15,Hawaii,2017,5,100405,44.4,72.3
+4,West,9,Pacific,HI,15,Hawaii,2017,6,183293,37.3,70.8
+4,West,9,Pacific,HI,15,Hawaii,2017,7,93483,33.9,77.2
+4,West,8,Mountain,ID,16,Idaho,2017,1,1077173,28.2,30.8
+4,West,8,Mountain,ID,16,Idaho,2017,2,8449,,
+4,West,8,Mountain,ID,16,Idaho,2017,3,14055,,
+4,West,8,Mountain,ID,16,Idaho,2017,4,19543,,
+4,West,8,Mountain,ID,16,Idaho,2017,5,2146,,
+4,West,8,Mountain,ID,16,Idaho,2017,6,19233,35.7,29.3
+4,West,8,Mountain,ID,16,Idaho,2017,7,134626,37.3,77.40000000000001
+2,Midwest,3,East North Central,IL,17,Illinois,2017,1,6360688,31,33.6
+2,Midwest,3,East North Central,IL,17,Illinois,2017,2,1357377,38.5,39.9
+2,Midwest,3,East North Central,IL,17,Illinois,2017,3,15490,,
+2,Midwest,3,East North Central,IL,17,Illinois,2017,4,567046,10.6,15.7
+2,Midwest,3,East North Central,IL,17,Illinois,2017,5,2789,,
+2,Midwest,3,East North Central,IL,17,Illinois,2017,6,105393,18.4,69.8
+2,Midwest,3,East North Central,IL,17,Illinois,2017,7,1474063,33.6,74.3
+2,Midwest,3,East North Central,IN,18,Indiana,2017,1,4157005,33.2,64.59999999999999
+2,Midwest,3,East North Central,IN,18,Indiana,2017,2,452177,43.6,54.4
+2,Midwest,3,East North Central,IN,18,Indiana,2017,3,12325,28.6,43.4
+2,Midwest,3,East North Central,IN,18,Indiana,2017,4,117022,13.7,16.9
+2,Midwest,3,East North Central,IN,18,Indiana,2017,5,1784,,
+2,Midwest,3,East North Central,IN,18,Indiana,2017,6,57857,38.1,58.6
+2,Midwest,3,East North Central,IN,18,Indiana,2017,7,287008,29.3,20.9
+2,Midwest,4,West North Central,IA,19,Iowa,2017,1,2124187,36.5,32.5
+2,Midwest,4,West North Central,IA,19,Iowa,2017,2,77509,43.3,30.2
+2,Midwest,4,West North Central,IA,19,Iowa,2017,3,6708,,
+2,Midwest,4,West North Central,IA,19,Iowa,2017,4,61313,23.9,82.7
+2,Midwest,4,West North Central,IA,19,Iowa,2017,5,2194,,
+2,Midwest,4,West North Central,IA,19,Iowa,2017,6,23386,31.3,78.5
+2,Midwest,4,West North Central,IA,19,Iowa,2017,7,114642,38.1,78.59999999999999
+2,Midwest,4,West North Central,KS,20,Kansas,2017,1,1734422,32,34.1
+2,Midwest,4,West North Central,KS,20,Kansas,2017,2,123332,36.3,39.9
+2,Midwest,4,West North Central,KS,20,Kansas,2017,3,17821,33.4,42.6
+2,Midwest,4,West North Central,KS,20,Kansas,2017,4,67935,13.2,13
+2,Midwest,4,West North Central,KS,20,Kansas,2017,5,1845,,
+2,Midwest,4,West North Central,KS,20,Kansas,2017,6,37444,34.9,68.40000000000001
+2,Midwest,4,West North Central,KS,20,Kansas,2017,7,214062,37.7,22.9
+3,South,6,East South Central,KY,21,Kentucky,2017,1,2973167,34.5,60.3
+3,South,6,East South Central,KY,21,Kentucky,2017,2,268825,35.6,48.4
+3,South,6,East South Central,KY,21,Kentucky,2017,3,7674,37.8,52.7
+3,South,6,East South Central,KY,21,Kentucky,2017,4,50688,,
+3,South,6,East South Central,KY,21,Kentucky,2017,5,2033,,
+3,South,6,East South Central,KY,21,Kentucky,2017,6,37706,30.4,61.7
+3,South,6,East South Central,KY,21,Kentucky,2017,7,101755,28.9,11.7
+3,South,7,West South Central,LA,22,Louisiana,2017,1,2179419,33.6,62
+3,South,7,West South Central,LA,22,Louisiana,2017,2,1098250,42.2,42.3
+3,South,7,West South Central,LA,22,Louisiana,2017,3,22882,44.4,44.5
+3,South,7,West South Central,LA,22,Louisiana,2017,4,63722,,
+3,South,7,West South Central,LA,22,Louisiana,2017,5,1412,,
+3,South,7,West South Central,LA,22,Louisiana,2017,6,34364,40.9,58.9
+3,South,7,West South Central,LA,22,Louisiana,2017,7,163179,33.2,29.3
+1,Northeast,1,New England,ME,23,Maine,2017,1,1021776,29.2,35.1
+1,Northeast,1,New England,ME,23,Maine,2017,2,12998,,90.40000000000001
+1,Northeast,1,New England,ME,23,Maine,2017,3,6593,29.3,36.7
+1,Northeast,1,New England,ME,23,Maine,2017,4,12896,,
+1,Northeast,1,New England,ME,23,Maine,2017,5,275,,
+1,Northeast,1,New England,ME,23,Maine,2017,6,12412,36.1,45
+1,Northeast,1,New England,ME,23,Maine,2017,7,15040,36.7,31.4
+3,South,5,South Atlantic,MD,24,Maryland,2017,1,2504900,28.8,33.2
+3,South,5,South Atlantic,MD,24,Maryland,2017,2,1377240,42.2,62.5
+3,South,5,South Atlantic,MD,24,Maryland,2017,3,11771,28.4,59.9
+3,South,5,South Atlantic,MD,24,Maryland,2017,4,307780,7.4,74.90000000000001
+3,South,5,South Atlantic,MD,24,Maryland,2017,5,2360,,
+3,South,5,South Atlantic,MD,24,Maryland,2017,6,75138,35.4,70.5
+3,South,5,South Atlantic,MD,24,Maryland,2017,7,400749,29.4,83.40000000000001
+1,Northeast,1,New England,MA,25,Massachusetts,2017,1,4101259,25.8,69.59999999999999
+1,Northeast,1,New England,MA,25,Massachusetts,2017,2,371931,31.2,67.2
+1,Northeast,1,New England,MA,25,Massachusetts,2017,3,9756,,
+1,Northeast,1,New England,MA,25,Massachusetts,2017,4,372337,10.2,86.59999999999999
+1,Northeast,1,New England,MA,25,Massachusetts,2017,5,2189,,
+1,Northeast,1,New England,MA,25,Massachusetts,2017,6,68446,36.3,32.3
+1,Northeast,1,New England,MA,25,Massachusetts,2017,7,560598,30.9,77.90000000000001
+2,Midwest,3,East North Central,MI,26,Michigan,2017,1,6028908,31,34.4
+2,Midwest,3,East North Central,MI,26,Michigan,2017,2,1027602,41.2,55.2
+2,Midwest,3,East North Central,MI,26,Michigan,2017,3,43624,31.9,61.6
+2,Midwest,3,East North Central,MI,26,Michigan,2017,4,249273,17.5,86.59999999999999
+2,Midwest,3,East North Central,MI,26,Michigan,2017,5,2098,,
+2,Midwest,3,East North Central,MI,26,Michigan,2017,6,115449,28.8,69.8
+2,Midwest,3,East North Central,MI,26,Michigan,2017,7,325413,37.7,23.9
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,1,3552739,28.3,27.8
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,2,230808,32.4,27.2
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,3,40402,39.3,29.2
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,4,197663,16.7,13.6
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,5,1904,,
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,6,58861,38.2,24.9
+2,Midwest,4,West North Central,MN,27,Minnesota,2017,7,184335,35.8,17.5
+3,South,6,East South Central,MS,28,Mississippi,2017,1,1340857,33.1,38.1
+3,South,6,East South Central,MS,28,Mississippi,2017,2,818795,45.7,46
+3,South,6,East South Central,MS,28,Mississippi,2017,3,10431,42.9,59.8
+3,South,6,East South Central,MS,28,Mississippi,2017,4,24253,,
+3,South,6,East South Central,MS,28,Mississippi,2017,5,819,,
+3,South,6,East South Central,MS,28,Mississippi,2017,6,16522,29.6,40.7
+3,South,6,East South Central,MS,28,Mississippi,2017,7,62332,,60.3
+2,Midwest,4,West North Central,MO,29,Missouri,2017,1,3851138,32,67.8
+2,Midwest,4,West North Central,MO,29,Missouri,2017,2,521710,40.7,61.5
+2,Midwest,4,West North Central,MO,29,Missouri,2017,3,20843,28.1,43.9
+2,Midwest,4,West North Central,MO,29,Missouri,2017,4,97056,,
+2,Midwest,4,West North Central,MO,29,Missouri,2017,5,5159,,
+2,Midwest,4,West North Central,MO,29,Missouri,2017,6,65849,33.5,63.5
+2,Midwest,4,West North Central,MO,29,Missouri,2017,7,161994,24,86.7
+4,West,8,Mountain,MT,30,Montana,2017,1,727783,24.1,29.4
+4,West,8,Mountain,MT,30,Montana,2017,2,4044,,
+4,West,8,Mountain,MT,30,Montana,2017,3,41991,43.2,66.09999999999999
+4,West,8,Mountain,MT,30,Montana,2017,4,7417,,
+4,West,8,Mountain,MT,30,Montana,2017,5,602,,
+4,West,8,Mountain,MT,30,Montana,2017,6,15293,35.2,28
+4,West,8,Mountain,MT,30,Montana,2017,7,26152,28.8,79.2
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,1,1186865,32.2,68.8
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,2,63629,44.6,44.8
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,3,10589,33.2,34.8
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,4,35918,,80.8
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,5,836,,
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,6,16782,41.9,74.2
+2,Midwest,4,West North Central,NE,31,Nebraska,2017,7,125394,34.6,79.2
+4,West,8,Mountain,NV,32,Nevada,2017,1,1225034,25,35.7
+4,West,8,Mountain,NV,32,Nevada,2017,2,197946,32.8,60.7
+4,West,8,Mountain,NV,32,Nevada,2017,3,20042,50.8,36.7
+4,West,8,Mountain,NV,32,Nevada,2017,4,202798,25.2,71.09999999999999
+4,West,8,Mountain,NV,32,Nevada,2017,5,14058,,
+4,West,8,Mountain,NV,32,Nevada,2017,6,55458,37.3,59.6
+4,West,8,Mountain,NV,32,Nevada,2017,7,573034,26.4,76.59999999999999
+1,Northeast,1,New England,NH,33,New Hampshire,2017,1,996350,28.3,69.3
+1,Northeast,1,New England,NH,33,New Hampshire,2017,2,13552,,
+1,Northeast,1,New England,NH,33,New Hampshire,2017,3,2391,,
+1,Northeast,1,New England,NH,33,New Hampshire,2017,4,30290,,91
+1,Northeast,1,New England,NH,33,New Hampshire,2017,5,297,,
+1,Northeast,1,New England,NH,33,New Hampshire,2017,6,11603,25.9,74.40000000000001
+1,Northeast,1,New England,NH,33,New Hampshire,2017,7,34051,35.4,
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,1,4017111,26.8,34.2
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,2,882181,36,41.2
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,3,9850,33.6,33.7
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,4,665090,10.2,25.3
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,5,2328,,
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,6,73275,29.2,58.5
+1,Northeast,2,Middle Atlantic,NJ,34,New Jersey,2017,7,1272307,32.6,27.4
+4,West,8,Mountain,NM,35,New Mexico,2017,1,666063,24.9,66.09999999999999
+4,West,8,Mountain,NM,35,New Mexico,2017,2,30182,27.3,35.7
+4,West,8,Mountain,NM,35,New Mexico,2017,3,133868,38.7,26.8
+4,West,8,Mountain,NM,35,New Mexico,2017,4,26011,,
+4,West,8,Mountain,NM,35,New Mexico,2017,5,1122,,
+4,West,8,Mountain,NM,35,New Mexico,2017,6,19098,,85.8
+4,West,8,Mountain,NM,35,New Mexico,2017,7,726982,30.8,28.8
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,1,8939324,25.3,28.9
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,2,2217228,35.3,40.2
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,3,44641,21.5,42.8
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,4,1360894,12.1,18.9
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,5,6849,,
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,6,194043,23,34.4
+1,Northeast,2,Middle Atlantic,NY,36,New York,2017,7,2712981,26.9,27.4
+3,South,5,South Atlantic,NC,37,North Carolina,2017,1,5286793,30.2,65.2
+3,South,5,South Atlantic,NC,37,North Carolina,2017,2,1674434,41.6,57.3
+3,South,5,South Atlantic,NC,37,North Carolina,2017,3,87862,36,60.7
+3,South,5,South Atlantic,NC,37,North Carolina,2017,4,229247,,
+3,South,5,South Atlantic,NC,37,North Carolina,2017,5,4824,,
+3,South,5,South Atlantic,NC,37,North Carolina,2017,6,97381,31,75.7
+3,South,5,South Atlantic,NC,37,North Carolina,2017,7,586971,28,19.7
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,1,503685,32.7,69.40000000000001
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,2,15586,26.8,90
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,3,24759,46.4,37.8
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,4,9643,,
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,5,310,,
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,6,7442,42.7,
+2,Midwest,4,West North Central,ND,38,North Dakota,2017,7,17180,38.7,77.09999999999999
+2,Midwest,3,East North Central,OH,39,Ohio,2017,1,7346972,33,34.9
+2,Midwest,3,East North Central,OH,39,Ohio,2017,2,1071796,41.6,60.2
+2,Midwest,3,East North Central,OH,39,Ohio,2017,3,18392,28,43.5
+2,Midwest,3,East North Central,OH,39,Ohio,2017,4,210585,,86.2
+2,Midwest,3,East North Central,OH,39,Ohio,2017,5,3131,,
+2,Midwest,3,East North Central,OH,39,Ohio,2017,6,118135,29.2,21.7
+2,Midwest,3,East North Central,OH,39,Ohio,2017,7,282643,38.2,28.1
+3,South,7,West South Central,OK,40,Oklahoma,2017,1,2071146,36.2,61.1
+3,South,7,West South Central,OK,40,Oklahoma,2017,2,215347,36.5,59.3
+3,South,7,West South Central,OK,40,Oklahoma,2017,3,233933,45.6,59.4
+3,South,7,West South Central,OK,40,Oklahoma,2017,4,68398,,20.4
+3,South,7,West South Central,OK,40,Oklahoma,2017,5,4231,,
+3,South,7,West South Central,OK,40,Oklahoma,2017,6,126296,34.6,39
+3,South,7,West South Central,OK,40,Oklahoma,2017,7,253528,36,73.40000000000001
+4,West,9,Pacific,OR,41,Oregon,2017,1,2584642,29.3,32.2
+4,West,9,Pacific,OR,41,Oregon,2017,2,58140,29,75.7
+4,West,9,Pacific,OR,41,Oregon,2017,3,35698,43.7,63.6
+4,West,9,Pacific,OR,41,Oregon,2017,4,153773,,87.90000000000001
+4,West,9,Pacific,OR,41,Oregon,2017,5,12325,,
+4,West,9,Pacific,OR,41,Oregon,2017,6,80228,30.4,29
+4,West,9,Pacific,OR,41,Oregon,2017,7,346447,33.4,79.7
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,1,8003550,31.8,66.8
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,2,1034813,38.1,58.9
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,3,14530,,
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,4,348447,,12.9
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,5,2895,,
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,6,105028,48.4,40.4
+1,Northeast,2,Middle Atlantic,PA,42,Pennsylvania,2017,7,614103,25,19.3
+1,Northeast,1,New England,RI,44,Rhode Island,2017,1,645997,29.6,64.90000000000001
+1,Northeast,1,New England,RI,44,Rhode Island,2017,2,47156,35.3,63.7
+1,Northeast,1,New England,RI,44,Rhode Island,2017,3,3340,,
+1,Northeast,1,New England,RI,44,Rhode Island,2017,4,29158,,89.90000000000001
+1,Northeast,1,New England,RI,44,Rhode Island,2017,5,497,,
+1,Northeast,1,New England,RI,44,Rhode Island,2017,6,12195,20.3,29.5
+1,Northeast,1,New England,RI,44,Rhode Island,2017,7,110479,34.8,23.3
+3,South,5,South Atlantic,SC,45,South Carolina,2017,1,2597850,30.8,63.1
+3,South,5,South Atlantic,SC,45,South Carolina,2017,2,1015135,43.5,54.2
+3,South,5,South Atlantic,SC,45,South Carolina,2017,3,14792,40.2,55.6
+3,South,5,South Atlantic,SC,45,South Carolina,2017,4,65142,,87.8
+3,South,5,South Atlantic,SC,45,South Carolina,2017,5,2213,,
+3,South,5,South Atlantic,SC,45,South Carolina,2017,6,40645,32.9,70.59999999999999
+3,South,5,South Atlantic,SC,45,South Carolina,2017,7,181711,30.8,19.4
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,1,560158,30.5,31.2
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,2,12394,,
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,3,45047,48.6,37
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,4,10024,,
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,5,333,,
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,6,8823,34.2,25.9
+2,Midwest,4,West North Central,SD,46,South Dakota,2017,7,20124,44,82.2
+3,South,6,East South Central,TN,47,Tennessee,2017,1,3977545,31.1,39.2
+3,South,6,East South Central,TN,47,Tennessee,2017,2,836623,44.7,58.2
+3,South,6,East South Central,TN,47,Tennessee,2017,3,15420,26.7,58.7
+3,South,6,East South Central,TN,47,Tennessee,2017,4,92460,,
+3,South,6,East South Central,TN,47,Tennessee,2017,5,2611,,
+3,South,6,East South Central,TN,47,Tennessee,2017,6,58005,35.6,35.2
+3,South,6,East South Central,TN,47,Tennessee,2017,7,219617,27,12.9
+3,South,7,West South Central,TX,48,Texas,2017,1,9555987,30.2,37.7
+3,South,7,West South Central,TX,48,Texas,2017,2,2511408,38.7,52.4
+3,South,7,West South Central,TX,48,Texas,2017,3,74045,48.2,66.09999999999999
+3,South,7,West South Central,TX,48,Texas,2017,4,1058914,,80.5
+3,South,7,West South Central,TX,48,Texas,2017,5,17651,,
+3,South,7,West South Central,TX,48,Texas,2017,6,220308,,24
+3,South,7,West South Central,TX,48,Texas,2017,7,7495297,37.4,22.8
+4,West,8,Mountain,UT,49,Utah,2017,1,1746615,25,25.1
+4,West,8,Mountain,UT,49,Utah,2017,2,23416,,52.5
+4,West,8,Mountain,UT,49,Utah,2017,3,20890,34.5,73.09999999999999
+4,West,8,Mountain,UT,49,Utah,2017,4,59762,,15
+4,West,8,Mountain,UT,49,Utah,2017,5,19881,,
+4,West,8,Mountain,UT,49,Utah,2017,6,31230,23.2,82.59999999999999
+4,West,8,Mountain,UT,49,Utah,2017,7,272140,27.9,20.6
+1,Northeast,1,New England,VT,50,Vermont,2017,1,475305,27.7,69
+1,Northeast,1,New England,VT,50,Vermont,2017,2,5469,,
+1,Northeast,1,New England,VT,50,Vermont,2017,3,1708,35.7,55.2
+1,Northeast,1,New England,VT,50,Vermont,2017,4,9203,,
+1,Northeast,1,New England,VT,50,Vermont,2017,5,152,,
+1,Northeast,1,New England,VT,50,Vermont,2017,6,6711,32.2,21.3
+1,Northeast,1,New England,VT,50,Vermont,2017,7,8890,,75
+3,South,5,South Atlantic,VA,51,Virginia,2017,1,4237439,28.5,67.5
+3,South,5,South Atlantic,VA,51,Virginia,2017,2,1242047,43.7,44.7
+3,South,5,South Atlantic,VA,51,Virginia,2017,3,18367,25.6,67.90000000000001
+3,South,5,South Atlantic,VA,51,Virginia,2017,4,438208,7.5,14.1
+3,South,5,South Atlantic,VA,51,Virginia,2017,5,4822,,
+3,South,5,South Atlantic,VA,51,Virginia,2017,6,115277,22.5,27
+3,South,5,South Atlantic,VA,51,Virginia,2017,7,536841,32.2,80.3
+4,West,9,Pacific,WA,53,Washington,2017,1,4163735,28.6,32.3
+4,West,9,Pacific,WA,53,Washington,2017,2,214831,31.6,30.1
+4,West,9,Pacific,WA,53,Washington,2017,3,71393,34.8,41.6
+4,West,9,Pacific,WA,53,Washington,2017,4,527006,9.1,81.90000000000001
+4,West,9,Pacific,WA,53,Washington,2017,5,37309,,24.7
+4,West,9,Pacific,WA,53,Washington,2017,6,168271,33.8,74
+4,West,9,Pacific,WA,53,Washington,2017,7,589901,33.1,19
+3,South,5,South Atlantic,WV,54,West Virginia,2017,1,1347075,38,56
+3,South,5,South Atlantic,WV,54,West Virginia,2017,2,49776,42.9,58
+3,South,5,South Atlantic,WV,54,West Virginia,2017,3,3255,,
+3,South,5,South Atlantic,WV,54,West Virginia,2017,4,12339,,
+3,South,5,South Atlantic,WV,54,West Virginia,2017,5,312,,
+3,South,5,South Atlantic,WV,54,West Virginia,2017,6,15109,52.8,66.90000000000001
+3,South,5,South Atlantic,WV,54,West Virginia,2017,7,19847,,
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,1,3803498,31.3,68.09999999999999
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,2,255781,39,31.1
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,3,37229,37,76.90000000000001
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,4,121294,,
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,5,1556,,
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,6,46001,,
+2,Midwest,3,East North Central,WI,55,Wisconsin,2017,7,241622,38.7,22.6
+4,West,8,Mountain,WY,56,Wyoming,2017,1,381550,28.6,69
+4,West,8,Mountain,WY,56,Wyoming,2017,2,4885,,
+4,West,8,Mountain,WY,56,Wyoming,2017,3,8187,44.4,35.6
+4,West,8,Mountain,WY,56,Wyoming,2017,4,4699,,
+4,West,8,Mountain,WY,56,Wyoming,2017,5,315,,
+4,West,8,Mountain,WY,56,Wyoming,2017,6,5560,28.8,69.3
+4,West,8,Mountain,WY,56,Wyoming,2017,7,37529,25.8,27
