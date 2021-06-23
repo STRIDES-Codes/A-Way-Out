@@ -20,12 +20,13 @@ merge m:m state_abbr year using "$datatemp/food_insecurity_state"
 
 *drop *_name
 	
-keep if year >= 2018
+keep if year >= 2017
+
+order state_abbr state_code state_name year foodinsec_15_17
 
 compress
 la data "US Population by State (FIPS Code)"
 save "$datafinal/data_usa_demo", replace 
-export excel using "$datafinal/data_usa_demo.xlsx", replace firstrow(variables)
 export delimited using "$datafinal/data_usa_demo.csv", replace nolabel
 
 log using "$datatemp/data_usa_demo.scml", replace
@@ -60,15 +61,14 @@ keep if year >= 2018
 compress
 la data "US Population by State, Race, Sex and Origin  (FIPS Code)"
 save "$datafinal/data_usa_demo&others", replace 
-export excel using "$datafinal/data_usa_demo&others.xlsx", replace firstrow(variables)
 export delimited using "$datafinal/data_usa_demo&others.csv", replace nolabel
 
-log using "$datatemp/data_usa_demo&others.scml", replace
+log using "$datatemp/data_usa_demo&race.scml", replace
 codebook
 log close
 translate	///
-	"$datatemp/data_usa_demo&others.scml"	///
-	"$datafinal/data_usa_demo&others_CODEBOOK.pdf", translator(smcl2pdf)
+	"$datatemp/data_usa_demo&race.scml"	///
+	"$datafinal/data_usa_demo&race_CODEBOOK.pdf", translator(smcl2pdf)
 *===============================================================================
 
 

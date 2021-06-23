@@ -1,9 +1,9 @@
 {smcl}
-{com}{sf}{ul off}{txt}{.-}
+{txt}{sf}{ul off}{.-}
       name:  {res}<unnamed>
-       {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo&others.scml
+       {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo&race.scml
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}23 Jun 2021, 13:49:09
+ {txt}opened on:  {res}23 Jun 2021, 13:50:05
 {txt}
 {com}. codebook
 
@@ -188,9 +188,9 @@
 {txt}
 {com}. log close
       {txt}name:  {res}<unnamed>
-       {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo&others.scml
+       {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo&race.scml
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}23 Jun 2021, 13:49:09
+ {txt}closed on:  {res}23 Jun 2021, 13:50:06
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
