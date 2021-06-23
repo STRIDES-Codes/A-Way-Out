@@ -6,6 +6,7 @@
 <figcaption style="font-size:10px">Photo by Jeremy Alford</figcaption></center>
 <br>
 <br>
+## Why pandemic preparedness?
 <p>Since the beginning of the COVID-19 pandemic, the disproportionate impact on BIPOC (Black and Indigenous People of Color) communities has been catastrophic. Generations of health disparities manifest in wide-spread co-morbidities such as hypertension, obesity, and diabetes(1) have made these communities extremely vulnerable. Compounding the problem is the often lack of adequate medical resources within the community. All of these factors have created a preparedness vacuum leaving the most vulnerable of society exposed, infected, and dead.  </p>
 <center><img src = Images/Table2_ref1_co-morbidities_CHS(NY).png style="width:600px;height:300px;">
 <figcaption style="font-size:10px">Arasteh,K. et al,2020</figcaption></center>
