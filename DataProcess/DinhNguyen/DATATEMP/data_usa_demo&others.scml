@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo&others.scml
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}23 Jun 2021, 09:51:02
+ {txt}opened on:  {res}23 Jun 2021, 13:31:12
 {txt}
 {com}. codebook
 
@@ -15,13 +15,13 @@
 {ralign 22:label}:  {res:region_code}
 
 {col 18}range:  [{res}1{txt},{res}4{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}4{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
+{col 10}{txt}unique values:  {res}4{col 51}{txt}missing .:  {res}0{txt}/{res}61,404
 
 {txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}    83,592{col 33}       1{col 43}{txt}Northeast
-{col 21}{res}   111,456{col 33}       2{col 43}{txt}Midwest
-{col 21}{res}   157,896{col 33}       3{col 43}{txt}South
-{col 21}{res}   120,744{col 33}       4{col 43}{txt}West
+{col 21}{res}    10,836{col 33}       1{col 43}{txt}Northeast
+{col 21}{res}    14,448{col 33}       2{col 43}{txt}Midwest
+{col 21}{res}    20,468{col 33}       3{col 43}{txt}South
+{col 21}{res}    15,652{col 33}       4{col 43}{txt}West
 
 {txt}{hline}
 {res}region_name{right:Region_name}
@@ -29,13 +29,13 @@
 
 {col 19}type:  string ({res}str9{txt})
 
-{col 10}unique values:  {res}4{col 51}{txt}missing "":  {res}0{txt}/{res}473,688
+{col 10}unique values:  {res}4{col 51}{txt}missing "":  {res}0{txt}/{res}61,404
 
 {txt}{col 13}tabulation:  Freq.  Value
-{col 21}{res}   111,456{col 33}"Midwest"
-{col 21}    83,592{col 33}"Northeast"
-{col 21}   157,896{col 33}"South"
-{col 21}   120,744{col 33}"West"
+{col 21}{res}    14,448{col 33}"Midwest"
+{col 21}    10,836{col 33}"Northeast"
+{col 21}    20,468{col 33}"South"
+{col 21}    15,652{col 33}"West"
 
 {txt}{hline}
 {res}division_code{right:Division}
@@ -45,18 +45,18 @@
 {ralign 22:label}:  {res:division_code}
 
 {col 18}range:  [{res}1{txt},{res}9{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}9{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
+{col 10}{txt}unique values:  {res}9{col 51}{txt}missing .:  {res}0{txt}/{res}61,404
 
 {txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}    55,728{col 33}       1{col 43}{txt}New England
-{col 21}{res}    27,864{col 33}       2{col 43}{txt}Middle Atlantic
-{col 21}{res}    46,440{col 33}       3{col 43}{txt}East North Central
-{col 21}{res}    65,016{col 33}       4{col 43}{txt}West North Central
-{col 21}{res}    83,592{col 33}       5{col 43}{txt}South Atlantic
-{col 21}{res}    37,152{col 33}       6{col 43}{txt}East South Central
-{col 21}{res}    37,152{col 33}       7{col 43}{txt}West South Central
-{col 21}{res}    74,304{col 33}       8{col 43}{txt}Mountain
-{col 21}{res}    46,440{col 33}       9{col 43}{txt}Pacific
+{col 21}{res}     7,224{col 33}       1{col 43}{txt}New England
+{col 21}{res}     3,612{col 33}       2{col 43}{txt}Middle Atlantic
+{col 21}{res}     6,020{col 33}       3{col 43}{txt}East North Central
+{col 21}{res}     8,428{col 33}       4{col 43}{txt}West North Central
+{col 21}{res}    10,836{col 33}       5{col 43}{txt}South Atlantic
+{col 21}{res}     4,816{col 33}       6{col 43}{txt}East South Central
+{col 21}{res}     4,816{col 33}       7{col 43}{txt}West South Central
+{col 21}{res}     9,632{col 33}       8{col 43}{txt}Mountain
+{col 21}{res}     6,020{col 33}       9{col 43}{txt}Pacific
 
 {txt}{hline}
 {res}division_name{right:Division_name}
@@ -64,18 +64,18 @@
 
 {col 19}type:  string ({res}str18{txt})
 
-{col 10}unique values:  {res}9{col 51}{txt}missing "":  {res}0{txt}/{res}473,688
+{col 10}unique values:  {res}9{col 51}{txt}missing "":  {res}0{txt}/{res}61,404
 
 {txt}{col 13}tabulation:  Freq.  Value
-{col 21}{res}    46,440{col 33}"East North Central"
-{col 21}    37,152{col 33}"East South Central"
-{col 21}    27,864{col 33}"Middle Atlantic"
-{col 21}    74,304{col 33}"Mountain"
-{col 21}    55,728{col 33}"New England"
-{col 21}    46,440{col 33}"Pacific"
-{col 21}    83,592{col 33}"South Atlantic"
-{col 21}    65,016{col 33}"West North Central"
-{col 21}    37,152{col 33}"West South Central"
+{col 21}{res}     6,020{col 33}"East North Central"
+{col 21}     4,816{col 33}"East South Central"
+{col 21}     3,612{col 33}"Middle Atlantic"
+{col 21}     9,632{col 33}"Mountain"
+{col 21}     7,224{col 33}"New England"
+{col 21}     6,020{col 33}"Pacific"
+{col 21}    10,836{col 33}"South Atlantic"
+{col 21}     8,428{col 33}"West North Central"
+{col 21}     4,816{col 33}"West South Central"
 
 {txt}{col 16}warning:  variable has embedded blanks
 
@@ -85,7 +85,7 @@
 
 {col 19}type:  string ({res}str2{txt})
 
-{col 10}unique values:  {res}51{col 51}{txt}missing "":  {res}0{txt}/{res}473,688
+{col 10}unique values:  {res}51{col 51}{txt}missing "":  {res}0{txt}/{res}61,404
 
 {txt}{col 15}examples:  {res}"GA"
 {col 26}"MD"
@@ -100,7 +100,7 @@
 {ralign 22:label}:  {res:state_code}
 
 {col 18}range:  [{res}1{txt},{res}56{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}51{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
+{col 10}{txt}unique values:  {res}51{col 51}{txt}missing .:  {res}0{txt}/{res}61,404
 
 {txt}{ralign 23: examples:}{col 26}{res}13{col 32}{txt}Georgia
 {ralign 23: }{col 26}{res}24{col 32}{txt}Maryland
@@ -113,7 +113,7 @@
 
 {col 19}type:  string ({res}str20{txt})
 
-{col 10}unique values:  {res}51{col 51}{txt}missing "":  {res}0{txt}/{res}473,688
+{col 10}unique values:  {res}51{col 51}{txt}missing "":  {res}0{txt}/{res}61,404
 
 {txt}{col 15}examples:  {res}"Georgia"
 {col 26}"Maryland"
@@ -123,54 +123,25 @@
 {txt}{col 16}warning:  variable has embedded blanks
 
 {txt}{hline}
-{res}sex{right:SEX}
-{txt}{hline}
-
-{col 19}type:  numeric ({res}byte{txt})
-{ralign 22:label}:  {res:lab_sex}
-
-{col 18}range:  [{res}0{txt},{res}2{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}3{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
-
-{txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}   157,896{col 33}       0{col 43}{txt}Total
-{col 21}{res}   157,896{col 33}       1{col 43}{txt}Male
-{col 21}{res}   157,896{col 33}       2{col 43}{txt}Female
-
-{txt}{hline}
-{res}origin{right:ORIGIN}
-{txt}{hline}
-
-{col 19}type:  numeric ({res}byte{txt})
-{ralign 22:label}:  {res:lab_origin}
-
-{col 18}range:  [{res}0{txt},{res}2{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}3{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
-
-{txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}   157,896{col 33}       0{col 43}{txt}Total
-{col 21}{res}   157,896{col 33}       1{col 43}{txt}Not Hispanic
-{col 21}{res}   157,896{col 33}       2{col 43}{txt}Hispanic
-
-{txt}{hline}
 {res}race{right:RACE}
 {txt}{hline}
 
 {col 19}type:  numeric ({res}byte{txt})
 {ralign 22:label}:  {res:lab_race}
 
-{col 18}range:  [{res}1{txt},{res}6{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}6{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
+{col 18}range:  [{res}1{txt},{res}7{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}7{col 51}{txt}missing .:  {res}0{txt}/{res}61,404
 
 {txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}    78,948{col 33}       1{col 43}{txt}White Alone
-{col 21}{res}    78,948{col 33}       2{col 43}{txt}Black or African American Alone
-{col 21}{res}    78,948{col 33}       3{col 43}{txt}American Indian or Alaska Native
+{col 21}{res}     8,772{col 33}       1{col 43}{txt}White Alone
+{col 21}{res}     8,772{col 33}       2{col 43}{txt}Black or African American Alone
+{col 21}{res}     8,772{col 33}       3{col 43}{txt}American Indian or Alaska Native
 {col 43}Alone
-{col 21}{res}    78,948{col 33}       4{col 43}{txt}Asian Alone
-{col 21}{res}    78,948{col 33}       5{col 43}{txt}Native Hawaiian and Other
+{col 21}{res}     8,772{col 33}       4{col 43}{txt}Asian Alone
+{col 21}{res}     8,772{col 33}       5{col 43}{txt}Native Hawaiian and Other
 {col 43}Pacific Islander Alone
-{col 21}{res}    78,948{col 33}       6{col 43}{txt}Two or more races
+{col 21}{res}     8,772{col 33}       6{col 43}{txt}Two or more races
+{col 21}{res}     8,772{col 33}       7{col 43}{txt}Hispanic
 
 {txt}{hline}
 {res}age{right:AGE}
@@ -179,10 +150,10 @@
 {col 19}type:  numeric ({res}byte{txt})
 
 {col 18}range:  [{res}0{txt},{res}85{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}86{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
+{col 10}{txt}unique values:  {res}86{col 51}{txt}missing .:  {res}0{txt}/{res}61,404
 
 {txt}{col 19}mean:{res}{col 26}    42.5
-{txt}{col 15}std. dev:{res}{col 26} 24.8244
+{txt}{col 15}std. dev:{res}{col 26} 24.8246
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
 {res}{col 27}       8{col 37}      21{col 47}    42.5{col 57}      64{col 67}      77
@@ -194,32 +165,32 @@
 {col 19}type:  numeric ({res}int{txt})
 
 {col 18}range:  [{res}2018{txt},{res}2019{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
+{col 10}{txt}unique values:  {res}2{col 51}{txt}missing .:  {res}0{txt}/{res}61,404
 
 {txt}{col 13}tabulation:  Freq.  Value
-{col 21}{res}   236,844{col 33}2018
-{col 21}   236,844{col 33}2019
+{col 21}{res}    30,702{col 33}2018
+{col 21}    30,702{col 33}2019
 
 {txt}{hline}
-{res}popestimate{right:Resident total population estimate}
+{res}popestimate{right:(sum) popestimate}
 {txt}{hline}
 
 {col 19}type:  numeric ({res}long{txt})
 
-{col 18}range:  [{res}0{txt},{res}569363{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}45,425{col 51}{txt}missing .:  {res}0{txt}/{res}473,688
+{col 18}range:  [{res}0{txt},{res}446370{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}19,472{col 51}{txt}missing .:  {res}0{txt}/{res}61,404
 
-{txt}{col 19}mean:{res}{col 26} 5530.45
-{txt}{col 15}std. dev:{res}{col 26} 18588.3
+{txt}{col 19}mean:{res}{col 26} 10665.9
+{txt}{col 15}std. dev:{res}{col 26} 26217.4
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}       8{col 37}      43{col 47}     267{col 57}    2230{col 67}   13544
+{res}{col 27}      38{col 37}     186{col 47}    1052{col 57}  7015.5{col 67}   30987
 {txt}
 {com}. log close
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\DataProcess\DinhNguyen/DATATEMP/data_usa_demo&others.scml
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}23 Jun 2021, 09:51:12
+ {txt}closed on:  {res}23 Jun 2021, 13:31:12
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}

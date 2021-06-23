@@ -73,35 +73,4 @@ translate	///
 
 
 
-
-
-
-
-
-
-*===============================================================================
-*Merge with collapse demographics data==========================================
-use "$dataraw/us_state.dta", clear
-
-merge 1:m state_code state_name using "$datatemp/cencus_pop_demo_collapsed"
-	drop if _merge == 1
-	drop _merge
-	
-*drop *_name
-
-keep if year >= 2018
-
-compress
-la data "US Population by State, Age Group & Race (FIPS Code)"
-save "$datafinal/data_usa_demo_collapsed", replace 
-export excel using "$datafinal/data_usa_demo_collapsed.xlsx", replace firstrow(variables)
-export delimited using "$datafinal/data_usa_demo_collapsed.csv", replace nolabel
-
-log using "$datatemp/data_usa_demo_collapsed.scml", replace
-codebook
-log close
-translate	///
-	"$datatemp/data_usa_demo_collapsed.scml"	///
-	"$datafinal/data_usa_demo_collapsed_CODEBOOK.pdf", translator(smcl2pdf)
-*===============================================================================
-
+ 

@@ -103,13 +103,14 @@ use "$datatemp/cencus_pop_demo", clear
 *Categorize age
 gen age_group = .
 la var age_group "Age group"
-replace age_group = 1 if inrange(age,16,19)
-replace age_group = 2 if inrange(age,20,24)
-replace age_group = 3 if inrange(age,25,34)
-replace age_group = 4 if inrange(age,35,44)
-replace age_group = 5 if inrange(age,45,54)
-replace age_group = 6 if inrange(age,55,64)
-replace age_group = 7 if inrange(age,65,100)
+replace age_group = 1 if inrange(age,0,24)
+replace age_group = 2 if inrange(age,25,34)
+replace age_group = 3 if inrange(age,35,44)
+replace age_group = 4 if inrange(age,45,54)
+replace age_group = 5 if inrange(age,55,64)
+replace age_group = 6 if inrange(age,65,74)
+replace age_group = 7 if inrange(age,75,84)
+replace age_group = 8 if inrange(age,85,100)
 	
 	pro_lab_age_group
 la val age_group lab_age_group
@@ -121,13 +122,24 @@ la val age_group lab_age_group
 *Collapse data
 collapse (sum) popestimate,	///
 	by(year state_code state_name race age_group)
-
 la var popestimate "Estimated population"
 	
 order state_code state_name year  age_group race 
 	
 compress
 save "$datatemp/cencus_pop_demo_collapsed", replace
+
+
+/*
+*Collapse data - Drop race
+drop race
+collapse (sum) popestimate,	///
+	by(year state_code state_name age_group)
+la var popestimate "Estimated population
+
+compress
+save "$datatemp/cencus_pop_demo_collapsed_age_only", replace
+*/
 *===============================================================================
 
 
@@ -415,10 +427,15 @@ la var foodinsec_15_17 "Food Insecurity 2015-2017"
 save "$datatemp/food_insecurity_state", replace
 *===============================================================================
 
+ 
+*===============================================================================
+import delimited using "$dataraw/Comorbidities_Mortality_CDC_2021.csv", clear
 
+drop v1 group
 
-
-
-
-
-
+foreach X of varlist covid19deaths_* numberofmentions_* {
+	replace `X' = "" if `X' == "NA"
+	destring `X', replace
+}
+*
+drop if agegroup == "Not stated" | agegroup == "All Ages"
