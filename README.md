@@ -40,9 +40,12 @@ These variables included comorbidities of a presence of hypertension, obesity, o
 ![image](https://user-images.githubusercontent.com/40073377/123126309-21f83280-d3fe-11eb-8b4a-626456702130.png)
 
 ## Output:
-
+_____IMAGE OF SCORE_____
 
 ## Planned Features
+1. Build a UI for streamlining data input.
+2. Develop more granularity for county/district-level vulnerabilty information.
+3. Integration of more variables
 
 ## References and Resources
 <ol>1.  Arasteh K. (2020). Prevalence of Comorbidities and Risks Associated with COVID-19 Among Black and Hispanic Populations in New York City: an Examination of the 2018 New York City Community Health Survey. Journal of racial and ethnic health disparities, 1–7. Advance online publication. https://doi.org/10.1007/s40615-020-00844-1</ol>
