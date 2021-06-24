@@ -37,7 +37,7 @@ These variables included comorbidities of a presence of hypertension, obesity, o
 + STATA
 
 ## Workflow
-![image](https://user-images.githubusercontent.com/40073377/123126309-21f83280-d3fe-11eb-8b4a-626456702130.png)
+![A Way Out Flow Diagram](https://user-images.githubusercontent.com/40073377/123285191-afe92180-d4c1-11eb-8184-0f282ca26372.png)
 
 ## Output:
 _____IMAGE OF SCORE / MAGNITUDE OF CORRELATION_____
