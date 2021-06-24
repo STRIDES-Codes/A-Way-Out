@@ -8,7 +8,7 @@
 
 import delimited using "$dataraw/nst-est2019-alldata.csv", clear
 
-drop if name == "Puerto Rico"
+*drop if name == "Puerto Rico"
 destring region division, replace
 
 drop census2010pop estimatesbase2010
@@ -43,6 +43,8 @@ drop sumlev region division
 
 drop if state_code == 0
 
+drop if year < 2017
+
 save "$datatemp/cencus_pop_all", replace
 *===============================================================================
 
@@ -59,7 +61,7 @@ save "$datatemp/cencus_pop_all", replace
 
 import delimited using "$dataraw/sc-est2019-alldata6.csv", clear
 
-drop if name == "Puerto Rico"
+*drop if name == "Puerto Rico"
 destring region division, replace
 
 drop census2010pop estimatesbase2010
@@ -94,6 +96,9 @@ replace race = 7 if origin == 2
 drop origin
 collapse (sum) popestimate, by(state_code race year state_name age)
 
+
+drop if year < 2017
+
 save "$datatemp/cencus_pop_demo", replace
 *===============================================================================
 *===============================================================================
@@ -126,7 +131,7 @@ la var popestimate "Estimated population"
 	
 order state_code state_name year  age_group race 
 	
-keep if year >= 2017
+keep if year >= 2015
 
 compress
 save "$datatemp/cencus_pop_demo_collapsed_age_race", replace
@@ -169,7 +174,7 @@ drop in 105/108
 drop if linecode == 1
 drop tablename linecode industryclassification description unit
 
-drop if geoname == "Puerto Rico"
+*drop if geoname == "Puerto Rico"
 replace geofips = subinstr(geofips, `"""', "", 2)
 destring region geofips, replace
 replace geofips = geofips/1000
@@ -208,7 +213,7 @@ drop if linecode == 1
 drop tablename   industryclassification unit
  
 
-drop if geoname == "Puerto Rico"
+*drop if geoname == "Puerto Rico"
 replace geofips = subinstr(geofips, `"""', "", 2)
 destring region geofips, replace
 
@@ -415,10 +420,10 @@ save "$datatemp/pop_county", replace
 
 
 *===============================================================================
-*Food Insecurity================================================================
 *Economic Research Service - U.S. Department of Agriculture
 *https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/#Current%20Version
 
+*Food Insecurity
 import excel using "$dataraw/FoodEnvironmentAtlas.xls", clear firstrow	///
 	sheet("INSECURITY")
 	ren *, lower
@@ -430,12 +435,34 @@ destring fips, replace
 drop fips county
 collapse (mean) foodinsec_15_17, by(state)
 
-gen year = 2017
+*gen year = 2017
 ren state state_abbr
 
 la var foodinsec_15_17 "Food Insecurity 2015-2017"
 
 save "$datatemp/food_insecurity_state", replace
+
+
+
+*Poverty Rate
+import excel using "$dataraw/FoodEnvironmentAtlas.xls", clear firstrow	///
+	sheet("SOCIOECONOMIC")
+	ren *, lower
+
+keep fips state county povrate15 childpovrate15
+	
+destring fips, replace	
+ 
+drop fips county
+collapse (mean) povrate15 childpovrate15, by(state)
+
+*gen year = 2015
+ren state state_abbr
+
+la var povrate15 "Poverty rate 2015"
+la var childpovrate15 "Child poverty rate 2015"
+
+save "$datatemp/poverty_state", replace
 *===============================================================================
 
  
@@ -445,8 +472,18 @@ save "$datatemp/food_insecurity_state", replace
 
 *===============================================================================
 *Obesity========================================================================
-import delimited using "$dataraw/comorbidities_obesity_BRFSS_2017-19.csv", clear
+import delimited using "$dataraw/comorbidities_obesity_BRFSS_2017.csv", clear
+	save "$datatemp/comorbidities_obesity_BRFSS_2017", replace
+import delimited using "$dataraw/comorbidities_obesity_BRFSS_2018.csv", clear
+	save "$datatemp/comorbidities_obesity_BRFSS_2018", replace
+import delimited using "$dataraw/comorbidities_obesity_BRFSS_2019.csv", clear
+	save "$datatemp/comorbidities_obesity_BRFSS_2019", replace
 
+clear
+append using "$datatemp/comorbidities_obesity_BRFSS_2017"
+append using "$datatemp/comorbidities_obesity_BRFSS_2018"
+append using "$datatemp/comorbidities_obesity_BRFSS_2019"
+	
 drop class question confidence_limit_low confidence_limit_high data_value_unit
 drop topic response sample_size
 
@@ -465,7 +502,7 @@ ren locationdesc state_name
  
 save "$datatemp/comorbidities_obesity_BRFSS_2017-19", replace
 
-
+sort state_name year break_out 
 	*Age group code========================================
 	use "$datatemp/comorbidities_obesity_BRFSS_2017-19", clear
 	keep if break_out_category == "Age Group"
@@ -487,6 +524,8 @@ save "$datatemp/comorbidities_obesity_BRFSS_2017-19", replace
 	la val age_group lab_age_group
 
 	drop break_out
+	
+	sort state_name age_group year
 
 	save "$datatemp/comorbidities_obesity_BRFSS_age", replace
 
@@ -523,7 +562,16 @@ save "$datatemp/comorbidities_obesity_BRFSS_2017-19", replace
  
 *===============================================================================
 *Hybertension===================================================================
-import delimited using "$dataraw/comorbidities_hypertension_BRFSS_2017-19.csv", clear
+import delimited using "$dataraw/comorbidities_hypertension_BRFSS_2017.csv", clear
+	save "$datatemp/comorbidities_hypertension_BRFSS_2017", replace
+import delimited using "$dataraw/comorbidities_hypertension_BRFSS_2019.csv", clear
+	save "$datatemp/comorbidities_hypertension_BRFSS_2019", replace 
+
+clear
+append using "$datatemp/comorbidities_hypertension_BRFSS_2017" 
+append using "$datatemp/comorbidities_hypertension_BRFSS_2019"
+
+keep if response == "Yes"
 
 drop class question confidence_limit_low confidence_limit_high data_value_unit
 drop topic response sample_size
@@ -565,6 +613,8 @@ save "$datatemp/comorbidities_highblood_BRFSS_2017-19", replace
 	la val age_group lab_age_group
 
 	drop break_out
+	
+	sort state_name year age 
 
 	save "$datatemp/comorbidities_highblood_BRFSS_age", replace
 
@@ -589,6 +639,8 @@ save "$datatemp/comorbidities_highblood_BRFSS_2017-19", replace
 	drop if break_out == "Other, non-Hispanic"
 	drop break_out
 
+	sort state_name year race 
+	
 	save "$datatemp/comorbidities_highblood_BRFSS_race", replace
 *===============================================================================
 	
@@ -601,7 +653,15 @@ save "$datatemp/comorbidities_highblood_BRFSS_2017-19", replace
  
 *===============================================================================
 *Diabetes=======================================================================
-import delimited using "$dataraw/comorbidities_diabetes_BRFSS_2017-19.csv", clear
+import delimited using "$dataraw/comorbidities_diabetes_BRFSS_2017.csv", clear
+	save "$datatemp/comorbidities_diabetes_BRFSS_2017", replace
+import delimited using "$dataraw/comorbidities_diabetes_BRFSS_2019.csv", clear
+	save "$datatemp/comorbidities_diabetes_BRFSS_2019", replace 
+
+clear
+append using "$datatemp/comorbidities_diabetes_BRFSS_2017" 
+append using "$datatemp/comorbidities_diabetes_BRFSS_2019"
+ 
 
 drop class question confidence_limit_low confidence_limit_high data_value_unit
 drop topic response sample_size
@@ -644,6 +704,8 @@ save "$datatemp/comorbidities_diabetes_BRFSS_2017-19", replace
 
 	drop break_out
 
+	sort state_name year age 
+	
 	save "$datatemp/comorbidities_diabetes_BRFSS_age", replace
 
 
@@ -667,4 +729,6 @@ save "$datatemp/comorbidities_diabetes_BRFSS_2017-19", replace
 	drop if break_out == "Other, non-Hispanic"
 	drop break_out
 
+	sort state_name year race 
+	
 	save "$datatemp/comorbidities_diabetes_BRFSS_race", replace

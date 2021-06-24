@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&age.scml
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}24 Jun 2021, 10:26:44
+ {txt}opened on:  {res}24 Jun 2021, 12:23:39
 {txt}
 {com}. codebook
 
@@ -15,14 +15,14 @@
 {ralign 22:Label}: {res:region_code}
 
 {col 18}Range: [{res}1{txt},{res}4{txt}]{col 55}Units: {res}1
-{col 10}{txt}Unique values: {res}4{col 51}{txt}Missing .: {res}968{txt}/{res}1,578
+{col 10}{txt}Unique values: {res}4{col 51}{txt}Missing .: {res}24{txt}/{res}942
 
 {txt}{col 13}Tabulation: Freq.   Numeric  Label
-{col 20}{res}       102{col 32}       1{col 42}{txt}Northeast
-{col 20}{res}       138{col 32}       2{col 42}{txt}Midwest
-{col 20}{res}       198{col 32}       3{col 42}{txt}South
-{col 20}{res}       172{col 32}       4{col 42}{txt}West
-{col 20}{res}       968{col 32}       .{col 42}
+{col 20}{res}       162{col 32}       1{col 42}{txt}Northeast
+{col 20}{res}       216{col 32}       2{col 42}{txt}Midwest
+{col 20}{res}       306{col 32}       3{col 42}{txt}South
+{col 20}{res}       234{col 32}       4{col 42}{txt}West
+{col 20}{res}        24{col 32}       .{col 42}
 
 {txt}{hline}
 {res}region_name{right:Region_name}
@@ -30,14 +30,14 @@
 
 {col 19}Type: String ({res}str9{txt})
 
-{col 10}Unique values: {res}4{col 51}{txt}Missing "": {res}968{txt}/{res}1,578
+{col 10}Unique values: {res}4{col 51}{txt}Missing "": {res}24{txt}/{res}942
 
 {txt}{col 13}Tabulation: Freq.  Value
-{col 20}{res}       968{col 32}""
-{col 20}       138{col 32}"Midwest"
-{col 20}       102{col 32}"Northeast"
-{col 20}       198{col 32}"South"
-{col 20}       172{col 32}"West"
+{col 20}{res}        24{col 32}""
+{col 20}       216{col 32}"Midwest"
+{col 20}       162{col 32}"Northeast"
+{col 20}       306{col 32}"South"
+{col 20}       234{col 32}"West"
 
 {txt}{hline}
 {res}division_code{right:Division}
@@ -47,19 +47,19 @@
 {ralign 22:Label}: {res:division_code}
 
 {col 18}Range: [{res}1{txt},{res}9{txt}]{col 55}Units: {res}1
-{col 10}{txt}Unique values: {res}9{col 51}{txt}Missing .: {res}968{txt}/{res}1,578
+{col 10}{txt}Unique values: {res}9{col 51}{txt}Missing .: {res}24{txt}/{res}942
 
 {txt}{col 13}Tabulation: Freq.   Numeric  Label
-{col 20}{res}        76{col 32}       1{col 42}{txt}New England
-{col 20}{res}        26{col 32}       2{col 42}{txt}Middle Atlantic
-{col 20}{res}        54{col 32}       3{col 42}{txt}East North Central
-{col 20}{res}        84{col 32}       4{col 42}{txt}West North Central
-{col 20}{res}       100{col 32}       5{col 42}{txt}South Atlantic
-{col 20}{res}        58{col 32}       6{col 42}{txt}East South Central
-{col 20}{res}        40{col 32}       7{col 42}{txt}West South Central
-{col 20}{res}       114{col 32}       8{col 42}{txt}Mountain
-{col 20}{res}        58{col 32}       9{col 42}{txt}Pacific
-{col 20}{res}       968{col 32}       .{col 42}
+{col 20}{res}       108{col 32}       1{col 42}{txt}New England
+{col 20}{res}        54{col 32}       2{col 42}{txt}Middle Atlantic
+{col 20}{res}        90{col 32}       3{col 42}{txt}East North Central
+{col 20}{res}       126{col 32}       4{col 42}{txt}West North Central
+{col 20}{res}       162{col 32}       5{col 42}{txt}South Atlantic
+{col 20}{res}        72{col 32}       6{col 42}{txt}East South Central
+{col 20}{res}        72{col 32}       7{col 42}{txt}West South Central
+{col 20}{res}       144{col 32}       8{col 42}{txt}Mountain
+{col 20}{res}        90{col 32}       9{col 42}{txt}Pacific
+{col 20}{res}        24{col 32}       .{col 42}
 
 {txt}{hline}
 {res}division_name{right:Division_name}
@@ -67,19 +67,19 @@
 
 {col 19}Type: String ({res}str18{txt})
 
-{col 10}Unique values: {res}9{col 51}{txt}Missing "": {res}968{txt}/{res}1,578
+{col 10}Unique values: {res}9{col 51}{txt}Missing "": {res}24{txt}/{res}942
 
 {txt}{col 13}Tabulation: Freq.  Value
-{col 20}{res}       968{col 32}""
-{col 20}        54{col 32}"East North Central"
-{col 20}        58{col 32}"East South Central"
-{col 20}        26{col 32}"Middle Atlantic"
-{col 20}       114{col 32}"Mountain"
-{col 20}        76{col 32}"New England"
-{col 20}        58{col 32}"Pacific"
-{col 20}       100{col 32}"South Atlantic"
-{col 20}        84{col 32}"West North Central"
-{col 20}        40{col 32}"West South Central"
+{col 20}{res}        24{col 32}""
+{col 20}        90{col 32}"East North Central"
+{col 20}        72{col 32}"East South Central"
+{col 20}        54{col 32}"Middle Atlantic"
+{col 20}       144{col 32}"Mountain"
+{col 20}       108{col 32}"New England"
+{col 20}        90{col 32}"Pacific"
+{col 20}       162{col 32}"South Atlantic"
+{col 20}       126{col 32}"West North Central"
+{col 20}        72{col 32}"West South Central"
 
 {txt}{col 16}Warning: Variable has embedded blanks.
 
@@ -89,7 +89,7 @@
 
 {col 19}Type: String ({res}str2{txt})
 
-{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}1,578
+{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}942
 
 {txt}{col 15}Examples: {res}"GA"
 {col 25}"MD"
@@ -104,12 +104,12 @@
 {ralign 22:Label}: {res:state_code}
 
 {col 18}Range: [{res}1{txt},{res}56{txt}]{col 55}Units: {res}1
-{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}968{txt}/{res}1,578
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}24{txt}/{res}942
 
-{txt}{ralign 23: Examples:}{col 25}{res}28{col 31}{txt}Mississippi
-{ralign 23: }{col 25}{res}.{col 31}{txt}
-{ralign 23: }{col 25}{res}.{col 31}{txt}
-{ralign 23: }{col 25}{res}.{col 31}{txt}
+{txt}{ralign 23: Examples:}{col 25}{res}13{col 31}{txt}Georgia
+{ralign 23: }{col 25}{res}24{col 31}{txt}Maryland
+{ralign 23: }{col 25}{res}35{col 31}{txt}New Mexico
+{ralign 23: }{col 25}{res}46{col 31}{txt}South Dakota
 
 {txt}{hline}
 {res}state_name{right:US State}
@@ -117,7 +117,7 @@
 
 {col 19}Type: String ({res}str20{txt})
 
-{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}1,578
+{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}942
 
 {txt}{col 15}Examples: {res}"Georgia"
 {col 25}"Maryland"
@@ -133,12 +133,12 @@
 {col 19}Type: Numeric ({res}int{txt})
 
 {col 18}Range: [{res}2017{txt},{res}2019{txt}]{col 55}Units: {res}1
-{col 10}{txt}Unique values: {res}3{col 51}{txt}Missing .: {res}0{txt}/{res}1,578
+{col 10}{txt}Unique values: {res}3{col 51}{txt}Missing .: {res}0{txt}/{res}942
 
 {txt}{col 13}Tabulation: Freq.  Value
-{col 20}{res}       636{col 32}2017
+{col 20}{res}       306{col 32}2017
 {col 20}       318{col 32}2018
-{col 20}       624{col 32}2019
+{col 20}       318{col 32}2019
 
 {txt}{hline}
 {res}age_group{right:Age group}
@@ -148,30 +148,45 @@
 {ralign 22:Label}: {res:lab_age_group}
 
 {col 18}Range: [{res}1{txt},{res}6{txt}]{col 55}Units: {res}1
-{col 10}{txt}Unique values: {res}6{col 51}{txt}Missing .: {res}0{txt}/{res}1,578
+{col 10}{txt}Unique values: {res}6{col 51}{txt}Missing .: {res}0{txt}/{res}942
 
 {txt}{col 13}Tabulation: Freq.   Numeric  Label
-{col 20}{res}       263{col 32}       1{col 42}{txt}18-24
-{col 20}{res}       263{col 32}       2{col 42}{txt}25-34
-{col 20}{res}       263{col 32}       3{col 42}{txt}35-44
-{col 20}{res}       263{col 32}       4{col 42}{txt}45-54
-{col 20}{res}       263{col 32}       5{col 42}{txt}55-64
-{col 20}{res}       263{col 32}       6{col 42}{txt}65+
+{col 20}{res}       157{col 32}       1{col 42}{txt}18-24
+{col 20}{res}       157{col 32}       2{col 42}{txt}25-34
+{col 20}{res}       157{col 32}       3{col 42}{txt}35-44
+{col 20}{res}       157{col 32}       4{col 42}{txt}45-54
+{col 20}{res}       157{col 32}       5{col 42}{txt}55-64
+{col 20}{res}       157{col 32}       6{col 42}{txt}65+
 
 {txt}{hline}
-{res}popestimate{right:Estimated population}
+{res}povrate15{right:Poverty rate 2015}
 {txt}{hline}
 
-{col 19}Type: Numeric ({res}long{txt})
+{col 19}Type: Numeric ({res}double{txt})
 
-{col 18}Range: [{res}67338{txt},{res}6052952{txt}]{col 55}Units: {res}1
-{col 10}{txt}Unique values: {res}305{col 51}{txt}Missing .: {res}968{txt}/{res}1,578
+{col 18}Range: [{res}9.6125{txt},{res}25.22439{txt}]{col 55}Units: {res}1.000e-08
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}24{txt}/{res}942
 
-{txt}{col 19}Mean: {res}{ralign 6:726504}
-{txt}{col 14}Std. dev.: {res}{ralign 6:838851}
+{txt}{col 19}Mean: {res}{ralign 7:15.3137}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.87577}
 
-{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
-{res}{col 25}{ralign 6:96739}{ralign 10:  213133}{ralign 10:  471806}{ralign 10:  890592}{ralign 10: 1.6e+06}
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.7241}{ralign 10: 11.8667}{ralign 10: 14.5875}{ralign 10:  18.397}{ralign 10: 21.1758}
+
+{txt}{hline}
+{res}childpovrate15{right:Child poverty rate 2015}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}13.1375{txt},{res}35.652439{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:21.7849}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.86999}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14.6345}{ralign 10:    16.7}{ralign 10: 20.5812}{ralign 10: 27.2761}{ralign 10: 30.4043}
 
 {txt}{hline}
 {res}obese_pct{right:Obese percentage}
@@ -179,14 +194,14 @@
 
 {col 19}Type: Numeric ({res}double{txt})
 
-{col 18}Range: [{res}9.5{txt},{res}50.1{txt}]{col 55}Units: {res}.1
-{col 10}{txt}Unique values: {res}195{col 51}{txt}Missing .: {res}944{txt}/{res}1,578
+{col 18}Range: [{res}9.5{txt},{res}50.2{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}298{col 51}{txt}Missing .: {res}6{txt}/{res}942
 
-{txt}{col 19}Mean: {res}{ralign 7:30.8505}
-{txt}{col 14}Std. dev.: {res}{ralign 7:7.93376}
+{txt}{col 19}Mean: {res}{ralign 7:30.9809}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.73979}
 
 {txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
-{res}{col 25}{ralign 7:18.8}{ralign 10:    26.2}{ralign 10:    31.5}{ralign 10:      37}{ralign 10:    40.1}
+{res}{col 25}{ralign 7:19.3}{ralign 10:    26.6}{ralign 10:    31.8}{ralign 10:   36.65}{ralign 10:    40.2}
 
 {txt}{hline}
 {res}highbloodpress_pct{right:High blood percentage}
@@ -194,14 +209,14 @@
 
 {col 19}Type: Numeric ({res}double{txt})
 
-{col 18}Range: [{res}4.6{txt},{res}96.9{txt}]{col 55}Units: {res}.1
-{col 10}{txt}Unique values: {res}684{col 51}{txt}Missing .: {res}332{txt}/{res}1,578
+{col 18}Range: [{res}4.6{txt},{res}71.8{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}383{col 51}{txt}Missing .: {res}337{txt}/{res}942
 
-{txt}{col 19}Mean: {res}{ralign 7:50.4977}
-{txt}{col 14}Std. dev.: {res}{ralign 7:26.8626}
+{txt}{col 19}Mean: {res}{ralign 7:31.3314}
+{txt}{col 14}Std. dev.: {res}{ralign 7:19.033}
 
 {txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
-{res}{col 25}{ralign 7:12.4}{ralign 10:    28.8}{ralign 10:   50.45}{ralign 10:    72.3}{ralign 10:    88.5}
+{res}{col 25}{ralign 7:8.6}{ralign 10:      14}{ralign 10:    28.6}{ralign 10:      47}{ralign 10:    59.4}
 
 {txt}{hline}
 {res}diabetes_pct{right:Diabetes percentage}
@@ -209,20 +224,770 @@
 
 {col 19}Type: Numeric ({res}double{txt})
 
-{col 18}Range: [{res}1{txt},{res}37.1{txt}]{col 55}Units: {res}.1
-{col 10}{txt}Unique values: {res}250{col 51}{txt}Missing .: {res}396{txt}/{res}1,578
+{col 18}Range: [{res}1{txt},{res}35.2{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}216{col 51}{txt}Missing .: {res}480{txt}/{res}942
 
-{txt}{col 19}Mean: {res}{ralign 7:12.8817}
-{txt}{col 14}Std. dev.: {res}{ralign 7:7.76935}
+{txt}{col 19}Mean: {res}{ralign 7:12.6563}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.53897}
 
 {txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
-{res}{col 25}{ralign 7:2.9}{ralign 10:     5.7}{ralign 10:    12.1}{ralign 10:    19.2}{ralign 10:    23.4}
+{res}{col 25}{ralign 7:2.9}{ralign 10:     5.6}{ralign 10:      12}{ralign 10:      19}{ralign 10:    22.9}
+
+{txt}{hline}
+{res}foodinsec_15_17{right:Food Insecurity 2015-2017}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.4{txt},{res}17.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:12.3216}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.35645}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:9.5}{ralign 10:    10.7}{ralign 10:    12.1}{ralign 10:    13.6}{ralign 10:      15}
+
+{txt}{hline}
+{res}popestimate{right:Resident total population estimate}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}577601{txt},{res}39512223{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:6.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:872868}{ralign 10: 1.8e+06}{ralign 10: 4.5e+06}{ralign 10: 7.4e+06}{ralign 10: 1.3e+07}
+
+{txt}{hline}
+{res}npopchg{right:Change in resident total population}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-76790{txt},{res}380863{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:34628.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:70790.1}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-4871}{ralign 10:    1158}{ralign 10:   10179}{ralign 10:   43486}{ralign 10:  103091}
+
+{txt}{hline}
+{res}births{right:Births}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5537{txt},{res}481943{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:75282.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:87488.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10683}{ralign 10:   18870}{ralign 10:   54428}{ralign 10:   87338}{ralign 10:  137982}
+
+{txt}{hline}
+{res}deaths{right:Deaths}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4463{txt},{res}282520{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:55213}
+{txt}{col 14}Std. dev.: {res}{ralign 7:56114.1}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7337}{ralign 10:   14551}{ralign 10:   40329}{ralign 10:   67950}{ralign 10:  122177}
+
+{txt}{hline}
+{res}naturalinc{right:Natural increase}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-4679{txt},{res}216702{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:20069.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36756.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1229}{ralign 10:    4555}{ralign 10:    9761}{ralign 10:   22108}{ralign 10:   33662}
+
+{txt}{hline}
+{res}internationalmig{right:Net international migration}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-992{txt},{res}160385{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:24736.6}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:513}{ralign 10:    2039}{ralign 10:    5296}{ralign 10:   15011}{ralign 10:   32574}
+
+{txt}{hline}
+{res}domesticmig{right:Net domestic migration}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-203414{txt},{res}164257{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:51968.1}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-27406}{ralign 10:  -12281}{ralign 10:   -1012}{ralign 10:   15588}{ralign 10:   49680}
+
+{txt}{hline}
+{res}netmig{right:Net migration}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-134896{txt},{res}324642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57434.5}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-12486}{ralign 10:   -4998}{ralign 10:    4220}{ralign 10:   21841}{ralign 10:   61579}
+
+{txt}{hline}
+{res}residual{right:Residual}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}-628{txt},{res}829{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}121{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:203.829}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-180}{ralign 10:     -66}{ralign 10:     -13}{ralign 10:      45}{ralign 10:     199}
+
+{txt}{hline}
+{res}rbirth{right:Birth rate}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}8.84867{txt},{res}16.201117{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:11.7864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.3178}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.0954}{ralign 10: 11.0702}{ralign 10: 11.7676}{ralign 10: 12.3526}{ralign 10: 13.5095}
+
+{txt}{hline}
+{res}rdeath{right:Death rate}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}5.4856443{txt},{res}12.687407{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:8.9498}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.28844}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.44249}{ralign 10: 8.18309}{ralign 10: 8.84318}{ralign 10: 9.82518}{ralign 10: 10.5615}
+
+{txt}{hline}
+{res}rnaturalinc{right:Natural increase rate}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-2.6020191{txt},{res}10.385957{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:2.83657}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.22573}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.468283}{ralign 10: 1.51177}{ralign 10: 2.67915}{ralign 10: 3.96831}{ralign 10: 5.42317}
+
+{txt}{hline}
+{res}rinternationalmig{right:Net international migration rate}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-.3308185{txt},{res}7.715066{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:1.81494}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.43414}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.474096}{ralign 10: .817703}{ralign 10:  1.4249}{ralign 10: 2.42832}{ralign 10: 3.76098}
+
+{txt}{hline}
+{res}rdomesticmig{right:Net domestic migration rate}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-14.587355{txt},{res}15.890627{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 8:.248632}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.14706}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-6.63475}{ralign 10:-3.70377}{ralign 10:-.441108}{ralign 10: 4.90227}{ralign 10: 7.90132}
+
+{txt}{hline}
+{res}rnetmig{right:Net migration rate}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-13.859139{txt},{res}15.616388{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 8:2.06357}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.0192}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-5.34278}{ralign 10:-1.53342}{ralign 10: .923429}{ralign 10: 6.53861}{ralign 10: 10.8789}
+
+{txt}{hline}
+{res}percap_real_inc{right:Real per capita income}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}40794{txt},{res}67277{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:50380.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5406.58}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:43897}{ralign 10:   46775}{ralign 10:   49640}{ralign 10:   53596}{ralign 10:   56194}
+
+{txt}{hline}
+{res}employment_10{right:Total employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}398915{txt},{res}24602061{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:3.9e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.4e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:606694}{ralign 10:  932230}{ralign 10: 2.6e+06}{ralign 10: 4.8e+06}{ralign 10: 7.8e+06}
+
+{txt}{hline}
+{res}employment_20{right:Wage and salary employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}289146{txt},{res}18598619{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:3.0e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:467019}{ralign 10:  794280}{ralign 10: 2.0e+06}{ralign 10: 3.7e+06}{ralign 10: 6.2e+06}
+
+{txt}{hline}
+{res}employment_40{right:Proprietors employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}98472{txt},{res}6003442{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:900188}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.1e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:127046}{ralign 10:  209289}{ralign 10:  591068}{ralign 10: 1.1e+06}{ralign 10: 1.6e+06}
+
+{txt}{hline}
+{res}employment_50{right:Farm proprietors employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}0{txt},{res}225017{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}147{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:35176.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:34854}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:3851}{ralign 10:   10669}{ralign 10:   30605}{ralign 10:   49028}{ralign 10:   68578}
+
+{txt}{hline}
+{res}employment_60{right:Nonfarm proprietors employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}97606{txt},{res}5945806{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:865012}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.1e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:116813}{ralign 10:  205438}{ralign 10:  557912}{ralign 10: 1.0e+06}{ralign 10: 1.5e+06}
+
+{txt}{hline}
+{res}employment_70{right:Farm employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}0{txt},{res}273634{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}151{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:51163.4}
+{txt}{col 14}Std. dev.: {res}{ralign 7:49658.4}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:5171}{ralign 10:   17688}{ralign 10:   43552}{ralign 10:   73362}{ralign 10:   86259}
+
+{txt}{hline}
+{res}employment_80{right:Nonfarm employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}383974{txt},{res}24363469{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:3.9e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.4e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:585959}{ralign 10:  923009}{ralign 10: 2.5e+06}{ralign 10: 4.8e+06}{ralign 10: 7.7e+06}
+
+{txt}{hline}
+{res}employment_90{right:Private nonfarm employment}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}309057{txt},{res}21525859{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:3.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.9e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:507320}{ralign 10:  805303}{ralign 10: 2.2e+06}{ralign 10: 4.3e+06}{ralign 10: 6.9e+06}
+
+{txt}{hline}
+{res}employment_100{right:Forestry, fishing, and related activities}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}84{txt},{res}261864{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}146{col 51}{txt}Missing .: {res}66{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:19679.4}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36725.2}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:3191}{ralign 10:    6666}{ralign 10:   13492}{ralign 10:   16268}{ralign 10:   32393}
+
+{txt}{hline}
+{res}employment_200{right:Mining, quarrying, and oil and gas extraction}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}252{txt},{res}453294{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}147{col 51}{txt}Missing .: {res}60{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:24661.6}
+{txt}{col 14}Std. dev.: {res}{ralign 7:60859.1}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1533}{ralign 10:    4060}{ralign 10:   10256}{ralign 10:   23361}{ralign 10:   42681}
+
+{txt}{hline}
+{res}employment_300{right:Utilities}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}1231{txt},{res}61856{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:11498.7}
+{txt}{col 14}Std. dev.: {res}{ralign 7:12307.2}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:2116}{ralign 10:    3884}{ralign 10:    8018}{ralign 10:   13673}{ralign 10:   25144}
+
+{txt}{hline}
+{res}employment_400{right:Construction}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}17961{txt},{res}1250873{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}151{col 51}{txt}Missing .: {res}36{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:217081}
+{txt}{col 14}Std. dev.: {res}{ralign 6:246052}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:33332}{ralign 10:   62068}{ralign 10:  142525}{ralign 10:  262833}{ralign 10:  374764}
+
+{txt}{hline}
+{res}employment_500{right:Manufacturing}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}2154{txt},{res}1425642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}150{col 51}{txt}Missing .: {res}36{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:266488}
+{txt}{col 14}Std. dev.: {res}{ralign 6:269771}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:27705}{ralign 10:   58297}{ralign 10:  173845}{ralign 10:  366623}{ralign 10:  600739}
+
+{txt}{hline}
+{res}employment_600{right:Wholesale trade}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5497{txt},{res}807260{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:127326}
+{txt}{col 14}Std. dev.: {res}{ralign 6:152769}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:18270}{ralign 10:   25568}{ralign 10:   80278}{ralign 10:  139243}{ralign 10:  257132}
+
+{txt}{hline}
+{res}employment_700{right:Retail trade}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}26774{txt},{res}2092123{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:376925}
+{txt}{col 14}Std. dev.: {res}{ralign 6:402392}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:57633}{ralign 10:  111466}{ralign 10:  260492}{ralign 10:  463324}{ralign 10:  721961}
+
+{txt}{hline}
+{res}employment_800{right:Transportation and warehousing}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}9164{txt},{res}1219163{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:168387}
+{txt}{col 14}Std. dev.: {res}{ralign 6:208858}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:19986}{ralign 10:   30847}{ralign 10:  100771}{ralign 10:  192199}{ralign 10:  390380}
+
+{txt}{hline}
+{res}employment_900{right:Information}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4594{txt},{res}645770{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:67286.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:100856}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7082}{ralign 10:   14340}{ralign 10:   34991}{ralign 10:   85664}{ralign 10:  139313}
+
+{txt}{hline}
+{res}employment_1000{right:Finance and insurance}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}11347{txt},{res}1127472{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:208286}
+{txt}{col 14}Std. dev.: {res}{ralign 6:249808}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:27717}{ralign 10:   42573}{ralign 10:  119715}{ralign 10:  243102}{ralign 10:  430389}
+
+{txt}{hline}
+{res}employment_1100{right:Real estate and rental and leasing}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}15929{txt},{res}1251248{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:186332}
+{txt}{col 14}Std. dev.: {res}{ralign 6:229632}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:26635}{ralign 10:   43035}{ralign 10:  120168}{ralign 10:  226255}{ralign 10:  328864}
+
+{txt}{hline}
+{res}employment_1200{right:Professional, scientific, and technical services}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}17545{txt},{res}2154279{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:280239}
+{txt}{col 14}Std. dev.: {res}{ralign 6:362330}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:37509}{ralign 10:   63707}{ralign 10:  159330}{ralign 10:  377636}{ralign 10:  578468}
+
+{txt}{hline}
+{res}employment_1300{right:Management of companies and enterprises}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}1653{txt},{res}288961{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:52807.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57481.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:4110}{ralign 10:   10597}{ralign 10:   31453}{ralign 10:   76598}{ralign 10:  147495}
+
+{txt}{hline}
+{res}employment_1400{right:Administrative and support and waste management and remediation services}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}13636{txt},{res}1544512{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:243535}
+{txt}{col 14}Std. dev.: {res}{ralign 6:293701}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:25285}{ralign 10:   57322}{ralign 10:  155475}{ralign 10:  311878}{ralign 10:  516832}
+
+{txt}{hline}
+{res}employment_1500{right:Educational services}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4087{txt},{res}556247{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:93328.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:112513}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10122}{ralign 10:   22553}{ralign 10:   57097}{ralign 10:  107720}{ralign 10:  242293}
+
+{txt}{hline}
+{res}employment_1600{right:Health care and social assistance}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}30042{txt},{res}2797215{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:444112}
+{txt}{col 14}Std. dev.: {res}{ralign 6:508178}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:74665}{ralign 10:  118985}{ralign 10:  275671}{ralign 10:  512762}{ralign 10:  912213}
+
+{txt}{hline}
+{res}employment_1700{right:Arts, entertainment, and recreation}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}8050{txt},{res}712728{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:91871.9}
+{txt}{col 14}Std. dev.: {res}{ralign 7:117473}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14561}{ralign 10:   23040}{ralign 10:   56137}{ralign 10:  111565}{ralign 10:  174207}
+
+{txt}{hline}
+{res}employment_1800{right:Accommodation and food services}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}35503{txt},{res}1869267{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:294753}
+{txt}{col 14}Std. dev.: {res}{ralign 6:335443}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:44997}{ralign 10:   76680}{ralign 10:  203808}{ralign 10:  334440}{ralign 10:  523311}
+
+{txt}{hline}
+{res}employment_1900{right:Other services (except government and government enterprises)}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}17726{txt},{res}1497926{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:224449}
+{txt}{col 14}Std. dev.: {res}{ralign 6:267450}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:30059}{ralign 10:   52910}{ralign 10:  135281}{ralign 10:  253722}{ralign 10:  438238}
+
+{txt}{hline}
+{res}employment_2000{right:Government and government enterprises}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}57902{txt},{res}2837610{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:481856}
+{txt}{col 14}Std. dev.: {res}{ralign 6:503142}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:88428}{ralign 10:  175738}{ralign 10:  359142}{ralign 10:  611198}{ralign 10:  875355}
+
+{txt}{hline}
+{res}employment_2001{right:Federal civilian}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5692{txt},{res}248875{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:56111.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57190.2}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10906}{ralign 10:   17775}{ralign 10:   34305}{ralign 10:   72412}{ralign 10:  143148}
+
+{txt}{hline}
+{res}employment_2002{right:Military}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}3953{txt},{res}206293{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:37902}
+{txt}{col 14}Std. dev.: {res}{ralign 7:42238.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7785}{ralign 10:   11872}{ralign 10:   20608}{ralign 10:   44445}{ralign 10:   90775}
+
+{txt}{hline}
+{res}employment_2010{right:State and local}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}41349{txt},{res}2384397{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:387843}
+{txt}{col 14}Std. dev.: {res}{ralign 6:422124}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:61699}{ralign 10:  114765}{ralign 10:  287077}{ralign 10:  500704}{ralign 10:  698228}
+
+{txt}{hline}
+{res}employment_2011{right:State government}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}0{txt},{res}563115{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}151{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 7:105954}
+{txt}{col 14}Std. dev.: {res}{ralign 7:96345.1}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:23386}{ralign 10:   34448}{ralign 10:   81984}{ralign 10:  140088}{ralign 10:  191833}
+
+{txt}{hline}
+{res}employment_2012{right:Local government}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}19262{txt},{res}1821282{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}24{txt}/{res}942
+
+{txt}{col 19}Mean: {res}{ralign 6:281889}
+{txt}{col 14}Std. dev.: {res}{ralign 6:328634}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:41349}{ralign 10:   70959}{ralign 10:  211849}{ralign 10:  350148}{ralign 10:  520111}
 {txt}
 {com}. log close
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&age.scml
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}24 Jun 2021, 10:26:44
+ {txt}closed on:  {res}24 Jun 2021, 12:23:39
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}

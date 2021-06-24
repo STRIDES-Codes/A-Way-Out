@@ -14,13 +14,14 @@ merge m:m state_code state_name year using "$datatemp/cencus_employment_state"
 	drop if _merge == 2
 	drop _merge
 	
-merge m:m state_abbr year using "$datatemp/food_insecurity_state"
+merge m:m state_abbr using "$datatemp/food_insecurity_state"
 	drop if _merge ==2
 	drop _merge
 
-*drop *_name
-	
-keep if year >= 2017
+merge m:m state_abbr using "$datatemp/poverty_state"
+	drop if _merge ==2
+	drop _merge
+	 
 
 order state_abbr state_code state_name year foodinsec_15_17
 
@@ -52,12 +53,14 @@ translate	///
 *Race and Age=====================
 use "$dataraw/us_state.dta", clear
 
-merge 1:m state_code state_name using "$datatemp/cencus_pop_demo_collapsed_age_race"
-	drop if _merge == 1
+merge 1:m state_code state_name using "$datatemp/data_usa_demo"
+	drop if _merge == 1 
+	drop _merge 
+	
+merge m:m state_code state_name year using "$datatemp/cencus_pop_demo_collapsed_age_race"
+	drop if _merge == 1 // Puerto Rico
 	drop _merge
 	
-*drop *_name
- 
 
 compress
 la data "US Population by State, Race, Sex and Origin  (FIPS Code)"
@@ -79,20 +82,27 @@ translate	///
 *Age only=========================
 use "$dataraw/us_state.dta", clear
 
-merge 1:m state_code state_name using "$datatemp/cencus_pop_demo_collapsed_age"
-	drop if _merge == 1
+merge 1:m state_code state_name using "$datatemp/data_usa_demo"
+	drop if _merge == 1 // Guam, Marian Islands, Virgin
+	drop _merge 
+	
+merge m:m state_code state_name year using "$datatemp/cencus_pop_demo_collapsed_age"
+	drop if _merge == 1  // Puerto Rico
 	drop _merge
 	
 merge m:m year state_name age_group using "$datatemp/comorbidities_obesity_BRFSS_age"
-	drop if _merge == 1
+	*drop if _merge == 1 // New Jersy
 	drop _merge
 merge m:m year state_name age_group using "$datatemp/comorbidities_highblood_BRFSS_age"
-	drop if _merge == 1
+	*drop if _merge == 1 // No 2018 data
 	drop _merge 
 merge m:m year state_name age_group using "$datatemp/comorbidities_diabetes_BRFSS_age"
-	drop if _merge == 1
+	*drop if _merge == 1 // No 2018 data
 	drop _merge 
 
+order region_code region_name division_code division_name state_abbr state_code state_name year age	///
+	povrate15 childpovrate15 obese_pct highbloodpress_pct diabetes_pct
+	 
 compress
 la data "US Population by State, Race, Sex and Origin  (FIPS Code)"
 save "$datatemp/data_usa_demo&others", replace 
@@ -111,19 +121,26 @@ translate	///
 *Race only
 use "$dataraw/us_state.dta", clear
 
-merge 1:m state_code state_name using "$datatemp/cencus_pop_demo_collapsed_race"
+merge 1:m state_code state_name using "$datatemp/data_usa_demo"
 	drop if _merge == 1
+	drop _merge 
+	
+merge m:m state_code state_name year using "$datatemp/cencus_pop_demo_collapsed_race"
+	drop if _merge == 1 // Guam, Northern Mariana Islands, Virgin Islands of the U.S.
 	drop _merge
 	
 merge m:m year state_name race using "$datatemp/comorbidities_obesity_BRFSS_race"
-	drop if _merge == 1
+	*drop if _merge == 1 // New Jersy
 	drop _merge
 merge m:m year state_name race using "$datatemp/comorbidities_highblood_BRFSS_race"
-	drop if _merge == 1
+	*drop if _merge == 1
 	drop _merge
 merge m:m year state_name race using "$datatemp/comorbidities_diabetes_BRFSS_race"
-	drop if _merge == 1
+	*drop if _merge == 1
 	drop _merge
+	 
+order region_code region_name division_code division_name state_abbr state_code state_name year race	///
+	povrate15 childpovrate15 obese_pct highbloodpress_pct diabetes_pct
 	 
 compress
 la data "US Population by State, Race, Sex and Origin  (FIPS Code)"
