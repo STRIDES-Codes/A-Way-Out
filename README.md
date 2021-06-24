@@ -45,7 +45,7 @@ _____IMAGE OF SCORE / MAGNITUDE OF CORRELATION_____
 ## Planned Features
 1. Build a UI for streamlining data input.
 2. Develop more granularity for county/district-level vulnerabilty information.
-3. Integration of more variables
+3. Integration of more study variables.
 
 ## Limitations
 State-level data has it's limitations in helping decision-making at the national level. Data sources such as BRFSS are limited to participants who are able to respond via landline or cellphone line due to the nature of the data collection methods.
