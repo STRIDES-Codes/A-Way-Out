@@ -134,4 +134,57 @@ translate	///
 
 
 
+import delimited using "$dataraw/CRDT Data - CRDT.csv", clear
+
+loc i = 1
+foreach X of varlist cases_* deaths_* hosp_* tests_* {
+	ren `X' `X'_`i'
+	loc i = `i' + 1
+	if `i' == 14 {
+		loc i = 1
+	}
+}
+*
+
+ren cases_*_* cases_*[2]
+ren deaths_*_* deaths_*[2]
+ren hosp_*_* hosp_*[2]
+ren tests_*_* tests_*[2]
+
  
+reshape long cases_ deaths_ hosp_ tests_, i(date state) j(race)
+
+drop if race == 1
+drop if race == 12
+drop if race == 13
+drop if race == 9
+drop if race == 4
+drop if race == 10
+
+recode race	///
+	(2 = 1) (3 = 2) (5 = 4) (6 = 3) (7 = 5) (8 = 6) (11 = 7)
+
+	pro_lab
+la val race lab_race
+	
+*1 Total
+2 White
+3 Black
+4 Latinx
+5 Asian
+6 AIAN
+7 NHPI
+8 Multiracial
+*9 Other
+10 Unknown
+11 Hispanic
+*12 Non Hispanic
+*13 Unknown
+
+1 "White Alone"	///
+2 "Black or African American Alone"	///
+3 "American Indian or Alaska Native Alone"	///
+4 "Asian Alone"	///
+5 "Native Hawaiian and Other Pacific Islander Alone"	///
+6 "Two or more races"	///
+7 "Hispanic"
