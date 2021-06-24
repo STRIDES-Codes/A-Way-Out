@@ -445,7 +445,7 @@ save "$datatemp/food_insecurity_state", replace
 
 *===============================================================================
 *Obesity========================================================================
-import delimited using "$dataraw/comorbidities_obesity_BRFSS_2017.csv", clear
+import delimited using "$dataraw/comorbidities_obesity_BRFSS_2017-19.csv", clear
 
 drop class question confidence_limit_low confidence_limit_high data_value_unit
 drop topic response sample_size
@@ -463,11 +463,11 @@ la var obese_pct "Obese percentage"
 ren locationabbr state_abbr
 ren locationdesc state_name
  
-save "$datatemp/comorbidities_obesity_BRFSS_2017", replace
+save "$datatemp/comorbidities_obesity_BRFSS_2017-19", replace
 
 
 	*Age group code========================================
-	use "$datatemp/comorbidities_obesity_BRFSS_2017", clear
+	use "$datatemp/comorbidities_obesity_BRFSS_2017-19", clear
 	keep if break_out_category == "Age Group"
 	drop break_out_category
 
@@ -488,11 +488,11 @@ save "$datatemp/comorbidities_obesity_BRFSS_2017", replace
 
 	drop break_out
 
-	save "$datatemp/comorbidities_obesity_BRFSS_2017_age", replace
+	save "$datatemp/comorbidities_obesity_BRFSS_age", replace
 
 
 	*Race group code========================================
-	use "$datatemp/comorbidities_obesity_BRFSS_2017", clear
+	use "$datatemp/comorbidities_obesity_BRFSS_2017-19", clear
 	keep if break_out_category == "Race/Ethnicity"
 	drop break_out_category
 
@@ -511,7 +511,7 @@ save "$datatemp/comorbidities_obesity_BRFSS_2017", replace
 	drop if break_out == "Other, non-Hispanic"
 	drop break_out
 
-	save "$datatemp/comorbidities_obesity_BRFSS_2017_race", replace
+	save "$datatemp/comorbidities_obesity_BRFSS_race", replace
 *===============================================================================
 
 
@@ -523,7 +523,7 @@ save "$datatemp/comorbidities_obesity_BRFSS_2017", replace
  
 *===============================================================================
 *Hybertension===================================================================
-import delimited using "$dataraw/comorbidities_hypertension_BRFSS_2017.csv", clear
+import delimited using "$dataraw/comorbidities_hypertension_BRFSS_2017-19.csv", clear
 
 drop class question confidence_limit_low confidence_limit_high data_value_unit
 drop topic response sample_size
@@ -541,11 +541,11 @@ la var highbloodpress_pct "High blood percentage"
 ren locationabbr state_abbr
 ren locationdesc state_name
  
-save "$datatemp/comorbidities_highblood_BRFSS_2017", replace
+save "$datatemp/comorbidities_highblood_BRFSS_2017-19", replace
 
 
 	*Age group code========================================
-	use "$datatemp/comorbidities_highblood_BRFSS_2017", clear
+	use "$datatemp/comorbidities_highblood_BRFSS_2017-19", clear
 	keep if break_out_category == "Age Group"
 	drop break_out_category
 
@@ -566,11 +566,11 @@ save "$datatemp/comorbidities_highblood_BRFSS_2017", replace
 
 	drop break_out
 
-	save "$datatemp/comorbidities_highblood_BRFSS_2017_age", replace
+	save "$datatemp/comorbidities_highblood_BRFSS_age", replace
 
 
 	*Race group code========================================
-	use "$datatemp/comorbidities_highblood_BRFSS_2017", clear
+	use "$datatemp/comorbidities_highblood_BRFSS_2017-19", clear
 	keep if break_out_category == "Race/Ethnicity"
 	drop break_out_category
 
@@ -589,4 +589,82 @@ save "$datatemp/comorbidities_highblood_BRFSS_2017", replace
 	drop if break_out == "Other, non-Hispanic"
 	drop break_out
 
-	save "$datatemp/comorbidities_highblood_BRFSS_2017_race", replace
+	save "$datatemp/comorbidities_highblood_BRFSS_race", replace
+*===============================================================================
+	
+	
+	
+	
+	
+	
+	
+ 
+*===============================================================================
+*Diabetes=======================================================================
+import delimited using "$dataraw/comorbidities_diabetes_BRFSS_2017-19.csv", clear
+
+drop class question confidence_limit_low confidence_limit_high data_value_unit
+drop topic response sample_size
+
+replace data_value = "" if data_value == "NA"
+destring data_value, replace
+
+sort break_out_category
+drop if break_out == "Overall"
+
+
+ren data_value diabetes_pct
+la var diabetes_pct "Diabetes percentage"
+ 
+ren locationabbr state_abbr
+ren locationdesc state_name
+ 
+save "$datatemp/comorbidities_diabetes_BRFSS_2017-19", replace
+
+
+	*Age group code========================================
+	use "$datatemp/comorbidities_diabetes_BRFSS_2017-19", clear
+	keep if break_out_category == "Age Group"
+	drop break_out_category
+
+	*Categorize age
+	gen age_group = .
+	la var age_group "Age group"
+	replace age_group = 1 if break_out == "18-24"
+	replace age_group = 2 if break_out == "25-34"
+	replace age_group = 3 if break_out == "35-44"
+	replace age_group = 4 if break_out == "45-54"
+	replace age_group = 5 if break_out == "55-64"
+	replace age_group = 6 if break_out == "65+"
+
+	drop if age_group == .	
+		
+		pro_lab_age_group
+	la val age_group lab_age_group
+
+	drop break_out
+
+	save "$datatemp/comorbidities_diabetes_BRFSS_age", replace
+
+
+	*Race group code========================================
+	use "$datatemp/comorbidities_diabetes_BRFSS_2017-19", clear
+	keep if break_out_category == "Race/Ethnicity"
+	drop break_out_category
+
+	gen race = .
+	replace race = 1 if break_out == "White, non-Hispanic"
+	replace race = 2 if break_out == "Black, non-Hispanic"
+	replace race = 3 if break_out == "American Indian or Alaskan Native, non-Hispanic"
+	replace race = 4 if break_out == "Asian, non-Hispanic"
+	replace race = 5 if break_out == "Native Hawaiian or other Pacific Islander, non-Hispanic"
+	replace race = 6 if break_out == "Multiracial, non-Hispanic"
+	replace race = 7 if break_out == "Hispanic" 
+
+		pro_lab
+	la val race lab_race
+
+	drop if break_out == "Other, non-Hispanic"
+	drop break_out
+
+	save "$datatemp/comorbidities_diabetes_BRFSS_race", replace

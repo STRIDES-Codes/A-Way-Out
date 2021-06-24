@@ -83,10 +83,13 @@ merge 1:m state_code state_name using "$datatemp/cencus_pop_demo_collapsed_age"
 	drop if _merge == 1
 	drop _merge
 	
-merge m:m year state_name age_group using "$datatemp/comorbidities_obesity_BRFSS_2017_age"
+merge m:m year state_name age_group using "$datatemp/comorbidities_obesity_BRFSS_age"
 	drop if _merge == 1
 	drop _merge
-merge m:m year state_name age_group using "$datatemp/comorbidities_highblood_BRFSS_2017_age"
+merge m:m year state_name age_group using "$datatemp/comorbidities_highblood_BRFSS_age"
+	drop if _merge == 1
+	drop _merge 
+merge m:m year state_name age_group using "$datatemp/comorbidities_diabetes_BRFSS_age"
 	drop if _merge == 1
 	drop _merge 
 
@@ -112,10 +115,13 @@ merge 1:m state_code state_name using "$datatemp/cencus_pop_demo_collapsed_race"
 	drop if _merge == 1
 	drop _merge
 	
-merge m:m year state_name race using "$datatemp/comorbidities_obesity_BRFSS_2017_race"
+merge m:m year state_name race using "$datatemp/comorbidities_obesity_BRFSS_race"
 	drop if _merge == 1
 	drop _merge
-merge m:m year state_name race using "$datatemp/comorbidities_highblood_BRFSS_2017_race"
+merge m:m year state_name race using "$datatemp/comorbidities_highblood_BRFSS_race"
+	drop if _merge == 1
+	drop _merge
+merge m:m year state_name race using "$datatemp/comorbidities_diabetes_BRFSS_race"
 	drop if _merge == 1
 	drop _merge
 	 
@@ -131,6 +137,21 @@ translate	///
 	"$datatemp/data_usa_demo&race.scml"	///
 	"$datafinal/data_usa_demo&race_CODEBOOK.pdf", translator(smcl2pdf)
 *===============================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

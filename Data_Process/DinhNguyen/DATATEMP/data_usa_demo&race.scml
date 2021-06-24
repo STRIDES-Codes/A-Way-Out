@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&race.scml
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}23 Jun 2021, 17:31:45
+ {txt}opened on:  {res}24 Jun 2021, 10:26:45
 {txt}
 {com}. codebook
 
@@ -11,200 +11,221 @@
 {res}region_code{right:Region}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}byte{txt})
-{ralign 22:label}:  {res:region_code}
+{col 19}Type: Numeric ({res}byte{txt})
+{ralign 22:Label}: {res:region_code}
 
-{col 18}range:  [{res}1{txt},{res}4{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}4{col 51}{txt}missing .:  {res}0{txt}/{res}714
+{col 18}Range: [{res}1{txt},{res}4{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}4{col 51}{txt}Missing .: {res}1,115{txt}/{res}1,841
 
-{txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}       126{col 33}       1{col 43}{txt}Northeast
-{col 21}{res}       168{col 33}       2{col 43}{txt}Midwest
-{col 21}{res}       238{col 33}       3{col 43}{txt}South
-{col 21}{res}       182{col 33}       4{col 43}{txt}West
+{txt}{col 13}Tabulation: Freq.   Numeric  Label
+{col 20}{res}       132{col 32}       1{col 42}{txt}Northeast
+{col 20}{res}       184{col 32}       2{col 42}{txt}Midwest
+{col 20}{res}       228{col 32}       3{col 42}{txt}South
+{col 20}{res}       182{col 32}       4{col 42}{txt}West
+{col 20}{res}     1,115{col 32}       .{col 42}
 
 {txt}{hline}
 {res}region_name{right:Region_name}
 {txt}{hline}
 
-{col 19}type:  string ({res}str9{txt})
+{col 19}Type: String ({res}str9{txt})
 
-{col 10}unique values:  {res}4{col 51}{txt}missing "":  {res}0{txt}/{res}714
+{col 10}Unique values: {res}4{col 51}{txt}Missing "": {res}1,115{txt}/{res}1,841
 
-{txt}{col 13}tabulation:  Freq.  Value
-{col 21}{res}       168{col 33}"Midwest"
-{col 21}       126{col 33}"Northeast"
-{col 21}       238{col 33}"South"
-{col 21}       182{col 33}"West"
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}     1,115{col 32}""
+{col 20}       184{col 32}"Midwest"
+{col 20}       132{col 32}"Northeast"
+{col 20}       228{col 32}"South"
+{col 20}       182{col 32}"West"
 
 {txt}{hline}
 {res}division_code{right:Division}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}byte{txt})
-{ralign 22:label}:  {res:division_code}
+{col 19}Type: Numeric ({res}byte{txt})
+{ralign 22:Label}: {res:division_code}
 
-{col 18}range:  [{res}1{txt},{res}9{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}9{col 51}{txt}missing .:  {res}0{txt}/{res}714
+{col 18}Range: [{res}1{txt},{res}9{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}9{col 51}{txt}Missing .: {res}1,115{txt}/{res}1,841
 
-{txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}        84{col 33}       1{col 43}{txt}New England
-{col 21}{res}        42{col 33}       2{col 43}{txt}Middle Atlantic
-{col 21}{res}        70{col 33}       3{col 43}{txt}East North Central
-{col 21}{res}        98{col 33}       4{col 43}{txt}West North Central
-{col 21}{res}       126{col 33}       5{col 43}{txt}South Atlantic
-{col 21}{res}        56{col 33}       6{col 43}{txt}East South Central
-{col 21}{res}        56{col 33}       7{col 43}{txt}West South Central
-{col 21}{res}       112{col 33}       8{col 43}{txt}Mountain
-{col 21}{res}        70{col 33}       9{col 43}{txt}Pacific
+{txt}{col 13}Tabulation: Freq.   Numeric  Label
+{col 20}{res}        98{col 32}       1{col 42}{txt}New England
+{col 20}{res}        34{col 32}       2{col 42}{txt}Middle Atlantic
+{col 20}{res}        70{col 32}       3{col 42}{txt}East North Central
+{col 20}{res}       114{col 32}       4{col 42}{txt}West North Central
+{col 20}{res}       122{col 32}       5{col 42}{txt}South Atlantic
+{col 20}{res}        52{col 32}       6{col 42}{txt}East South Central
+{col 20}{res}        54{col 32}       7{col 42}{txt}West South Central
+{col 20}{res}       114{col 32}       8{col 42}{txt}Mountain
+{col 20}{res}        68{col 32}       9{col 42}{txt}Pacific
+{col 20}{res}     1,115{col 32}       .{col 42}
 
 {txt}{hline}
 {res}division_name{right:Division_name}
 {txt}{hline}
 
-{col 19}type:  string ({res}str18{txt})
+{col 19}Type: String ({res}str18{txt})
 
-{col 10}unique values:  {res}9{col 51}{txt}missing "":  {res}0{txt}/{res}714
+{col 10}Unique values: {res}9{col 51}{txt}Missing "": {res}1,115{txt}/{res}1,841
 
-{txt}{col 13}tabulation:  Freq.  Value
-{col 21}{res}        70{col 33}"East North Central"
-{col 21}        56{col 33}"East South Central"
-{col 21}        42{col 33}"Middle Atlantic"
-{col 21}       112{col 33}"Mountain"
-{col 21}        84{col 33}"New England"
-{col 21}        70{col 33}"Pacific"
-{col 21}       126{col 33}"South Atlantic"
-{col 21}        98{col 33}"West North Central"
-{col 21}        56{col 33}"West South Central"
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}     1,115{col 32}""
+{col 20}        70{col 32}"East North Central"
+{col 20}        52{col 32}"East South Central"
+{col 20}        34{col 32}"Middle Atlantic"
+{col 20}       114{col 32}"Mountain"
+{col 20}        98{col 32}"New England"
+{col 20}        68{col 32}"Pacific"
+{col 20}       122{col 32}"South Atlantic"
+{col 20}       114{col 32}"West North Central"
+{col 20}        54{col 32}"West South Central"
 
-{txt}{col 16}warning:  variable has embedded blanks
+{txt}{col 16}Warning: Variable has embedded blanks.
 
 {txt}{hline}
 {res}state_abbr{right:Abbreviation State}
 {txt}{hline}
 
-{col 19}type:  string ({res}str2{txt})
+{col 19}Type: String ({res}str2{txt})
 
-{col 10}unique values:  {res}51{col 51}{txt}missing "":  {res}0{txt}/{res}714
+{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}1,841
 
-{txt}{col 15}examples:  {res}"GA"
-{col 26}"MD"
-{col 26}"NH"
-{col 26}"SC"
+{txt}{col 15}Examples: {res}"GA"
+{col 25}"MD"
+{col 25}"NH"
+{col 25}"SC"
 
 {txt}{hline}
 {res}state_code{right:State-level FIPS code}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}byte{txt})
-{ralign 22:label}:  {res:state_code}
+{col 19}Type: Numeric ({res}byte{txt})
+{ralign 22:Label}: {res:state_code}
 
-{col 18}range:  [{res}1{txt},{res}56{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}51{col 51}{txt}missing .:  {res}0{txt}/{res}714
+{col 18}Range: [{res}1{txt},{res}56{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}1,115{txt}/{res}1,841
 
-{txt}{ralign 23: examples:}{col 26}{res}13{col 32}{txt}Georgia
-{ralign 23: }{col 26}{res}24{col 32}{txt}Maryland
-{ralign 23: }{col 26}{res}34{col 32}{txt}New Jersey
-{ralign 23: }{col 26}{res}45{col 32}{txt}South Carolina
+{txt}{ralign 23: Examples:}{col 25}{res}29{col 31}{txt}Missouri
+{ralign 23: }{col 25}{res}.{col 31}{txt}
+{ralign 23: }{col 25}{res}.{col 31}{txt}
+{ralign 23: }{col 25}{res}.{col 31}{txt}
 
 {txt}{hline}
 {res}state_name{right:US State}
 {txt}{hline}
 
-{col 19}type:  string ({res}str20{txt})
+{col 19}Type: String ({res}str20{txt})
 
-{col 10}unique values:  {res}51{col 51}{txt}missing "":  {res}0{txt}/{res}714
+{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}1,841
 
-{txt}{col 15}examples:  {res}"Georgia"
-{col 26}"Maryland"
-{col 26}"New Jersey"
-{col 26}"South Carolina"
+{txt}{col 15}Examples: {res}"Georgia"
+{col 25}"Maryland"
+{col 25}"New Jersey"
+{col 25}"South Carolina"
 
-{txt}{col 16}warning:  variable has embedded blanks
+{txt}{col 16}Warning: Variable has embedded blanks.
 
 {txt}{hline}
 {res}year{right:Year}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}int{txt})
+{col 19}Type: Numeric ({res}int{txt})
 
-{col 18}range:  [{res}2017{txt},{res}2017{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}1{col 51}{txt}missing .:  {res}0{txt}/{res}714
+{col 18}Range: [{res}2017{txt},{res}2019{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}3{col 51}{txt}Missing .: {res}0{txt}/{res}1,841
 
-{txt}{col 13}tabulation:  Freq.  Value
-{col 21}{res}       714{col 33}2017
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}       742{col 32}2017
+{col 20}       371{col 32}2018
+{col 20}       728{col 32}2019
 
 {txt}{hline}
 {res}race{right:RACE}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}byte{txt})
-{ralign 22:label}:  {res:lab_race}
+{col 19}Type: Numeric ({res}byte{txt})
+{ralign 22:Label}: {res:lab_race}
 
-{col 18}range:  [{res}1{txt},{res}7{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}7{col 51}{txt}missing .:  {res}0{txt}/{res}714
+{col 18}Range: [{res}1{txt},{res}7{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}7{col 51}{txt}Missing .: {res}0{txt}/{res}1,841
 
-{txt}{col 13}tabulation:  Freq.   Numeric  Label
-{col 21}{res}       102{col 33}       1{col 43}{txt}White Alone
-{col 21}{res}       102{col 33}       2{col 43}{txt}Black or African American Alone
-{col 21}{res}       102{col 33}       3{col 43}{txt}American Indian or Alaska Native
-{col 43}Alone
-{col 21}{res}       102{col 33}       4{col 43}{txt}Asian Alone
-{col 21}{res}       102{col 33}       5{col 43}{txt}Native Hawaiian and Other
-{col 43}Pacific Islander Alone
-{col 21}{res}       102{col 33}       6{col 43}{txt}Two or more races
-{col 21}{res}       102{col 33}       7{col 43}{txt}Hispanic
+{txt}{col 13}Tabulation: Freq.   Numeric  Label
+{col 20}{res}       263{col 32}       1{col 42}{txt}White Alone
+{col 20}{res}       263{col 32}       2{col 42}{txt}Black or African American Alone
+{col 20}{res}       263{col 32}       3{col 42}{txt}American Indian or Alaska
+{col 42}Native Alone
+{col 20}{res}       263{col 32}       4{col 42}{txt}Asian Alone
+{col 20}{res}       263{col 32}       5{col 42}{txt}Native Hawaiian and Other
+{col 42}Pacific Islander Alone
+{col 20}{res}       263{col 32}       6{col 42}{txt}Two or more races
+{col 20}{res}       263{col 32}       7{col 42}{txt}Hispanic
 
 {txt}{hline}
 {res}popestimate{right:Estimated population}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}long{txt})
+{col 19}Type: Numeric ({res}long{txt})
 
-{col 18}range:  [{res}152{txt},{res}12353827{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}356{col 51}{txt}missing .:  {res}0{txt}/{res}714
+{col 18}Range: [{res}156{txt},{res}12353827{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}363{col 51}{txt}Missing .: {res}1,115{txt}/{res}1,841
 
-{txt}{col 19}mean:{res}{col 26}  704202
-{txt}{col 15}std. dev:{res}{col 26} 1.7e+06
+{txt}{col 19}Mean: {res}{ralign 7:627293}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.5e+06}
 
-{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}    2789{col 37}   14530{col 47}   72059{col 57}  472057{col 67} 2.2e+06
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:4699}{ralign 10:   14892}{ralign 10:   65166}{ralign 10:  452177}{ralign 10: 1.8e+06}
 
 {txt}{hline}
 {res}obese_pct{right:Obese percentage}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}double{txt})
+{col 19}Type: Numeric ({res}double{txt})
 
-{col 18}range:  [{res}7.4{txt},{res}52.8{txt}]{col 55}units:  {res}.1
-{col 10}{txt}unique values:  {res}158{col 51}{txt}missing .:  {res}224{txt}/{res}714
+{col 18}Range: [{res}7.5{txt},{res}55.8{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}173{col 51}{txt}Missing .: {res}1,329{txt}/{res}1,841
 
-{txt}{col 19}mean:{res}{col 26} 32.2318
-{txt}{col 15}std. dev:{res}{col 26} 8.49953
+{txt}{col 19}Mean: {res}{ralign 7:32.8293}
+{txt}{col 14}Std. dev.: {res}{ralign 7:9.0187}
 
-{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}      23{col 37}    28.3{col 47}    32.8{col 57}    37.3{col 67}    43.3
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:22.9}{ralign 10:    28.3}{ralign 10:   33.15}{ralign 10:   38.75}{ralign 10:    43.8}
 
 {txt}{hline}
 {res}highbloodpress_pct{right:High blood percentage}
 {txt}{hline}
 
-{col 19}type:  numeric ({res}double{txt})
+{col 19}Type: Numeric ({res}double{txt})
 
-{col 18}range:  [{res}10.5{txt},{res}93.9{txt}]{col 55}units:  {res}.1
-{col 10}{txt}unique values:  {res}379{col 51}{txt}missing .:  {res}185{txt}/{res}714
+{col 18}Range: [{res}10.5{txt},{res}93.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}557{col 51}{txt}Missing .: {res}783{txt}/{res}1,841
 
-{txt}{col 19}mean:{res}{col 26} 51.3788
-{txt}{col 15}std. dev:{res}{col 26} 21.6284
+{txt}{col 19}Mean: {res}{ralign 7:51.0804}
+{txt}{col 14}Std. dev.: {res}{ralign 7:21.5751}
 
-{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}    22.8{col 37}    32.3{col 47}    54.4{col 57}    69.8{col 67}    79.7
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:22.1}{ralign 10:    32.2}{ralign 10:   53.15}{ralign 10:    69.4}{ralign 10:    79.5}
+
+{txt}{hline}
+{res}diabetes_pct{right:Diabetes percentage}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}2.1{txt},{res}32.1{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}930{txt}/{res}1,841
+
+{txt}{col 19}Mean: {res}{ralign 7:12.088}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.01848}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.7}{ralign 10:     9.3}{ralign 10:    11.5}{ralign 10:    14.6}{ralign 10:      17}
 {txt}
 {com}. log close
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&race.scml
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}23 Jun 2021, 17:31:45
+ {txt}closed on:  {res}24 Jun 2021, 10:26:45
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
