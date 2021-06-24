@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&race.scml
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}24 Jun 2021, 12:23:40
+ {txt}opened on:  {res}24 Jun 2021, 15:35:55
 {txt}
 {com}. codebook
 
@@ -985,12 +985,33 @@
 
 {txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
 {res}{col 25}{ralign 6:41349}{ralign 10:   70959}{ralign 10:  211849}{ralign 10:  350148}{ralign 10:  520111}
-{txt}
+
+{txt}{hline}
+{res}race_name{right:RACE}
+{txt}{hline}
+
+{col 19}Type: String ({res}str48{txt})
+
+{col 10}Unique values: {res}7{col 51}{txt}Missing "": {res}0{txt}/{res}1,099
+
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}       157{col 32}"American Indian or Alaska Native
+{col 32}Alone"
+{col 20}       157{col 32}"Asian Alone"
+{col 20}       157{col 32}"Black or African American Alone"
+{col 20}       157{col 32}"Hispanic"
+{col 20}       157{col 32}"Native Hawaiian and Other Pacific
+{col 32}Islander Alone"
+{col 20}       157{col 32}"Two or more races"
+{col 20}       157{col 32}"White Alone"
+
+{txt}{col 16}Warning: Variable has embedded blanks.
+
 {com}. log close
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&race.scml
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}24 Jun 2021, 12:23:40
+ {txt}closed on:  {res}24 Jun 2021, 15:35:55
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}

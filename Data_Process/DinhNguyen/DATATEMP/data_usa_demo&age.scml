@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&age.scml
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}24 Jun 2021, 12:23:39
+ {txt}opened on:  {res}24 Jun 2021, 15:35:44
 {txt}
 {com}. codebook
 
@@ -982,12 +982,28 @@
 
 {txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
 {res}{col 25}{ralign 6:41349}{ralign 10:   70959}{ralign 10:  211849}{ralign 10:  350148}{ralign 10:  520111}
+
+{txt}{hline}
+{res}age_group_name{right:Age group}
+{txt}{hline}
+
+{col 19}Type: String ({res}str5{txt})
+
+{col 10}Unique values: {res}6{col 51}{txt}Missing "": {res}0{txt}/{res}942
+
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}       157{col 32}"18-24"
+{col 20}       157{col 32}"25-34"
+{col 20}       157{col 32}"35-44"
+{col 20}       157{col 32}"45-54"
+{col 20}       157{col 32}"55-64"
+{col 20}       157{col 32}"65+"
 {txt}
 {com}. log close
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&age.scml
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}24 Jun 2021, 12:23:39
+ {txt}closed on:  {res}24 Jun 2021, 15:35:44
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}

@@ -61,7 +61,11 @@ merge m:m state_code state_name year using "$datatemp/cencus_pop_demo_collapsed_
 	drop if _merge == 1 // Puerto Rico
 	drop _merge
 	
-
+decode	age_group, gen(age_group_name)
+decode	race, gen(race_name)
+	
+order region_code region_name division_code division_name state_abbr state_code state_name year  age_group* race* povrate15 childpovrate15
+	
 compress
 la data "US Population by State, Race, Sex and Origin  (FIPS Code)"
 save "$datatemp/data_usa_demo&age_race", replace 
@@ -103,9 +107,11 @@ merge m:m year state_name age_group using "$datatemp/comorbidities_diabetes_BRFS
 order region_code region_name division_code division_name state_abbr state_code state_name year age	///
 	povrate15 childpovrate15 obese_pct highbloodpress_pct diabetes_pct
 	 
+decode	age_group, gen(age_group_name) 
+
 compress
 la data "US Population by State, Race, Sex and Origin  (FIPS Code)"
-save "$datatemp/data_usa_demo&others", replace 
+save "$datatemp/data_usa_demo&age", replace 
 export delimited using "$datafinal/data_usa_demo&age.csv", replace nolabel
 
 log using "$datatemp/data_usa_demo&age.scml", replace
@@ -115,6 +121,32 @@ translate	///
 	"$datatemp/data_usa_demo&age.scml"	///
 	"$datafinal/data_usa_demo&age_CODEBOOK.pdf", translator(smcl2pdf)
 
+	*Reshape data into wide format
+	drop age_group_name
+	drop employment*
+	ren * *_
+	reshape wide povrate15_ childpovrate15_ obese_pct_ highbloodpress_pct_ diabetes_pct_ foodinsec_15_17_ popestimate_ npopchg_ births_ deaths_ naturalinc_ internationalmig_ domesticmig_ netmig_ residual_ rbirth_ rdeath_ rnaturalinc_ rinternationalmig_ rdomesticmig_ rnetmig_ percap_real_inc_	///
+		, i(division_* region_* state_* year) j(age_group)
+
+		ren division_code_ division_code  
+		ren division_name_ division_name
+		ren state_abbr_ state_abbr 
+		ren state_code_ state_code 
+		ren state_name_ state_name
+		ren year_ year
+	
+	order division_* region_* state_* year	///
+		obese_pct_* highbloodpress_pct_* diabetes_pct_*
+		
+	compress
+	export delimited using "$datafinal/data_usa_demo&age_wide.csv", replace nolabel
+
+	log using "$datatemp/data_usa_demo&age_wide.scml", replace
+	codebook
+	log close
+	translate	///
+		"$datatemp/data_usa_demo&age_wide.scml"	///
+		"$datafinal/data_usa_demo&age_wide_CODEBOOK.pdf", translator(smcl2pdf)
 
 
 
@@ -139,6 +171,8 @@ merge m:m year state_name race using "$datatemp/comorbidities_diabetes_BRFSS_rac
 	*drop if _merge == 1
 	drop _merge
 	 
+decode	race, gen(race_name)
+ 
 order region_code region_name division_code division_name state_abbr state_code state_name year race	///
 	povrate15 childpovrate15 obese_pct highbloodpress_pct diabetes_pct
 	 
@@ -153,6 +187,33 @@ log close
 translate	///
 	"$datatemp/data_usa_demo&race.scml"	///
 	"$datafinal/data_usa_demo&race_CODEBOOK.pdf", translator(smcl2pdf)
+	
+	*Reshape data into wide format
+	drop race_name
+	drop employment*
+	ren * *_
+	reshape wide povrate15_ childpovrate15_ obese_pct_ highbloodpress_pct_ diabetes_pct_ foodinsec_15_17_ popestimate_ npopchg_ births_ deaths_ naturalinc_ internationalmig_ domesticmig_ netmig_ residual_ rbirth_ rdeath_ rnaturalinc_ rinternationalmig_ rdomesticmig_ rnetmig_ percap_real_inc_	///
+		, i(division_* region_* state_* year) j(race)
+
+		ren division_code_ division_code  
+		ren division_name_ division_name
+		ren state_abbr_ state_abbr 
+		ren state_code_ state_code 
+		ren state_name_ state_name
+		ren year_ year
+	
+	order division_* region_* state_* year	///
+		obese_pct_* highbloodpress_pct_* diabetes_pct_*
+	
+	compress
+	export delimited using "$datafinal/data_usa_demo&race_wide.csv", replace nolabel
+
+	log using "$datatemp/data_usa_demo&race_wide.scml", replace
+	codebook
+	log close
+	translate	///
+		"$datatemp/data_usa_demo&race_wide.scml"	///
+		"$datafinal/data_usa_demo&race_wide_CODEBOOK.pdf", translator(smcl2pdf)
 *===============================================================================
 
 

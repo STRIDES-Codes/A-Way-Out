@@ -1,0 +1,2129 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&age_wide.scml
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}24 Jun 2021, 15:35:44
+{txt}
+{com}.         codebook
+
+{txt}{hline}
+{res}division_code{right:Division}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}byte{txt})
+{ralign 22:Label}: {res:division_code}
+
+{col 18}Range: [{res}1{txt},{res}9{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}9{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 13}Tabulation: Freq.   Numeric  Label
+{col 20}{res}        18{col 32}       1{col 42}{txt}New England
+{col 20}{res}         9{col 32}       2{col 42}{txt}Middle Atlantic
+{col 20}{res}        15{col 32}       3{col 42}{txt}East North Central
+{col 20}{res}        21{col 32}       4{col 42}{txt}West North Central
+{col 20}{res}        27{col 32}       5{col 42}{txt}South Atlantic
+{col 20}{res}        12{col 32}       6{col 42}{txt}East South Central
+{col 20}{res}        12{col 32}       7{col 42}{txt}West South Central
+{col 20}{res}        24{col 32}       8{col 42}{txt}Mountain
+{col 20}{res}        15{col 32}       9{col 42}{txt}Pacific
+{col 20}{res}         4{col 32}       .{col 42}
+
+{txt}{hline}
+{res}division_name{right:Division_name}
+{txt}{hline}
+
+{col 19}Type: String ({res}str18{txt})
+
+{col 10}Unique values: {res}9{col 51}{txt}Missing "": {res}4{txt}/{res}157
+
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}         4{col 32}""
+{col 20}        15{col 32}"East North Central"
+{col 20}        12{col 32}"East South Central"
+{col 20}         9{col 32}"Middle Atlantic"
+{col 20}        24{col 32}"Mountain"
+{col 20}        18{col 32}"New England"
+{col 20}        15{col 32}"Pacific"
+{col 20}        27{col 32}"South Atlantic"
+{col 20}        21{col 32}"West North Central"
+{col 20}        12{col 32}"West South Central"
+
+{txt}{col 16}Warning: Variable has embedded blanks.
+
+{txt}{hline}
+{res}region_code_{right:Region}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}byte{txt})
+{ralign 22:Label}: {res:region_code}
+
+{col 18}Range: [{res}1{txt},{res}4{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}4{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 13}Tabulation: Freq.   Numeric  Label
+{col 20}{res}        27{col 32}       1{col 42}{txt}Northeast
+{col 20}{res}        36{col 32}       2{col 42}{txt}Midwest
+{col 20}{res}        51{col 32}       3{col 42}{txt}South
+{col 20}{res}        39{col 32}       4{col 42}{txt}West
+{col 20}{res}         4{col 32}       .{col 42}
+
+{txt}{hline}
+{res}region_name_{right:Region_name}
+{txt}{hline}
+
+{col 19}Type: String ({res}str9{txt})
+
+{col 10}Unique values: {res}4{col 51}{txt}Missing "": {res}4{txt}/{res}157
+
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}         4{col 32}""
+{col 20}        36{col 32}"Midwest"
+{col 20}        27{col 32}"Northeast"
+{col 20}        51{col 32}"South"
+{col 20}        39{col 32}"West"
+
+{txt}{hline}
+{res}state_abbr{right:Abbreviation State}
+{txt}{hline}
+
+{col 19}Type: String ({res}str2{txt})
+
+{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}157
+
+{txt}{col 15}Examples: {res}"GA"
+{col 25}"MA"
+{col 25}"NH"
+{col 25}"SC"
+
+{txt}{hline}
+{res}state_code{right:State-level FIPS code}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}byte{txt})
+{ralign 22:Label}: {res:state_code}
+
+{col 18}Range: [{res}1{txt},{res}56{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{ralign 23: Examples:}{col 25}{res}13{col 31}{txt}Georgia
+{ralign 23: }{col 25}{res}24{col 31}{txt}Maryland
+{ralign 23: }{col 25}{res}35{col 31}{txt}New Mexico
+{ralign 23: }{col 25}{res}46{col 31}{txt}South Dakota
+
+{txt}{hline}
+{res}state_name{right:US State}
+{txt}{hline}
+
+{col 19}Type: String ({res}str20{txt})
+
+{col 10}Unique values: {res}53{col 51}{txt}Missing "": {res}0{txt}/{res}157
+
+{txt}{col 15}Examples: {res}"Georgia"
+{col 25}"Maine"
+{col 25}"New Jersey"
+{col 25}"South Carolina"
+
+{txt}{col 16}Warning: Variable has embedded blanks.
+
+{txt}{hline}
+{res}year{right:Year}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}2017{txt},{res}2019{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}3{col 51}{txt}Missing .: {res}0{txt}/{res}157
+
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}        51{col 32}2017
+{col 20}        53{col 32}2018
+{col 20}        53{col 32}2019
+
+{txt}{hline}
+{res}obese_pct_1{right:1 obese_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}9.5{txt},{res}29.5{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}100{col 51}{txt}Missing .: {res}1{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:18.6795}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.13757}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:13}{ralign 10:    15.7}{ralign 10:    18.4}{ralign 10:    21.2}{ralign 10:    24.3}
+
+{txt}{hline}
+{res}obese_pct_2{right:2 obese_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}18.7{txt},{res}40.8{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}102{col 51}{txt}Missing .: {res}1{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:30.1103}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.85857}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:23.4}{ralign 10:   26.85}{ralign 10:    30.2}{ralign 10:    33.7}{ralign 10:    36.3}
+
+{txt}{hline}
+{res}obese_pct_3{right:3 obese_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}21.1{txt},{res}46.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}104{col 51}{txt}Missing .: {res}1{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34.7801}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.13316}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:28.4}{ralign 10:    30.9}{ralign 10:   34.85}{ralign 10:   38.75}{ralign 10:    41.1}
+
+{txt}{hline}
+{res}obese_pct_4{right:4 obese_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}26{txt},{res}50.2{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}104{col 51}{txt}Missing .: {res}1{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:37.4609}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.00327}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:30.6}{ralign 10:    33.8}{ralign 10:    37.8}{ralign 10:   40.65}{ralign 10:    43.7}
+
+{txt}{hline}
+{res}obese_pct_5{right:5 obese_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}22.2{txt},{res}45.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}100{col 51}{txt}Missing .: {res}1{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:35.7462}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.52552}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:30}{ralign 10:   32.65}{ralign 10:    36.2}{ralign 10:   39.15}{ralign 10:    41.6}
+
+{txt}{hline}
+{res}obese_pct_6{right:6 obese_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}17.4{txt},{res}36.4{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}88{col 51}{txt}Missing .: {res}1{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:29.1083}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.54046}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:24.5}{ralign 10:    26.8}{ralign 10:    29.3}{ralign 10:    31.9}{ralign 10:    33.3}
+
+{txt}{hline}
+{res}highbloodpress_pct_1{right:1 highbloodpress_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}4.6{txt},{res}14{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}47{col 51}{txt}Missing .: {res}67{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:7.99111}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.00984}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:5.65}{ralign 10:     6.3}{ralign 10:    7.95}{ralign 10:       9}{ralign 10:    10.6}
+
+{txt}{hline}
+{res}highbloodpress_pct_2{right:2 highbloodpress_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.7{txt},{res}22.7{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}63{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:13.5893}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.84194}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.4}{ralign 10:    11.5}{ralign 10:    13.4}{ralign 10:    14.9}{ralign 10:    17.2}
+
+{txt}{hline}
+{res}highbloodpress_pct_3{right:3 highbloodpress_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}14.5{txt},{res}34.2{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}78{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:21.4796}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.5957}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:16.8}{ralign 10:    18.1}{ralign 10:    20.6}{ralign 10:    23.3}{ralign 10:    28.8}
+
+{txt}{hline}
+{res}highbloodpress_pct_4{right:4 highbloodpress_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}24.3{txt},{res}49{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}85{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34.1816}
+{txt}{col 14}Std. dev.: {res}{ralign 7:6.05957}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:27.3}{ralign 10:    29.8}{ralign 10:    32.9}{ralign 10:    37.1}{ralign 10:    43.8}
+
+{txt}{hline}
+{res}highbloodpress_pct_5{right:5 highbloodpress_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}37.4{txt},{res}62.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}80{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:47.3845}
+{txt}{col 14}Std. dev.: {res}{ralign 7:6.09746}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:39.9}{ralign 10:    43.2}{ralign 10:    45.9}{ralign 10:    50.8}{ralign 10:    56.3}
+
+{txt}{hline}
+{res}highbloodpress_pct_6{right:6 highbloodpress_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}52.3{txt},{res}71.8{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}81{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:60.4165}
+{txt}{col 14}Std. dev.: {res}{ralign 7:4.39179}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:55}{ralign 10:    57.2}{ralign 10:    59.9}{ralign 10:    63.4}{ralign 10:    66.8}
+
+{txt}{hline}
+{res}diabetes_pct_1{right:1 diabetes_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}1{txt},{res}2.4{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}2{col 51}{txt}Missing .: {res}155{txt}/{res}157
+
+{txt}{col 13}Tabulation: Freq.  Value
+{col 20}{res}         1{col 32}1
+{col 20}         1{col 32}2.4
+{col 20}       155{col 32}.
+
+{txt}{hline}
+{res}diabetes_pct_2{right:2 diabetes_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}1.2{txt},{res}4.2{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}23{col 51}{txt}Missing .: {res}104{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:2.29623}
+{txt}{col 14}Std. dev.: {res}{ralign 7:.692254}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1.4}{ralign 10:     1.7}{ralign 10:     2.2}{ralign 10:     2.9}{ralign 10:       3}
+
+{txt}{hline}
+{res}diabetes_pct_3{right:3 diabetes_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}2.4{txt},{res}9.1{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}49{col 51}{txt}Missing .: {res}59{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:5.42551}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.54448}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:3.5}{ralign 10:     4.3}{ralign 10:     5.2}{ralign 10:     6.7}{ralign 10:     7.7}
+
+{txt}{hline}
+{res}diabetes_pct_4{right:4 diabetes_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}6.5{txt},{res}18.2{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}61{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:11.1718}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.58276}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:8.2}{ralign 10:     9.3}{ralign 10:      11}{ralign 10:    12.5}{ralign 10:    15.2}
+
+{txt}{hline}
+{res}diabetes_pct_5{right:5 diabetes_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}8.4{txt},{res}26.4{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}75{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:17.0864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.7053}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:12.3}{ralign 10:    14.4}{ralign 10:      17}{ralign 10:    19.8}{ralign 10:    21.7}
+
+{txt}{hline}
+{res}diabetes_pct_6{right:6 diabetes_pct_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}14.9{txt},{res}35.2{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}66{col 51}{txt}Missing .: {res}54{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 6:22.134}
+{txt}{col 14}Std. dev.: {res}{ralign 6:3.5841}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 6:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 6:17.7}{ralign 10:    19.4}{ralign 10:    21.7}{ralign 10:    24.4}{ralign 10:    26.7}
+
+{txt}{hline}
+{res}povrate15_1{right:1 povrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}9.6125{txt},{res}25.22439{txt}]{col 55}Units: {res}1.000e-08
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:15.3137}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.88638}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.7241}{ralign 10: 11.8667}{ralign 10: 14.5875}{ralign 10:  18.397}{ralign 10: 21.1758}
+
+{txt}{hline}
+{res}childpovrate15_1{right:1 childpovrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}13.1375{txt},{res}35.652439{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:21.7849}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.88606}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14.6345}{ralign 10:    16.7}{ralign 10: 20.5812}{ralign 10: 27.2761}{ralign 10: 30.4043}
+
+{txt}{hline}
+{res}foodinsec_15_17_1{right:1 foodinsec_15_17_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.4{txt},{res}17.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:12.3216}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.3629}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:9.5}{ralign 10:    10.7}{ralign 10:    12.1}{ralign 10:    13.6}{ralign 10:      15}
+
+{txt}{hline}
+{res}popestimate_1{right:1 popestimate_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}577601{txt},{res}39512223{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:6.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:872868}{ralign 10: 1.8e+06}{ralign 10: 4.5e+06}{ralign 10: 7.4e+06}{ralign 10: 1.3e+07}
+
+{txt}{hline}
+{res}npopchg_1{right:1 npopchg_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-76790{txt},{res}380863{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34628.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:70983.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-4871}{ralign 10:    1158}{ralign 10:   10179}{ralign 10:   43486}{ralign 10:  103091}
+
+{txt}{hline}
+{res}births_1{right:1 births_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5537{txt},{res}481943{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:75282.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:87727.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10683}{ralign 10:   18870}{ralign 10:   54428}{ralign 10:   87338}{ralign 10:  137982}
+
+{txt}{hline}
+{res}deaths_1{right:1 deaths_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4463{txt},{res}282520{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:55213}
+{txt}{col 14}Std. dev.: {res}{ralign 7:56267.7}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7337}{ralign 10:   14551}{ralign 10:   40329}{ralign 10:   67950}{ralign 10:  122177}
+
+{txt}{hline}
+{res}naturalinc_1{right:1 naturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-4679{txt},{res}216702{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:20069.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36857.5}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1229}{ralign 10:    4555}{ralign 10:    9761}{ralign 10:   22108}{ralign 10:   33662}
+
+{txt}{hline}
+{res}internationalmig_1{right:1 internationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-992{txt},{res}160385{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:24804.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:513}{ralign 10:    2039}{ralign 10:    5296}{ralign 10:   15011}{ralign 10:   32574}
+
+{txt}{hline}
+{res}domesticmig_1{right:1 domesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-203414{txt},{res}164257{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:52110.4}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-27406}{ralign 10:  -12281}{ralign 10:   -1012}{ralign 10:   15588}{ralign 10:   49680}
+
+{txt}{hline}
+{res}netmig_1{right:1 netmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-134896{txt},{res}324642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57591.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-12486}{ralign 10:   -4998}{ralign 10:    4220}{ralign 10:   21841}{ralign 10:   61579}
+
+{txt}{hline}
+{res}residual_1{right:1 residual_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}-628{txt},{res}829{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}121{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:204.387}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-180}{ralign 10:     -66}{ralign 10:     -13}{ralign 10:      45}{ralign 10:     199}
+
+{txt}{hline}
+{res}rbirth_1{right:1 rbirth_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}8.84867{txt},{res}16.201117{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:11.7864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.32141}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.0954}{ralign 10: 11.0702}{ralign 10: 11.7676}{ralign 10: 12.3526}{ralign 10: 13.5095}
+
+{txt}{hline}
+{res}rdeath_1{right:1 rdeath_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}5.4856443{txt},{res}12.687407{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:8.9498}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.29197}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.44249}{ralign 10: 8.18309}{ralign 10: 8.84318}{ralign 10: 9.82518}{ralign 10: 10.5615}
+
+{txt}{hline}
+{res}rnaturalinc_1{right:1 rnaturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-2.6020191{txt},{res}10.385957{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:2.83657}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.23182}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.468283}{ralign 10: 1.51177}{ralign 10: 2.67915}{ralign 10: 3.96831}{ralign 10: 5.42317}
+
+{txt}{hline}
+{res}rinternationalmig_1{right:1 rinternationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-.3308185{txt},{res}7.715066{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:1.81494}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.43806}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.474096}{ralign 10: .817703}{ralign 10:  1.4249}{ralign 10: 2.42832}{ralign 10: 3.76098}
+
+{txt}{hline}
+{res}rdomesticmig_1{right:1 rdomesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-14.587355{txt},{res}15.890627{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:.248632}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.16388}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-6.63475}{ralign 10:-3.70377}{ralign 10:-.441108}{ralign 10: 4.90227}{ralign 10: 7.90132}
+
+{txt}{hline}
+{res}rnetmig_1{right:1 rnetmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-13.859139{txt},{res}15.616388{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:2.06357}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.03568}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-5.34278}{ralign 10:-1.53342}{ralign 10: .923429}{ralign 10: 6.53861}{ralign 10: 10.8789}
+
+{txt}{hline}
+{res}percap_real_inc_1{right:1 percap_real_inc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}40794{txt},{res}67277{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:50380.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5421.38}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:43897}{ralign 10:   46775}{ralign 10:   49640}{ralign 10:   53596}{ralign 10:   56194}
+
+{txt}{hline}
+{res}povrate15_2{right:2 povrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}9.6125{txt},{res}25.22439{txt}]{col 55}Units: {res}1.000e-08
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:15.3137}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.88638}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.7241}{ralign 10: 11.8667}{ralign 10: 14.5875}{ralign 10:  18.397}{ralign 10: 21.1758}
+
+{txt}{hline}
+{res}childpovrate15_2{right:2 childpovrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}13.1375{txt},{res}35.652439{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:21.7849}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.88606}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14.6345}{ralign 10:    16.7}{ralign 10: 20.5812}{ralign 10: 27.2761}{ralign 10: 30.4043}
+
+{txt}{hline}
+{res}foodinsec_15_17_2{right:2 foodinsec_15_17_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.4{txt},{res}17.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:12.3216}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.3629}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:9.5}{ralign 10:    10.7}{ralign 10:    12.1}{ralign 10:    13.6}{ralign 10:      15}
+
+{txt}{hline}
+{res}popestimate_2{right:2 popestimate_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}577601{txt},{res}39512223{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:6.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:872868}{ralign 10: 1.8e+06}{ralign 10: 4.5e+06}{ralign 10: 7.4e+06}{ralign 10: 1.3e+07}
+
+{txt}{hline}
+{res}npopchg_2{right:2 npopchg_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-76790{txt},{res}380863{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34628.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:70983.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-4871}{ralign 10:    1158}{ralign 10:   10179}{ralign 10:   43486}{ralign 10:  103091}
+
+{txt}{hline}
+{res}births_2{right:2 births_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5537{txt},{res}481943{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:75282.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:87727.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10683}{ralign 10:   18870}{ralign 10:   54428}{ralign 10:   87338}{ralign 10:  137982}
+
+{txt}{hline}
+{res}deaths_2{right:2 deaths_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4463{txt},{res}282520{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:55213}
+{txt}{col 14}Std. dev.: {res}{ralign 7:56267.7}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7337}{ralign 10:   14551}{ralign 10:   40329}{ralign 10:   67950}{ralign 10:  122177}
+
+{txt}{hline}
+{res}naturalinc_2{right:2 naturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-4679{txt},{res}216702{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:20069.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36857.5}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1229}{ralign 10:    4555}{ralign 10:    9761}{ralign 10:   22108}{ralign 10:   33662}
+
+{txt}{hline}
+{res}internationalmig_2{right:2 internationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-992{txt},{res}160385{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:24804.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:513}{ralign 10:    2039}{ralign 10:    5296}{ralign 10:   15011}{ralign 10:   32574}
+
+{txt}{hline}
+{res}domesticmig_2{right:2 domesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-203414{txt},{res}164257{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:52110.4}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-27406}{ralign 10:  -12281}{ralign 10:   -1012}{ralign 10:   15588}{ralign 10:   49680}
+
+{txt}{hline}
+{res}netmig_2{right:2 netmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-134896{txt},{res}324642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57591.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-12486}{ralign 10:   -4998}{ralign 10:    4220}{ralign 10:   21841}{ralign 10:   61579}
+
+{txt}{hline}
+{res}residual_2{right:2 residual_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}-628{txt},{res}829{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}121{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:204.387}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-180}{ralign 10:     -66}{ralign 10:     -13}{ralign 10:      45}{ralign 10:     199}
+
+{txt}{hline}
+{res}rbirth_2{right:2 rbirth_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}8.84867{txt},{res}16.201117{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:11.7864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.32141}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.0954}{ralign 10: 11.0702}{ralign 10: 11.7676}{ralign 10: 12.3526}{ralign 10: 13.5095}
+
+{txt}{hline}
+{res}rdeath_2{right:2 rdeath_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}5.4856443{txt},{res}12.687407{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:8.9498}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.29197}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.44249}{ralign 10: 8.18309}{ralign 10: 8.84318}{ralign 10: 9.82518}{ralign 10: 10.5615}
+
+{txt}{hline}
+{res}rnaturalinc_2{right:2 rnaturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-2.6020191{txt},{res}10.385957{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:2.83657}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.23182}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.468283}{ralign 10: 1.51177}{ralign 10: 2.67915}{ralign 10: 3.96831}{ralign 10: 5.42317}
+
+{txt}{hline}
+{res}rinternationalmig_2{right:2 rinternationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-.3308185{txt},{res}7.715066{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:1.81494}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.43806}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.474096}{ralign 10: .817703}{ralign 10:  1.4249}{ralign 10: 2.42832}{ralign 10: 3.76098}
+
+{txt}{hline}
+{res}rdomesticmig_2{right:2 rdomesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-14.587355{txt},{res}15.890627{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:.248632}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.16388}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-6.63475}{ralign 10:-3.70377}{ralign 10:-.441108}{ralign 10: 4.90227}{ralign 10: 7.90132}
+
+{txt}{hline}
+{res}rnetmig_2{right:2 rnetmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-13.859139{txt},{res}15.616388{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:2.06357}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.03568}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-5.34278}{ralign 10:-1.53342}{ralign 10: .923429}{ralign 10: 6.53861}{ralign 10: 10.8789}
+
+{txt}{hline}
+{res}percap_real_inc_2{right:2 percap_real_inc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}40794{txt},{res}67277{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:50380.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5421.38}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:43897}{ralign 10:   46775}{ralign 10:   49640}{ralign 10:   53596}{ralign 10:   56194}
+
+{txt}{hline}
+{res}povrate15_3{right:3 povrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}9.6125{txt},{res}25.22439{txt}]{col 55}Units: {res}1.000e-08
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:15.3137}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.88638}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.7241}{ralign 10: 11.8667}{ralign 10: 14.5875}{ralign 10:  18.397}{ralign 10: 21.1758}
+
+{txt}{hline}
+{res}childpovrate15_3{right:3 childpovrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}13.1375{txt},{res}35.652439{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:21.7849}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.88606}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14.6345}{ralign 10:    16.7}{ralign 10: 20.5812}{ralign 10: 27.2761}{ralign 10: 30.4043}
+
+{txt}{hline}
+{res}foodinsec_15_17_3{right:3 foodinsec_15_17_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.4{txt},{res}17.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:12.3216}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.3629}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:9.5}{ralign 10:    10.7}{ralign 10:    12.1}{ralign 10:    13.6}{ralign 10:      15}
+
+{txt}{hline}
+{res}popestimate_3{right:3 popestimate_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}577601{txt},{res}39512223{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:6.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:872868}{ralign 10: 1.8e+06}{ralign 10: 4.5e+06}{ralign 10: 7.4e+06}{ralign 10: 1.3e+07}
+
+{txt}{hline}
+{res}npopchg_3{right:3 npopchg_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-76790{txt},{res}380863{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34628.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:70983.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-4871}{ralign 10:    1158}{ralign 10:   10179}{ralign 10:   43486}{ralign 10:  103091}
+
+{txt}{hline}
+{res}births_3{right:3 births_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5537{txt},{res}481943{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:75282.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:87727.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10683}{ralign 10:   18870}{ralign 10:   54428}{ralign 10:   87338}{ralign 10:  137982}
+
+{txt}{hline}
+{res}deaths_3{right:3 deaths_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4463{txt},{res}282520{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:55213}
+{txt}{col 14}Std. dev.: {res}{ralign 7:56267.7}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7337}{ralign 10:   14551}{ralign 10:   40329}{ralign 10:   67950}{ralign 10:  122177}
+
+{txt}{hline}
+{res}naturalinc_3{right:3 naturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-4679{txt},{res}216702{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:20069.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36857.5}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1229}{ralign 10:    4555}{ralign 10:    9761}{ralign 10:   22108}{ralign 10:   33662}
+
+{txt}{hline}
+{res}internationalmig_3{right:3 internationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-992{txt},{res}160385{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:24804.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:513}{ralign 10:    2039}{ralign 10:    5296}{ralign 10:   15011}{ralign 10:   32574}
+
+{txt}{hline}
+{res}domesticmig_3{right:3 domesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-203414{txt},{res}164257{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:52110.4}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-27406}{ralign 10:  -12281}{ralign 10:   -1012}{ralign 10:   15588}{ralign 10:   49680}
+
+{txt}{hline}
+{res}netmig_3{right:3 netmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-134896{txt},{res}324642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57591.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-12486}{ralign 10:   -4998}{ralign 10:    4220}{ralign 10:   21841}{ralign 10:   61579}
+
+{txt}{hline}
+{res}residual_3{right:3 residual_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}-628{txt},{res}829{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}121{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:204.387}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-180}{ralign 10:     -66}{ralign 10:     -13}{ralign 10:      45}{ralign 10:     199}
+
+{txt}{hline}
+{res}rbirth_3{right:3 rbirth_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}8.84867{txt},{res}16.201117{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:11.7864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.32141}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.0954}{ralign 10: 11.0702}{ralign 10: 11.7676}{ralign 10: 12.3526}{ralign 10: 13.5095}
+
+{txt}{hline}
+{res}rdeath_3{right:3 rdeath_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}5.4856443{txt},{res}12.687407{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:8.9498}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.29197}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.44249}{ralign 10: 8.18309}{ralign 10: 8.84318}{ralign 10: 9.82518}{ralign 10: 10.5615}
+
+{txt}{hline}
+{res}rnaturalinc_3{right:3 rnaturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-2.6020191{txt},{res}10.385957{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:2.83657}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.23182}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.468283}{ralign 10: 1.51177}{ralign 10: 2.67915}{ralign 10: 3.96831}{ralign 10: 5.42317}
+
+{txt}{hline}
+{res}rinternationalmig_3{right:3 rinternationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-.3308185{txt},{res}7.715066{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:1.81494}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.43806}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.474096}{ralign 10: .817703}{ralign 10:  1.4249}{ralign 10: 2.42832}{ralign 10: 3.76098}
+
+{txt}{hline}
+{res}rdomesticmig_3{right:3 rdomesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-14.587355{txt},{res}15.890627{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:.248632}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.16388}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-6.63475}{ralign 10:-3.70377}{ralign 10:-.441108}{ralign 10: 4.90227}{ralign 10: 7.90132}
+
+{txt}{hline}
+{res}rnetmig_3{right:3 rnetmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-13.859139{txt},{res}15.616388{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:2.06357}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.03568}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-5.34278}{ralign 10:-1.53342}{ralign 10: .923429}{ralign 10: 6.53861}{ralign 10: 10.8789}
+
+{txt}{hline}
+{res}percap_real_inc_3{right:3 percap_real_inc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}40794{txt},{res}67277{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:50380.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5421.38}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:43897}{ralign 10:   46775}{ralign 10:   49640}{ralign 10:   53596}{ralign 10:   56194}
+
+{txt}{hline}
+{res}povrate15_4{right:4 povrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}9.6125{txt},{res}25.22439{txt}]{col 55}Units: {res}1.000e-08
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:15.3137}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.88638}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.7241}{ralign 10: 11.8667}{ralign 10: 14.5875}{ralign 10:  18.397}{ralign 10: 21.1758}
+
+{txt}{hline}
+{res}childpovrate15_4{right:4 childpovrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}13.1375{txt},{res}35.652439{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:21.7849}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.88606}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14.6345}{ralign 10:    16.7}{ralign 10: 20.5812}{ralign 10: 27.2761}{ralign 10: 30.4043}
+
+{txt}{hline}
+{res}foodinsec_15_17_4{right:4 foodinsec_15_17_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.4{txt},{res}17.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:12.3216}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.3629}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:9.5}{ralign 10:    10.7}{ralign 10:    12.1}{ralign 10:    13.6}{ralign 10:      15}
+
+{txt}{hline}
+{res}popestimate_4{right:4 popestimate_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}577601{txt},{res}39512223{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:6.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:872868}{ralign 10: 1.8e+06}{ralign 10: 4.5e+06}{ralign 10: 7.4e+06}{ralign 10: 1.3e+07}
+
+{txt}{hline}
+{res}npopchg_4{right:4 npopchg_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-76790{txt},{res}380863{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34628.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:70983.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-4871}{ralign 10:    1158}{ralign 10:   10179}{ralign 10:   43486}{ralign 10:  103091}
+
+{txt}{hline}
+{res}births_4{right:4 births_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5537{txt},{res}481943{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:75282.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:87727.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10683}{ralign 10:   18870}{ralign 10:   54428}{ralign 10:   87338}{ralign 10:  137982}
+
+{txt}{hline}
+{res}deaths_4{right:4 deaths_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4463{txt},{res}282520{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:55213}
+{txt}{col 14}Std. dev.: {res}{ralign 7:56267.7}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7337}{ralign 10:   14551}{ralign 10:   40329}{ralign 10:   67950}{ralign 10:  122177}
+
+{txt}{hline}
+{res}naturalinc_4{right:4 naturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-4679{txt},{res}216702{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:20069.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36857.5}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1229}{ralign 10:    4555}{ralign 10:    9761}{ralign 10:   22108}{ralign 10:   33662}
+
+{txt}{hline}
+{res}internationalmig_4{right:4 internationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-992{txt},{res}160385{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:24804.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:513}{ralign 10:    2039}{ralign 10:    5296}{ralign 10:   15011}{ralign 10:   32574}
+
+{txt}{hline}
+{res}domesticmig_4{right:4 domesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-203414{txt},{res}164257{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:52110.4}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-27406}{ralign 10:  -12281}{ralign 10:   -1012}{ralign 10:   15588}{ralign 10:   49680}
+
+{txt}{hline}
+{res}netmig_4{right:4 netmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-134896{txt},{res}324642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57591.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-12486}{ralign 10:   -4998}{ralign 10:    4220}{ralign 10:   21841}{ralign 10:   61579}
+
+{txt}{hline}
+{res}residual_4{right:4 residual_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}-628{txt},{res}829{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}121{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:204.387}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-180}{ralign 10:     -66}{ralign 10:     -13}{ralign 10:      45}{ralign 10:     199}
+
+{txt}{hline}
+{res}rbirth_4{right:4 rbirth_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}8.84867{txt},{res}16.201117{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:11.7864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.32141}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.0954}{ralign 10: 11.0702}{ralign 10: 11.7676}{ralign 10: 12.3526}{ralign 10: 13.5095}
+
+{txt}{hline}
+{res}rdeath_4{right:4 rdeath_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}5.4856443{txt},{res}12.687407{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:8.9498}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.29197}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.44249}{ralign 10: 8.18309}{ralign 10: 8.84318}{ralign 10: 9.82518}{ralign 10: 10.5615}
+
+{txt}{hline}
+{res}rnaturalinc_4{right:4 rnaturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-2.6020191{txt},{res}10.385957{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:2.83657}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.23182}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.468283}{ralign 10: 1.51177}{ralign 10: 2.67915}{ralign 10: 3.96831}{ralign 10: 5.42317}
+
+{txt}{hline}
+{res}rinternationalmig_4{right:4 rinternationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-.3308185{txt},{res}7.715066{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:1.81494}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.43806}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.474096}{ralign 10: .817703}{ralign 10:  1.4249}{ralign 10: 2.42832}{ralign 10: 3.76098}
+
+{txt}{hline}
+{res}rdomesticmig_4{right:4 rdomesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-14.587355{txt},{res}15.890627{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:.248632}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.16388}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-6.63475}{ralign 10:-3.70377}{ralign 10:-.441108}{ralign 10: 4.90227}{ralign 10: 7.90132}
+
+{txt}{hline}
+{res}rnetmig_4{right:4 rnetmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-13.859139{txt},{res}15.616388{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:2.06357}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.03568}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-5.34278}{ralign 10:-1.53342}{ralign 10: .923429}{ralign 10: 6.53861}{ralign 10: 10.8789}
+
+{txt}{hline}
+{res}percap_real_inc_4{right:4 percap_real_inc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}40794{txt},{res}67277{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:50380.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5421.38}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:43897}{ralign 10:   46775}{ralign 10:   49640}{ralign 10:   53596}{ralign 10:   56194}
+
+{txt}{hline}
+{res}povrate15_5{right:5 povrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}9.6125{txt},{res}25.22439{txt}]{col 55}Units: {res}1.000e-08
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:15.3137}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.88638}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.7241}{ralign 10: 11.8667}{ralign 10: 14.5875}{ralign 10:  18.397}{ralign 10: 21.1758}
+
+{txt}{hline}
+{res}childpovrate15_5{right:5 childpovrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}13.1375{txt},{res}35.652439{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:21.7849}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.88606}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14.6345}{ralign 10:    16.7}{ralign 10: 20.5812}{ralign 10: 27.2761}{ralign 10: 30.4043}
+
+{txt}{hline}
+{res}foodinsec_15_17_5{right:5 foodinsec_15_17_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.4{txt},{res}17.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:12.3216}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.3629}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:9.5}{ralign 10:    10.7}{ralign 10:    12.1}{ralign 10:    13.6}{ralign 10:      15}
+
+{txt}{hline}
+{res}popestimate_5{right:5 popestimate_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}577601{txt},{res}39512223{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:6.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:872868}{ralign 10: 1.8e+06}{ralign 10: 4.5e+06}{ralign 10: 7.4e+06}{ralign 10: 1.3e+07}
+
+{txt}{hline}
+{res}npopchg_5{right:5 npopchg_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-76790{txt},{res}380863{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34628.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:70983.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-4871}{ralign 10:    1158}{ralign 10:   10179}{ralign 10:   43486}{ralign 10:  103091}
+
+{txt}{hline}
+{res}births_5{right:5 births_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5537{txt},{res}481943{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:75282.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:87727.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10683}{ralign 10:   18870}{ralign 10:   54428}{ralign 10:   87338}{ralign 10:  137982}
+
+{txt}{hline}
+{res}deaths_5{right:5 deaths_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4463{txt},{res}282520{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:55213}
+{txt}{col 14}Std. dev.: {res}{ralign 7:56267.7}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7337}{ralign 10:   14551}{ralign 10:   40329}{ralign 10:   67950}{ralign 10:  122177}
+
+{txt}{hline}
+{res}naturalinc_5{right:5 naturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-4679{txt},{res}216702{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:20069.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36857.5}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1229}{ralign 10:    4555}{ralign 10:    9761}{ralign 10:   22108}{ralign 10:   33662}
+
+{txt}{hline}
+{res}internationalmig_5{right:5 internationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-992{txt},{res}160385{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:24804.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:513}{ralign 10:    2039}{ralign 10:    5296}{ralign 10:   15011}{ralign 10:   32574}
+
+{txt}{hline}
+{res}domesticmig_5{right:5 domesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-203414{txt},{res}164257{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:52110.4}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-27406}{ralign 10:  -12281}{ralign 10:   -1012}{ralign 10:   15588}{ralign 10:   49680}
+
+{txt}{hline}
+{res}netmig_5{right:5 netmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-134896{txt},{res}324642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57591.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-12486}{ralign 10:   -4998}{ralign 10:    4220}{ralign 10:   21841}{ralign 10:   61579}
+
+{txt}{hline}
+{res}residual_5{right:5 residual_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}-628{txt},{res}829{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}121{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:204.387}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-180}{ralign 10:     -66}{ralign 10:     -13}{ralign 10:      45}{ralign 10:     199}
+
+{txt}{hline}
+{res}rbirth_5{right:5 rbirth_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}8.84867{txt},{res}16.201117{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:11.7864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.32141}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.0954}{ralign 10: 11.0702}{ralign 10: 11.7676}{ralign 10: 12.3526}{ralign 10: 13.5095}
+
+{txt}{hline}
+{res}rdeath_5{right:5 rdeath_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}5.4856443{txt},{res}12.687407{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:8.9498}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.29197}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.44249}{ralign 10: 8.18309}{ralign 10: 8.84318}{ralign 10: 9.82518}{ralign 10: 10.5615}
+
+{txt}{hline}
+{res}rnaturalinc_5{right:5 rnaturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-2.6020191{txt},{res}10.385957{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:2.83657}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.23182}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.468283}{ralign 10: 1.51177}{ralign 10: 2.67915}{ralign 10: 3.96831}{ralign 10: 5.42317}
+
+{txt}{hline}
+{res}rinternationalmig_5{right:5 rinternationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-.3308185{txt},{res}7.715066{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:1.81494}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.43806}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.474096}{ralign 10: .817703}{ralign 10:  1.4249}{ralign 10: 2.42832}{ralign 10: 3.76098}
+
+{txt}{hline}
+{res}rdomesticmig_5{right:5 rdomesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-14.587355{txt},{res}15.890627{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:.248632}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.16388}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-6.63475}{ralign 10:-3.70377}{ralign 10:-.441108}{ralign 10: 4.90227}{ralign 10: 7.90132}
+
+{txt}{hline}
+{res}rnetmig_5{right:5 rnetmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-13.859139{txt},{res}15.616388{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:2.06357}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.03568}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-5.34278}{ralign 10:-1.53342}{ralign 10: .923429}{ralign 10: 6.53861}{ralign 10: 10.8789}
+
+{txt}{hline}
+{res}percap_real_inc_5{right:5 percap_real_inc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}40794{txt},{res}67277{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:50380.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5421.38}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:43897}{ralign 10:   46775}{ralign 10:   49640}{ralign 10:   53596}{ralign 10:   56194}
+
+{txt}{hline}
+{res}povrate15_6{right:6 povrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}9.6125{txt},{res}25.22439{txt}]{col 55}Units: {res}1.000e-08
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:15.3137}
+{txt}{col 14}Std. dev.: {res}{ralign 7:3.88638}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.7241}{ralign 10: 11.8667}{ralign 10: 14.5875}{ralign 10:  18.397}{ralign 10: 21.1758}
+
+{txt}{hline}
+{res}childpovrate15_6{right:6 childpovrate15_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}13.1375{txt},{res}35.652439{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:21.7849}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5.88606}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:14.6345}{ralign 10:    16.7}{ralign 10: 20.5812}{ralign 10: 27.2761}{ralign 10: 30.4043}
+
+{txt}{hline}
+{res}foodinsec_15_17_6{right:6 foodinsec_15_17_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}double{txt})
+
+{col 18}Range: [{res}7.4{txt},{res}17.9{txt}]{col 55}Units: {res}.1
+{col 10}{txt}Unique values: {res}51{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:12.3216}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.3629}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:9.5}{ralign 10:    10.7}{ralign 10:    12.1}{ralign 10:    13.6}{ralign 10:      15}
+
+{txt}{hline}
+{res}popestimate_6{right:6 popestimate_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}577601{txt},{res}39512223{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:6.4e+06}
+{txt}{col 14}Std. dev.: {res}{ralign 7:7.3e+06}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:872868}{ralign 10: 1.8e+06}{ralign 10: 4.5e+06}{ralign 10: 7.4e+06}{ralign 10: 1.3e+07}
+
+{txt}{hline}
+{res}npopchg_6{right:6 npopchg_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-76790{txt},{res}380863{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:34628.8}
+{txt}{col 14}Std. dev.: {res}{ralign 7:70983.9}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-4871}{ralign 10:    1158}{ralign 10:   10179}{ralign 10:   43486}{ralign 10:  103091}
+
+{txt}{hline}
+{res}births_6{right:6 births_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}5537{txt},{res}481943{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:75282.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:87727.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10683}{ralign 10:   18870}{ralign 10:   54428}{ralign 10:   87338}{ralign 10:  137982}
+
+{txt}{hline}
+{res}deaths_6{right:6 deaths_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}4463{txt},{res}282520{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:55213}
+{txt}{col 14}Std. dev.: {res}{ralign 7:56267.7}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7337}{ralign 10:   14551}{ralign 10:   40329}{ralign 10:   67950}{ralign 10:  122177}
+
+{txt}{hline}
+{res}naturalinc_6{right:6 naturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-4679{txt},{res}216702{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:20069.5}
+{txt}{col 14}Std. dev.: {res}{ralign 7:36857.5}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:1229}{ralign 10:    4555}{ralign 10:    9761}{ralign 10:   22108}{ralign 10:   33662}
+
+{txt}{hline}
+{res}internationalmig_6{right:6 internationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-992{txt},{res}160385{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}152{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:24804.3}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:513}{ralign 10:    2039}{ralign 10:    5296}{ralign 10:   15011}{ralign 10:   32574}
+
+{txt}{hline}
+{res}domesticmig_6{right:6 domesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-203414{txt},{res}164257{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:52110.4}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-27406}{ralign 10:  -12281}{ralign 10:   -1012}{ralign 10:   15588}{ralign 10:   49680}
+
+{txt}{hline}
+{res}netmig_6{right:6 netmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}long{txt})
+
+{col 18}Range: [{res}-134896{txt},{res}324642{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:14559.3}
+{txt}{col 14}Std. dev.: {res}{ralign 7:57591.8}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-12486}{ralign 10:   -4998}{ralign 10:    4220}{ralign 10:   21841}{ralign 10:   61579}
+
+{txt}{hline}
+{res}residual_6{right:6 residual_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}int{txt})
+
+{col 18}Range: [{res}-628{txt},{res}829{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}121{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:0}
+{txt}{col 14}Std. dev.: {res}{ralign 7:204.387}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:-180}{ralign 10:     -66}{ralign 10:     -13}{ralign 10:      45}{ralign 10:     199}
+
+{txt}{hline}
+{res}rbirth_6{right:6 rbirth_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}8.84867{txt},{res}16.201117{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:11.7864}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.32141}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:10.0954}{ralign 10: 11.0702}{ralign 10: 11.7676}{ralign 10: 12.3526}{ralign 10: 13.5095}
+
+{txt}{hline}
+{res}rdeath_6{right:6 rdeath_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}5.4856443{txt},{res}12.687407{txt}]{col 55}Units: {res}1.000e-07
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:8.9498}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.29197}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:7.44249}{ralign 10: 8.18309}{ralign 10: 8.84318}{ralign 10: 9.82518}{ralign 10: 10.5615}
+
+{txt}{hline}
+{res}rnaturalinc_6{right:6 rnaturalinc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-2.6020191{txt},{res}10.385957{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:2.83657}
+{txt}{col 14}Std. dev.: {res}{ralign 7:2.23182}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.468283}{ralign 10: 1.51177}{ralign 10: 2.67915}{ralign 10: 3.96831}{ralign 10: 5.42317}
+
+{txt}{hline}
+{res}rinternationalmig_6{right:6 rinternationalmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-.3308185{txt},{res}7.715066{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:1.81494}
+{txt}{col 14}Std. dev.: {res}{ralign 7:1.43806}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:.474096}{ralign 10: .817703}{ralign 10:  1.4249}{ralign 10: 2.42832}{ralign 10: 3.76098}
+
+{txt}{hline}
+{res}rdomesticmig_6{right:6 rdomesticmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-14.587355{txt},{res}15.890627{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:.248632}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.16388}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-6.63475}{ralign 10:-3.70377}{ralign 10:-.441108}{ralign 10: 4.90227}{ralign 10: 7.90132}
+
+{txt}{hline}
+{res}rnetmig_6{right:6 rnetmig_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}-13.859139{txt},{res}15.616388{txt}]{col 55}Units: {res}1.000e-09
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 8:2.06357}
+{txt}{col 14}Std. dev.: {res}{ralign 8:6.03568}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 8:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 8:-5.34278}{ralign 10:-1.53342}{ralign 10: .923429}{ralign 10: 6.53861}{ralign 10: 10.8789}
+
+{txt}{hline}
+{res}percap_real_inc_6{right:6 percap_real_inc_}
+{txt}{hline}
+
+{col 19}Type: Numeric ({res}float{txt})
+
+{col 18}Range: [{res}40794{txt},{res}67277{txt}]{col 55}Units: {res}1
+{col 10}{txt}Unique values: {res}153{col 51}{txt}Missing .: {res}4{txt}/{res}157
+
+{txt}{col 19}Mean: {res}{ralign 7:50380.1}
+{txt}{col 14}Std. dev.: {res}{ralign 7:5421.38}
+
+{txt}{col 12}Percentiles: {col 25}{ralign 7:10%}{ralign 10:25%}{ralign 10:50%}{ralign 10:75%}{ralign 10:90%}
+{res}{col 25}{ralign 7:43897}{ralign 10:   46775}{ralign 10:   49640}{ralign 10:   53596}{ralign 10:   56194}
+{txt}
+{com}.         log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\NXDin\GitHub\STRIDES-Codes\A-Way-Out\Data_Process\DinhNguyen/DATATEMP/data_usa_demo&age_wide.scml
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}24 Jun 2021, 15:35:44
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
