@@ -1,0 +1,783 @@
+"Year","Locationabbr","Locationdesc","Class","Topic","Question","Response","Break_Out_Category","Break_Out","Sample_Size","Data_value","Data_value_unit","Confidence_limit_Low","Confidence_limit_High"
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",2,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",4,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",16,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",38,8.8,"%",5.5,12.2
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",89,12.6,"%",9.3,16
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",151,16.4,"%",12.5,20.3
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",20,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",5,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",4,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",6,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",11,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",5,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",4,NA,"%",NA,NA
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",300,7.3,"%",6.1,8.5
+2019,"AK","Alaska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",245,8.6,"%",7.1,10
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",15,1.8,"%",0.8,2.7
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",53,6.5,"%",4.5,8.6
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",155,14.6,"%",12.1,17.2
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",350,25.3,"%",22.4,28.2
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",709,25.9,"%",23.8,27.9
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",18,15.3,"%",6.6,24
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",5,NA,"%",NA,NA
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",433,17.4,"%",15.4,19.4
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",9,NA,"%",NA,NA
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",13,NA,"%",NA,NA
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",11,NA,"%",NA,NA
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1286,14,"%",13,14.9
+2019,"AL","Alabama","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",795,13.2,"%",12.1,14.4
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",2,NA,"%",NA,NA
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",9,NA,"%",NA,NA
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",39,7.4,"%",4.8,9.9
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",109,18.2,"%",14.5,21.8
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",200,19.8,"%",16.9,22.8
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",645,25.3,"%",23.1,27.5
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",10,NA,"%",NA,NA
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",2,NA,"%",NA,NA
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",217,18.5,"%",14.7,22.3
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",20,8.2,"%",3.9,12.6
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",27,14.2,"%",7.2,21.2
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",11,NA,"%",NA,NA
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1004,13.6,"%",12.5,14.8
+2019,"AR","Arkansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",716,13.3,"%",12,14.5
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",6,NA,"%",NA,NA
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",23,NA,"%",NA,NA
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",56,5.5,"%",3.3,7.7
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",148,10.3,"%",7.4,13.1
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",307,20,"%",16.6,23.4
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",723,20.6,"%",18.4,22.8
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",164,21.1,"%",14.8,27.5
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",9,NA,"%",NA,NA
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",42,17.8,"%",11.3,24.3
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",213,12,"%",9.5,14.4
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",21,NA,"%",NA,NA
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",33,9.6,"%",4,15.1
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1263,10.9,"%",9.9,12
+2019,"AZ","Arizona","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",780,9.5,"%",8.4,10.5
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",10,NA,"%",NA,NA
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",26,1.6,"%",0.9,2.2
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",94,4.9,"%",3.7,6.1
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",204,11.4,"%",9.6,13.2
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",351,16.5,"%",14.3,18.7
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",618,22.8,"%",20.7,24.9
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",13,NA,"%",NA,NA
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",62,7.9,"%",5.6,10.2
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",89,14.8,"%",11.1,18.6
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",580,12.3,"%",11.2,13.5
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",27,11,"%",6.4,15.7
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",3,NA,"%",NA,NA
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",25,17,"%",9.9,24.1
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1303,10.1,"%",9.4,10.8
+2019,"CA","California","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",504,8,"%",7.1,8.9
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",6,NA,"%",NA,NA
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",13,NA,"%",NA,NA
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",42,3.8,"%",2.6,5.1
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",93,6.5,"%",5,7.9
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",195,12,"%",10.2,13.8
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",485,15.5,"%",14,17
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",6,NA,"%",NA,NA
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",7,NA,"%",NA,NA
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",31,9.6,"%",5.7,13.5
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",185,10.6,"%",8.9,12.4
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",16,7.7,"%",3.2,12.2
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",7,NA,"%",NA,NA
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",834,7,"%",6.4,7.6
+2019,"CO","Colorado","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",581,6,"%",5.4,6.6
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",16,2.4,"%",1.2,3.7
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",32,4.1,"%",2.4,5.7
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",129,9.6,"%",7.8,11.5
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",268,13.9,"%",12,15.8
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",618,19,"%",17.2,20.7
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",8,NA,"%",NA,NA
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",19,6.8,"%",3.2,10.4
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",116,15.7,"%",12.4,18.9
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",87,10.1,"%",7.8,12.5
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",21,14.3,"%",7.5,21.1
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",24,17.4,"%",9.2,25.6
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1068,9.6,"%",8.8,10.3
+2019,"CT","Connecticut","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",791,8.5,"%",7.7,9.2
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",0,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",7,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",14,3.5,"%",1.7,5.4
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",30,8.8,"%",5.4,12.2
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",94,22,"%",17.2,26.8
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",196,22.8,"%",19.4,26.2
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",1,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",6,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",281,17.7,"%",15.2,20.1
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",7,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",3,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",2,NA,"%",NA,NA
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",341,8.7,"%",7.5,9.8
+2019,"DC","District of Columbia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",40,2.1,"%",1.4,2.8
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",2,NA,"%",NA,NA
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",13,NA,"%",NA,NA
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",30,7.2,"%",4,10.5
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",78,12.6,"%",9.1,16.1
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",141,18.1,"%",14.5,21.6
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",298,24.8,"%",21.5,28.2
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",10,NA,"%",NA,NA
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",9,NA,"%",NA,NA
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",91,17.5,"%",13.3,21.8
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",57,10.6,"%",6,15.3
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",9,NA,"%",NA,NA
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",10,NA,"%",NA,NA
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",562,12.8,"%",11.4,14.2
+2019,"DE","Delaware","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",375,11.8,"%",10.3,13.2
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",6,NA,"%",NA,NA
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",43,1.7,"%",0.9,2.6
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",110,4.1,"%",2.7,5.5
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",269,9.3,"%",7.1,11.5
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",589,18.5,"%",15.3,21.7
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",1663,23.5,"%",21.5,25.5
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",31,NA,"%",NA,NA
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",16,NA,"%",NA,NA
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",383,15.8,"%",12.7,18.9
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",264,10.4,"%",8,12.8
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",83,15.3,"%",8,22.6
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",5,NA,"%",NA,NA
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",23,NA,"%",NA,NA
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",2680,11.7,"%",10.8,12.6
+2019,"FL","Florida","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1875,11.4,"%",10.5,12.4
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",8,NA,"%",NA,NA
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",22,3,"%",1.4,4.6
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",71,6.8,"%",4.6,9
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",153,12.8,"%",9.9,15.6
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",319,19.9,"%",16.9,22.9
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",645,24.5,"%",22.1,26.9
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",7,NA,"%",NA,NA
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",10,NA,"%",NA,NA
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",390,15,"%",12.7,17.2
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",64,7.2,"%",4.1,10.4
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",20,NA,"%",NA,NA
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",23,22.1,"%",9.3,35
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1218,12,"%",11,13
+2019,"GA","Georgia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",704,11.5,"%",10.3,12.7
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",0,NA,"%",NA,NA
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",13,NA,"%",NA,NA
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",31,8.5,"%",4.8,12.1
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",81,16.8,"%",12,21.6
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",103,23,"%",16.9,29.1
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",153,31.1,"%",23.6,38.6
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",0,NA,"%",NA,NA
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",105,9.1,"%",6.5,11.8
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",0,NA,"%",NA,NA
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",20,NA,"%",NA,NA
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",36,14.1,"%",7.8,20.3
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",193,14.3,"%",11.3,17.3
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",381,11.7,"%",10,13.4
+2019,"GU","Guam","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",22,6.6,"%",2.8,10.4
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",6,NA,"%",NA,NA
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",23,2.9,"%",1.4,4.4
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",60,5.4,"%",3.9,7
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",123,11.7,"%",9.2,14.1
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",234,16,"%",13.5,18.4
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",479,19.5,"%",17.4,21.5
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",3,NA,"%",NA,NA
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",330,12,"%",10.5,13.6
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",7,NA,"%",NA,NA
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",74,10.8,"%",7.4,14.1
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",183,12.8,"%",10.6,15
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",124,12.4,"%",9.8,15
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",6,NA,"%",NA,NA
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",925,10.5,"%",9.6,11.3
+2019,"HI","Hawaii","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",198,6.2,"%",5,7.3
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",10,NA,"%",NA,NA
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",26,2.7,"%",1.5,3.8
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",55,4.3,"%",3.1,5.6
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",143,10.2,"%",8.4,11.9
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",302,16.4,"%",14.5,18.2
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",691,20.4,"%",18.8,22
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",9,NA,"%",NA,NA
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",6,NA,"%",NA,NA
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",33,14.8,"%",9.4,20.3
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",38,6.3,"%",4.1,8.6
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",9,NA,"%",NA,NA
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",1,NA,"%",NA,NA
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1227,10.3,"%",9.6,10.9
+2019,"IA","Iowa","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1129,10.4,"%",9.8,11.1
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",15,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",47,6,"%",3.7,8.2
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",86,11.7,"%",8.4,15.1
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",143,13.2,"%",10.1,16.4
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",410,22.4,"%",19.6,25.3
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",7,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",1,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",5,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",59,14.4,"%",9.6,19.3
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",11,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",8,NA,"%",NA,NA
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",706,10.3,"%",9.2,11.4
+2019,"ID","Idaho","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",615,9.7,"%",8.6,10.8
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",9,NA,"%",NA,NA
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",41,4.6,"%",3,6.2
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",98,11.7,"%",9.2,14.2
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",184,19,"%",16.3,21.7
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",356,24.4,"%",21.8,27
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",3,NA,"%",NA,NA
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",15,NA,"%",NA,NA
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",110,12.8,"%",10.1,15.4
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",116,14.2,"%",11.4,17
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",7,NA,"%",NA,NA
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",1,NA,"%",NA,NA
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",692,11.3,"%",10.3,12.2
+2019,"IL","Illinois","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",440,10.7,"%",9.6,11.8
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",3,NA,"%",NA,NA
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",22,3,"%",1.6,4.4
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",67,7.1,"%",5.2,9
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",160,12.1,"%",10.1,14
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",346,19.2,"%",17.2,21.3
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",836,25.8,"%",24,27.6
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",13,22.6,"%",9.5,35.6
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",5,NA,"%",NA,NA
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",142,18,"%",14.3,21.7
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",48,9,"%",6.1,11.9
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",30,16.3,"%",9.4,23.1
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",19,NA,"%",NA,NA
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1434,12.4,"%",11.7,13.2
+2019,"IN","Indiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1177,12.1,"%",11.3,12.9
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",10,NA,"%",NA,NA
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",24,1.9,"%",1.1,2.8
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",73,5.7,"%",4.2,7.2
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",171,10.4,"%",8.6,12.1
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",386,17.5,"%",15.7,19.3
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",846,22.7,"%",21.2,24.3
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",20,11.2,"%",5.9,16.5
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",8,NA,"%",NA,NA
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",79,16,"%",12.2,19.8
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",61,9.7,"%",6.9,12.5
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",21,7.9,"%",4.1,11.7
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1510,10.8,"%",10.2,11.4
+2019,"KS","Kansas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1315,10.7,"%",10.1,11.4
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",9,NA,"%",NA,NA
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",21,3,"%",1.3,4.7
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",53,4.4,"%",2.9,5.9
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",202,16.4,"%",13.3,19.6
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",361,20.9,"%",17.7,24.1
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",748,25.8,"%",23.2,28.4
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",11,NA,"%",NA,NA
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",1,NA,"%",NA,NA
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",173,15,"%",10,20
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",11,NA,"%",NA,NA
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",25,NA,"%",NA,NA
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1394,13.3,"%",12.3,14.4
+2019,"KY","Kentucky","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1166,13.6,"%",12.4,14.7
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",12,NA,"%",NA,NA
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",31,5.2,"%",3.2,7.2
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",104,13.9,"%",11,16.7
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",211,20.9,"%",18,23.9
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",353,27.2,"%",24.2,30.2
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",12,NA,"%",NA,NA
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",3,NA,"%",NA,NA
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",220,15.2,"%",12.9,17.5
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",19,9.6,"%",4.5,14.6
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",13,NA,"%",NA,NA
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",10,NA,"%",NA,NA
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",715,12.6,"%",11.5,13.7
+2019,"LA","Louisiana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",437,11.5,"%",10.3,12.7
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",6,NA,"%",NA,NA
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",16,1.3,"%",0.6,2
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",37,3.6,"%",2.4,4.9
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",88,7.2,"%",5.4,9.1
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",172,13.1,"%",10.6,15.6
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",459,18.5,"%",16.4,20.5
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",5,NA,"%",NA,NA
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",14,NA,"%",NA,NA
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",65,12.9,"%",8.6,17.3
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",82,10.6,"%",7.7,13.5
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",17,10.6,"%",4.8,16.3
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",7,NA,"%",NA,NA
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",778,8.4,"%",7.6,9.2
+2019,"MA","Massachusetts","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",588,7.8,"%",7,8.6
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",29,2.2,"%",1.2,3.2
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",77,5.1,"%",3.6,6.6
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",264,12,"%",10.3,13.8
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",658,17.3,"%",15.6,19.1
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",1588,22.8,"%",21.3,24.2
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",15,NA,"%",NA,NA
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",51,11.8,"%",7.8,15.8
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",712,14.3,"%",12.9,15.6
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",54,6.7,"%",4.3,9
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",40,10.9,"%",6.6,15.2
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",5,NA,"%",NA,NA
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",34,14.9,"%",7.6,22.2
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",2621,11,"%",10.4,11.6
+2019,"MD","Maryland","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1710,9.8,"%",9.1,10.4
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",6,NA,"%",NA,NA
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",21,2.9,"%",1.4,4.3
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",46,5.5,"%",3.3,7.7
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",136,10.6,"%",8.2,13
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",352,13.7,"%",11.9,15.6
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",967,19,"%",17.5,20.5
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",13,NA,"%",NA,NA
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",3,NA,"%",NA,NA
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",8,NA,"%",NA,NA
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",26,8.2,"%",3.5,12.8
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",23,NA,"%",NA,NA
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",10,NA,"%",NA,NA
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1528,10.6,"%",9.8,11.4
+2019,"ME","Maine","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1445,10.8,"%",10,11.6
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",11,NA,"%",NA,NA
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",17,1.6,"%",0.7,2.5
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",53,5.3,"%",3.6,6.9
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",183,11.6,"%",9.7,13.6
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",309,15.8,"%",13.8,17.8
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",833,23.1,"%",21.3,24.9
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",21,17.7,"%",8.4,27
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",6,NA,"%",NA,NA
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",157,14.9,"%",12.1,17.6
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",27,9.2,"%",5.4,13.1
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",27,8.7,"%",4.9,12.5
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",6,NA,"%",NA,NA
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1406,11.1,"%",10.4,11.8
+2019,"MI","Michigan","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1162,10.9,"%",10.1,11.6
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",9,NA,"%",NA,NA
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",41,2.1,"%",1.4,2.8
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",97,4.5,"%",3.5,5.4
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",196,8.2,"%",6.9,9.6
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",372,12.3,"%",10.9,13.6
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",893,19.7,"%",18.4,21.1
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",39,16.9,"%",10.5,23.3
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",18,5.1,"%",2.5,7.7
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",63,11.1,"%",8.2,13.9
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",67,8.7,"%",6.3,11
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",22,7.6,"%",4.2,11
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",11,NA,"%",NA,NA
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1608,8.8,"%",8.3,9.3
+2019,"MN","Minnesota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1386,8.7,"%",8.2,9.3
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",15,1.3,"%",0.6,2
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",38,5,"%",3,7
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",98,10,"%",7.5,12.5
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",236,15.9,"%",13.5,18.3
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",673,21.7,"%",19.7,23.7
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",13,NA,"%",NA,NA
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",4,NA,"%",NA,NA
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",147,11.9,"%",9.2,14.7
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",14,NA,"%",NA,NA
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",17,15.3,"%",6.9,23.7
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",3,NA,"%",NA,NA
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1065,10.3,"%",9.5,11.2
+2019,"MO","Missouri","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",862,10.1,"%",9.2,11
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",3,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",13,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",52,7.7,"%",5.4,10
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",120,15.5,"%",12.4,18.6
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",280,25.2,"%",22,28.4
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",525,30.1,"%",27.4,32.8
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",14,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",2,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",480,17.6,"%",15.6,19.5
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",5,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",7,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",2,NA,"%",NA,NA
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",993,14.8,"%",13.7,15.9
+2019,"MS","Mississippi","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",481,13.4,"%",12,14.8
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",3,NA,"%",NA,NA
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",4,NA,"%",NA,NA
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",28,2.8,"%",1.6,4
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",61,8.6,"%",6.2,10.9
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",190,11.8,"%",9.8,13.7
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",397,14.9,"%",13.2,16.5
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",108,13.9,"%",10,17.8
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",2,NA,"%",NA,NA
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",3,NA,"%",NA,NA
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",16,NA,"%",NA,NA
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",26,7.4,"%",3.7,11
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",683,7.6,"%",6.9,8.3
+2019,"MT","Montana","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",521,7.2,"%",6.5,7.9
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",2,NA,"%",NA,NA
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",16,2.8,"%",1.4,4.1
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",44,6.8,"%",4.6,8.9
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",104,12.4,"%",9.7,15.1
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",154,18,"%",15.1,21
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",287,23.9,"%",21,26.8
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",25,23.3,"%",14.3,32.4
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",6,NA,"%",NA,NA
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",167,14.4,"%",12,16.8
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",43,7.8,"%",5.2,10.3
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",15,17.2,"%",7.6,26.9
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",7,NA,"%",NA,NA
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",607,11.8,"%",10.8,12.9
+2019,"NC","North Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",344,11.4,"%",10,12.7
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",1,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",8,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",22,2.4,"%",1.2,3.6
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",56,9.9,"%",6.8,12.9
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",175,15.3,"%",12.7,17.8
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",452,20.3,"%",18.2,22.3
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",57,23.2,"%",15.1,31.4
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",7,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",3,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",7,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",7,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",2,NA,"%",NA,NA
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",714,8.9,"%",8,9.8
+2019,"ND","North Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",631,8.5,"%",7.7,9.4
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",16,NA,"%",NA,NA
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",26,1.6,"%",0.7,2.4
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",90,4.7,"%",3.4,6
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",240,11.1,"%",9.4,12.8
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",498,16.3,"%",14.5,18.1
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",1220,21.3,"%",19.8,22.7
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",55,32.1,"%",21,43.3
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",8,NA,"%",NA,NA
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",56,15.5,"%",11,20
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",127,7.2,"%",5.6,8.7
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",20,NA,"%",NA,NA
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",15,NA,"%",NA,NA
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",2090,10.2,"%",9.6,10.8
+2019,"NE","Nebraska","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1808,10,"%",9.3,10.6
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",8,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",28,6.8,"%",3.9,9.7
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",75,8.5,"%",6.2,10.8
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",151,11.6,"%",9.4,13.8
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",430,17.4,"%",15.6,19.2
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",6,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",3,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",8,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",6,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",10,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",7,NA,"%",NA,NA
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",696,9.2,"%",8.3,10.1
+2019,"NH","New Hampshire","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",655,9.2,"%",8.3,10.2
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",16,2.9,"%",1.3,4.5
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",41,7.8,"%",5.1,10.5
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",112,12.5,"%",9.6,15.4
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",221,19,"%",16.1,21.8
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",455,22.9,"%",20.3,25.4
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",110,16.9,"%",12.8,21
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",3,NA,"%",NA,NA
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",13,NA,"%",NA,NA
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",336,13.9,"%",12.1,15.7
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",7,NA,"%",NA,NA
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",850,12.3,"%",11.2,13.3
+2019,"NM","New Mexico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",376,9.4,"%",8.1,10.7
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",0,NA,"%",NA,NA
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",7,NA,"%",NA,NA
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",23,8.3,"%",4.2,12.4
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",34,9.4,"%",5.4,13.3
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",69,18.2,"%",13.3,23.2
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",162,21.6,"%",17.2,26.1
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",10,NA,"%",NA,NA
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",5,NA,"%",NA,NA
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",19,13.5,"%",7.4,19.6
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",58,12.2,"%",8.9,15.6
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",8,NA,"%",NA,NA
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",3,NA,"%",NA,NA
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",295,10.9,"%",9.2,12.6
+2019,"NV","Nevada","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",191,8.8,"%",7.1,10.4
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",10,NA,"%",NA,NA
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",24,1.2,"%",0.6,1.9
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",88,5,"%",3.6,6.4
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",235,11.4,"%",9.5,13.2
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",446,16.1,"%",14,18.2
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",1024,22.3,"%",20.3,24.2
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",16,NA,"%",NA,NA
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",41,10.2,"%",6.2,14.2
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",242,14.6,"%",12.2,16.9
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",229,12.8,"%",10.9,14.7
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",24,10.4,"%",5.1,15.8
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",6,NA,"%",NA,NA
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",47,21,"%",14.2,27.7
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1827,10.5,"%",9.8,11.2
+2019,"NY","New York","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1222,8.5,"%",7.8,9.2
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",12,NA,"%",NA,NA
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",28,2,"%",1,3.1
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",73,4.6,"%",3,6.2
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",225,12.1,"%",9.9,14.3
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",530,18.4,"%",16.3,20.5
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",1425,24.3,"%",22.6,26
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",23,NA,"%",NA,NA
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",5,NA,"%",NA,NA
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",159,14.6,"%",11.4,17.8
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",34,10.8,"%",4.8,16.7
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",38,11.2,"%",5.9,16.5
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",11,NA,"%",NA,NA
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",2293,12,"%",11.2,12.7
+2019,"OH","Ohio","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",2022,11.9,"%",11.1,12.7
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",0,NA,"%",NA,NA
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",11,NA,"%",NA,NA
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",48,5.8,"%",4,7.6
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",123,14,"%",11.3,16.6
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",235,22,"%",19.1,24.9
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",554,24.6,"%",22.5,26.7
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",97,15.8,"%",12.2,19.5
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",4,NA,"%",NA,NA
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",68,15.1,"%",11.2,19
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",56,11.8,"%",8.3,15.3
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",48,10.6,"%",6.8,14.4
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",971,12.2,"%",11.3,13.1
+2019,"OK","Oklahoma","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",692,12,"%",10.9,13
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",16,2.4,"%",1,3.8
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",32,3.2,"%",2,4.3
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",84,8.6,"%",6.4,10.9
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",159,13.6,"%",11.2,16
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",322,17.3,"%",15.2,19.5
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",9,NA,"%",NA,NA
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",7,NA,"%",NA,NA
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",9,NA,"%",NA,NA
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",51,8.2,"%",5.8,10.7
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",27,12.9,"%",7.5,18.2
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",2,NA,"%",NA,NA
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",617,8.6,"%",7.8,9.4
+2019,"OR","Oregon","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",511,8.9,"%",7.9,9.8
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",12,NA,"%",NA,NA
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",42,5.2,"%",3.4,7
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",106,10.3,"%",8.1,12.6
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",204,15.6,"%",13,18.2
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",414,21.7,"%",19.2,24.2
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",7,NA,"%",NA,NA
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",12,NA,"%",NA,NA
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",125,16.1,"%",12.6,19.7
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",17,5.6,"%",2.5,8.8
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",8,NA,"%",NA,NA
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",6,NA,"%",NA,NA
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",782,10.8,"%",9.9,11.7
+2019,"PA","Pennsylvania","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",607,10.6,"%",9.5,11.6
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",19,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",63,7.1,"%",5.1,9.1
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",159,15.8,"%",13.1,18.5
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",280,26.4,"%",23.1,29.7
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",613,35.2,"%",32.5,37.9
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",0,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",1,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",2,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",1131,16.7,"%",15.6,17.8
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",0,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",2,NA,"%",NA,NA
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1139,16.7,"%",15.6,17.8
+2019,"PR","Puerto Rico","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",3,NA,"%",NA,NA
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",3,NA,"%",NA,NA
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",5,NA,"%",NA,NA
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",23,3.5,"%",1.6,5.3
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",90,10.4,"%",7.8,13
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",221,17,"%",14.3,19.6
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",474,21.4,"%",19.2,23.6
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",7,NA,"%",NA,NA
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",15,18.9,"%",8.4,29.4
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",39,11,"%",6.9,15
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",64,10.8,"%",7.3,14.4
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",16,NA,"%",NA,NA
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",2,NA,"%",NA,NA
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",12,NA,"%",NA,NA
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",816,10.4,"%",9.4,11.4
+2019,"RI","Rhode Island","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",661,9.9,"%",8.9,10.9
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",8,NA,"%",NA,NA
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",14,1.8,"%",0.8,2.8
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",41,6.1,"%",4.1,8.2
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",125,14.2,"%",11.4,16.9
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",284,20.6,"%",17.8,23.4
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",752,26.1,"%",23.9,28.3
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",16,26.8,"%",12.8,40.7
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",5,NA,"%",NA,NA
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",382,16.2,"%",14,18.4
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",17,NA,"%",NA,NA
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",20,5.8,"%",2.6,9
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",7,NA,"%",NA,NA
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1224,13.4,"%",12.4,14.4
+2019,"SC","South Carolina","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",776,12.9,"%",11.8,14
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",11,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",35,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",124,11.6,"%",7.3,16
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",183,14.3,"%",10.6,18.1
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",516,22.6,"%",19,26.1
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",208,17.9,"%",10,25.9
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",0,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",3,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",14,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",15,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",2,NA,"%",NA,NA
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",874,10.6,"%",9.1,12.1
+2019,"SD","South Dakota","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",632,10,"%",8.5,11.4
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",2,NA,"%",NA,NA
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",16,NA,"%",NA,NA
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",45,6.3,"%",4,8.6
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",175,17,"%",13.9,20
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",282,21.9,"%",18.9,24.9
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",565,27.2,"%",24.7,29.7
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",18,14.8,"%",6.8,22.7
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",6,NA,"%",NA,NA
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",166,17.4,"%",13.9,20.9
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",9,NA,"%",NA,NA
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",21,14.8,"%",6.4,23.3
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",6,NA,"%",NA,NA
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1085,13.8,"%",12.7,14.8
+2019,"TN","Tennessee","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",859,13.7,"%",12.5,14.8
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",9,NA,"%",NA,NA
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",44,3.3,"%",1.6,5
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",85,6,"%",3.8,8.2
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",246,15.4,"%",12,18.8
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",467,20.5,"%",17,24
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",1148,26.7,"%",24,29.5
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",20,NA,"%",NA,NA
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",29,7,"%",3,11
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",209,12,"%",8.8,15.3
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",595,14.1,"%",11.8,16.4
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",28,NA,"%",NA,NA
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",34,9.8,"%",4.5,15.1
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1999,12.2,"%",11.1,13.3
+2019,"TX","Texas","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1083,11.2,"%",10,12.5
+2019,"US","All States, DC and Territories (median) **","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",52,10.8,"%",NA,NA
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",20,2.4,"%",1.2,3.5
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",27,1.4,"%",0.8,2.1
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",84,5.1,"%",3.7,6.4
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",137,7.9,"%",6.3,9.4
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",279,15.1,"%",13.1,17.1
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",656,19.7,"%",18,21.3
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",26,15.8,"%",8.7,22.9
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",8,NA,"%",NA,NA
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",6,NA,"%",NA,NA
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",91,7.3,"%",5.4,9.2
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",15,NA,"%",NA,NA
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",6,NA,"%",NA,NA
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1203,8,"%",7.4,8.6
+2019,"UT","Utah","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1046,8,"%",7.4,8.6
+2019,"UW","All States and DC (median) **","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",50,10.7,"%",NA,NA
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",5,NA,"%",NA,NA
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",34,3,"%",1.8,4.2
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",63,4.7,"%",3.3,6.2
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",174,11.2,"%",9.1,13.3
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",347,17,"%",14.9,19
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",780,23.5,"%",21.6,25.4
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",9,NA,"%",NA,NA
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",14,NA,"%",NA,NA
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",332,17.4,"%",15.1,19.8
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",51,9.8,"%",6.5,13
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",37,13.5,"%",7.8,19.2
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1403,10.9,"%",10.2,11.7
+2019,"VA","Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",955,9.9,"%",9.1,10.6
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",3,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",7,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",25,4.8,"%",2.3,7.2
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",64,7,"%",4.8,9.2
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",180,12.1,"%",9.9,14.3
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",407,16.7,"%",14.7,18.8
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",11,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",2,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",4,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",4,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",19,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",7,NA,"%",NA,NA
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",686,8.7,"%",7.7,9.6
+2019,"VT","Vermont","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",639,8.7,"%",7.7,9.6
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",8,NA,"%",NA,NA
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",24,1.6,"%",0.8,2.4
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",81,5.2,"%",3.9,6.5
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",177,9.6,"%",8,11.2
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",378,15.4,"%",13.6,17.2
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",876,19.4,"%",17.9,21
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",25,15,"%",8.4,21.7
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",40,8.4,"%",5.5,11.2
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",40,13.1,"%",8.8,17.3
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",119,9.8,"%",7.8,11.8
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",46,11.7,"%",7.9,15.5
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",8,NA,"%",NA,NA
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",28,13.4,"%",7.6,19.3
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1544,9.4,"%",8.8,10
+2019,"WA","Washington","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",1238,9,"%",8.4,9.6
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",1,NA,"%",NA,NA
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",20,3.8,"%",1.9,5.8
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",52,8.2,"%",5.4,10.9
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",161,14.4,"%",12,16.9
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",339,17.6,"%",15.3,19.8
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",27,26.3,"%",11.4,41.2
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",3,NA,"%",NA,NA
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",52,9.6,"%",4,15.2
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",15,NA,"%",NA,NA
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",6,NA,"%",NA,NA
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",0,NA,"%",NA,NA
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",5,NA,"%",NA,NA
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",577,8.7,"%",7.8,9.6
+2019,"WI","Wisconsin","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",469,8.7,"%",7.7,9.6
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",4,NA,"%",NA,NA
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",14,3.7,"%",1.6,5.8
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",40,7.8,"%",5.1,10.6
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",129,16,"%",12.9,19
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",268,21.4,"%",18.6,24.1
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",584,28.9,"%",26.5,31.3
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",9,NA,"%",NA,NA
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",2,NA,"%",NA,NA
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",23,17,"%",8.9,25.1
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",7,NA,"%",NA,NA
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",11,NA,"%",NA,NA
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",3,NA,"%",NA,NA
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",1039,15.6,"%",14.5,16.8
+2019,"WV","West Virginia","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",983,15.7,"%",14.5,16.8
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","18-24",3,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","25-34",3,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","35-44",11,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","45-54",42,8.7,"%",5.7,11.7
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","55-64",88,8.4,"%",6.3,10.6
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Age Group","65+",398,19.2,"%",16.9,21.6
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","American Indian or Alaskan Native, non-Hispanic",7,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Asian, non-Hispanic",2,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Black, non-Hispanic",2,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Hispanic",26,10.2,"%",5,15.3
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Multiracial, non-Hispanic",8,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Native Hawaiian or other Pacific Islander, non-Hispanic",1,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","Other, non-Hispanic",1,NA,"%",NA,NA
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Overall","Overall",545,7.8,"%",6.9,8.8
+2019,"WY","Wyoming","Chronic Health Indicators","Diabetes","Have you ever been told by a doctor that you have diabetes?","Yes","Race/Ethnicity","White, non-Hispanic",498,7.7,"%",6.8,8.6
