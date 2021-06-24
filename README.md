@@ -44,7 +44,8 @@ Programming
 + STATA
 
 ## Workflow
-![A Way Out Flow Diagram](https://user-images.githubusercontent.com/40073377/123285191-afe92180-d4c1-11eb-8184-0f282ca26372.png)
+![A Way Out Flow Diagram](https://user-images.githubusercontent.com/40073377/123298954-e462da80-d4cd-11eb-91c8-a8fc8415f5d9.png)
+
 
 ## Output:
 _____IMAGE OF SCORE / MAGNITUDE OF CORRELATION_____
