@@ -20,8 +20,8 @@ Comorbidities
 + <a href="https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu/data">Behavioral Risk Factors Surveillance System (BRFSS) from CDC</a>
 
 Social Determinants of Health
-+ <a href="https://apps.bea.gov/regional/downloadzip.cfm">Real Personal Income by state</a>
-+ <a href="https://apps.bea.gov/regional/downloadzip.cfm">Employment by state and sector</a>
++ <a href="https://apps.bea.gov/regional/downloadzip.cfm">Real Personal Income by state from U.S. Department of Commerce</a>
++ <a href="https://apps.bea.gov/regional/downloadzip.cfm">Employment by state and sector from U.S. Department of Commerce</a>
 
 ### Outcome
 Mortality and morbidity of minority populations in the U.S. (cases and deaths).
