@@ -10,11 +10,18 @@ In an effort to address these health disparities in pandemic preparedness, we ai
 
 
 ## Methods:
-### Data Sources:
+In building an index to predict community vulnerability, this project will integrate demographic, comorbidity, population density and social determinants of health data from various data sources. A linear regression model was utilized on this integrated dataset to determine the most <predictive / impactful> features of the data: <variable 1 and variable 2, etc>. After testing the data on a validation set and evaluating the model's accuracy, we constructed an index ____ to describe a community’s vulnerability. 
 
-+ Demographic | <a href="">DATASET TITLE</a>
-+ Comorbidities | <a href="https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu/data">Behavioral Risk Factors Surveillance System (BRFSS) from CDC</a>
-+ Social Determinants of Health | <a href="">DATASET TITLE</a>
+### Data Sources:
+Demographics
++ <a href="https://www.census.gov/topics/population/age-and-sex/data/tables.html">USA Population by State, Sex, Age and Race by U.S. Census Bureau, Population Division</a>
+
+Comorbidities
++ <a href="https://chronicdata.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-P/dttw-5yxu/data">Behavioral Risk Factors Surveillance System (BRFSS) from CDC</a>
+
+Social Determinants of Health
++ <a href="https://apps.bea.gov/regional/downloadzip.cfm">Real Personal Income by state</a>
++ <a href="https://apps.bea.gov/regional/downloadzip.cfm">Employment by state and sector</a>
 
 ### Outcome
 Mortality and morbidity of minority populations in the U.S. (cases and deaths).
@@ -23,7 +30,7 @@ Mortality and morbidity of minority populations in the U.S. (cases and deaths).
 These variables included comorbidities of a presence of hypertension, obesity, or diabetes diagnosis. 
 
 ### Technologies:
-<br>
+Programming
 + Jupyter Notebook
 + Python
 + Pandas
