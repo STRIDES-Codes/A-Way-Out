@@ -22,6 +22,9 @@ Social Determinants of Health
 + <a href="https://apps.bea.gov/regional/downloadzip.cfm">Real Personal Income by state from U.S. Department of Commerce</a>
 + <a href="https://apps.bea.gov/regional/downloadzip.cfm">Employment by state and sector from U.S. Department of Commerce</a>
 
+Outcomes
++ <a href="https://covidtracking.com/analysis-updates/federal-covid-data-101-how-to-find-data">Cass and deaths by state from The COVID Tracking Project</a>
+
 ### Outcome
 Mortality and morbidity of minority populations in the U.S. by states (cases and deaths).
 
