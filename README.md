@@ -6,7 +6,7 @@
 Since the beginning of the COVID-19 pandemic, the disproportionate impact on BIPOC (Black and Indigenous People of Color) communities has been catastrophic. Generations of health disparities manifest in wide-spread co-morbidities such as hypertension, obesity, and diabetes(1) have made these communities extremely vulnerable. Compounding the problem is the often lack of adequate medical resources within the community. All of these factors have created a preparedness vacuum leaving the most vulnerable of society exposed, infected, and dead.
 
 ## Our approach
-In an effort to address these health disparities in pandemic preparedness, we aim to assist in deciding where and how to distribute resources equitably by constructing a composite impact score to assess which communities may be more vulnerable to the impacts of the COVID pandemic.
+In an effort to address these health disparities in pandemic preparedness, we aim to assist in deciding where and how to distribute resources equitably by constructing a composite impact score  to assess which communities may be more vulnerable to the impacts of the COVID pandemic.
 
 ## Methods:
 In building an index to predict community vulnerability, this project will integrate demographic, comorbidity, population density and social determinants of health data from various data sources. A linear regression model was utilized on this integrated dataset to determine the most <predictive / impactful> features of the data: <variable 1 and variable 2, etc>. After testing the data on a validation set and evaluating the model's accuracy, we constructed an index ____ to describe a community’s vulnerability. 
@@ -23,10 +23,10 @@ Social Determinants of Health
 + <a href="https://apps.bea.gov/regional/downloadzip.cfm">Employment by state and sector from U.S. Department of Commerce</a>
 
 ### Outcome
-Mortality and morbidity of minority populations in the U.S. (cases and deaths).
+Mortality and morbidity of minority populations in the U.S. by states (cases and deaths).
 
 ### Study variables
-These variables included comorbidities of a presence of hypertension, obesity, or diabetes diagnosis. 
+These variables included comorbidities (presence of hypertension, obesity, or diabetes diagnosis), social determinants of health (food insecurity, income) and demographics (race/ethnicity, age).
 
 ### Technologies:
 Programming
