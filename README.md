@@ -36,10 +36,9 @@ Programming
 + NumPy
 + Matplotlib
 + Seaborn 
-+ Copy
-+ Json
 + RStudio
 + dplyr
++ tidyverse
 + STATA
 
 ## Workflow
