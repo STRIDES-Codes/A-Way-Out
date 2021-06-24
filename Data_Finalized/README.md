@@ -26,3 +26,5 @@ Social Determinants of Health
 
 Outcomes
 + <a href="https://covidtracking.com/analysis-updates/federal-covid-data-101-how-to-find-data">Cass and deaths by state from The COVID Tracking Project</a>
+
+Contact: Dinh Nguyen - N.X.Dinh@outlook.com
